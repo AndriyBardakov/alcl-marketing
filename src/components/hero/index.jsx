@@ -12,7 +12,7 @@ const index = () => {
       className="bg-primary text-white text-center py-5"
       style={{
         backgroundImage:
-          "url(public/images/source/5.png)",
+          "url(/images/source/5.png)",
         backgroundSize: "cover",
         marginTop: "150px",
         height: "300px",

@@ -8,7 +8,7 @@ const Section3 = () => {
       className="bg-primary text-white text-center py-5"
       style={{
         backgroundImage:
-          "url(public/images/source/5.png)",
+          "url(/images/source/5.png)",
         backgroundSize: "cover",
         padding: "5% 10%",
         minHeight: "450px",

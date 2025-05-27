@@ -21,7 +21,7 @@ const Section1 = () => {
 
         <div className="image-column col-lg-6 col-md-12 col-sm-12">
           <figure className="image" data-aos="zoom-in">
-            <img src="public/images/source/img_3.png" alt="about" />
+            <img src="/images/source/img_3.png" alt="about" />
           </figure>
         </div>
       </div>
