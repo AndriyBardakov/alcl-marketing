@@ -10,10 +10,8 @@ const Section1 = () => {
           <div className="inner-column " data-aos="fade-left">
             <div className="sec-title">
               <div className="text fs-5">
-                ALCL Marketing prides itself in not just being a part of your
-                daily cravings, but more so on the fact that ALCL Marketing
-                helps build businesses and promote livelihood for their market,
-                the common Filipino.
+                ALCL has had a long-standing partnership with NATIONAL BAKING
+                TEACHER & CULINARY INFLUENCER, Chef Emily Peralta!
               </div>
             </div>
           </div>

@@ -9,13 +9,13 @@ const index = () => {
     //   </div>
     // </section>
     <section
-      className="bg-primary text-white text-center py-5"
+      className="alcl-hero bg-primary text-white text-center py-5"
       style={{
         backgroundImage:
           "url(/images/source/5.png)",
         backgroundSize: "cover",
-        marginTop: "150px",
-        height: "300px",
+        // marginTop: "150px",
+        // height: "300px",
       }}
     >
       <div className="container d-flex flex-column justify-content-center align-items-center h-100">

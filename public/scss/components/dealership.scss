@@ -6,13 +6,25 @@ Dealership Section
 
 ***/
 
+.dealership-hero {
+  height: 450px;
+
+  @media (max-width: 767px) {
+    height: 200px;
+  }
+}
+
 .dealership-header {
   padding-top: 220px;
 
-  h1 {
-    font-weight: 900;
-    font-size: 50px;
+  @media (max-width: 767px) {
+    padding-top: 60px;
   }
+
+  // h1 {
+  //   font-weight: 900;
+  //   font-size: 50px;
+  // }
 }
 
 .dealership-content {

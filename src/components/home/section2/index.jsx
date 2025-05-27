@@ -55,13 +55,13 @@ const Section2 = () => {
           <div className="inner-column " data-aos="fade-up">
             <div className="sec-title">
               <div className="text text-white text-left fs-5">
-                With inJoy, we believe that this is our way to enable aspiring
-                business owners an opportunity to start with just a small
-                capital. We’ve seen many success stories with their inJoy
-                business through their hard work, dedication and innovative
-                spirit. That is what inspires us to continue creating products
-                for you. At the heart of inJoy is to see you achieve your dreams
-                and provide delicious and affordable products to every Filipino.
+                Sarap ng lasa, sarap ng kita! The mantra of ALCL Marketing rings
+                true in all their products aiming to improve and supplement the
+                creativity of flavors and the Filipino desire for business. ALCL
+                Marketing prides itself in not just being a part of your daily
+                cravings, but more so on the fact that ALCL Marketing helps
+                build businesses and promote livelihood for their market, the
+                common Filipino.
               </div>
             </div>
           </div>

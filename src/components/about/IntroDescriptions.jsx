@@ -19,7 +19,7 @@ const IntroDescriptions = () => {
             We are pleased to offer you our line of flavoring powders together
             with our alkalized cocoa powder, chocolate powder mix and
             all-purpose breading mix. We supply very affordable and high quality
-            products for the benefit of your business
+            products for the benefit of your business.
           </p>
         </div>
       </div>

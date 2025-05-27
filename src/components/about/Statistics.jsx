@@ -8,7 +8,7 @@ const Statistics = () => {
       <section
         className="bg-primary text-white text-center py-5"
         style={{
-          backgroundImage: "url(/src/assets/images/5.png)",
+          backgroundImage: "url(/images/source/5.png)",
           backgroundSize: "cover",
           padding: "",
         }}
