@@ -8,8 +8,7 @@ const Section3 = () => {
       className="bg-primary text-white text-center py-5"
       style={{
         backgroundImage:
-          // "url(https://doxo.com.ph/wp-content/uploads/2020/01/Dealer.png)",
-          "url(/src/assets/images/5.png)",
+          "url(public/images/source/5.png)",
         backgroundSize: "cover",
         padding: "5% 10%",
         minHeight: "450px",

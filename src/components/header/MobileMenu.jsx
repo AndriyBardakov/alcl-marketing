@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import MobileSidebar from "./mobile-sidebar";
-import Logo from "../../assets/images/logo.png";
+import Logo from "../../../public/images/source/logo.png"; // Adjust the path as necessary
 
 
 const MobileMenu = () => {

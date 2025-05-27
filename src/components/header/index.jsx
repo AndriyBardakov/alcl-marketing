@@ -4,8 +4,7 @@
 import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import HeaderNavContent from "./HeaderNavContent";
-import Logo from "../../assets/images/logo.png";
-import LogoBlue from "../../assets/images/Logo_blue.png";
+import LogoBlue from "public/images/source/Logo_blue.png";
 
 
 const DefaulHeader = () => {

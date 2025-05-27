@@ -45,7 +45,7 @@ const Section2 = () => {
     <section
       className="bg-primary text-white text-center"
       style={{
-        backgroundImage: "url(/src/assets/images/5.png)",
+        backgroundImage: "url(public/images/source/5.png)",
         backgroundSize: "cover",
         padding: "5% 20%",
       }}
@@ -72,31 +72,31 @@ const Section2 = () => {
             <Slider {...carouselConfig}>
               <div>
                 <img
-                  src="/src/assets/images/sampaloc/DSC04981_11zon.jpg"
+                  src="public/images/source/sampaloc/DSC04981_11zon.jpg"
                   alt="sampaloc"
                 />
               </div>
               <div>
                 <img
-                  src="/src/assets/images/sampaloc/DSC05002_11zon.jpg"
+                  src="public/images/source/sampaloc/DSC05002_11zon.jpg"
                   alt="sampaloc"
                 />
               </div>
               <div>
                 <img
-                  src="/src/assets/images/sampaloc/DSC05035_11zon.jpg"
+                  src="public/images/source/sampaloc/DSC05035_11zon.jpg"
                   alt="sampaloc"
                 />
               </div>
               <div>
                 <img
-                  src="/src/assets/images/sampaloc/DSC05055_11zon.jpg"
+                  src="public/images/source/sampaloc/DSC05055_11zon.jpg"
                   alt="sampaloc"
                 />
               </div>
               <div>
                 <img
-                  src="/src/assets/images/sampaloc/DSC05068_11zon.jpg"
+                  src="public/images/source/sampaloc/DSC05068_11zon.jpg"
                   alt="sampaloc"
                 />
               </div>

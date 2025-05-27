@@ -25,7 +25,7 @@ const Content = () => {
         <div className="row">
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
             <figure className="image" data-aos="fade-right">
-              <img src="/src/assets/images/dealers.jpg" alt="dealers" />
+              <img src="public/images/source/dealers.jpg" alt="dealers" />
             </figure>
           </div>
           <div className="content-column col-lg-6 col-md-12 col-sm-12">
@@ -118,7 +118,7 @@ const Content = () => {
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
             <figure className="image" data-aos="fade-left">
               <img
-                src="/src/assets/images/dealers_distributors.jpg"
+                src="public/images/source/dealers_distributors.jpg"
                 alt="dealers"
               />
             </figure>
