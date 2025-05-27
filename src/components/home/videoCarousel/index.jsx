@@ -20,7 +20,6 @@ const VideoFrame = memo(({ src }) => {
 const carouselConfig = {
   dots: true,
   infinite: true,
-  speed: 500,
   slidesToShow: 1,
   slidesToScroll: 1,
   autoplay: true,
