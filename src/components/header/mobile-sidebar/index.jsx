@@ -1,12 +1,4 @@
-
-
-import {
-
-  Sidebar,
-  Menu,
-  MenuItem,
-  SubMenu,
-} from "react-pro-sidebar";
+import { Sidebar, Menu, MenuItem, SubMenu } from "react-pro-sidebar";
 
 import { mobileMenuData } from "../../../data/mobileMenuData";
 import SidebarFooter from "./SidebarFooter";
@@ -24,6 +16,13 @@ const Index = () => {
 
   const navigate = useNavigate();
 
+  const handleNavigate = (menuItem) => {
+    if (menuItem?.external) {
+      window.open(menuItem.routePath, "_blank", "rel=noopener noreferrer");
+      return;
+    }
+    navigate(menuItem.routePath);
+  };
 
   return (
     <div
@@ -50,7 +49,7 @@ const Index = () => {
               >
                 {item.items.map((menuItem, i) => (
                   <MenuItem
-                    onClick={() => navigate(menuItem.routePath)}
+                    onClick={() => handleNavigate(menuItem)}
                     className={
                       isActiveLink(menuItem.routePath, pathname)
                         ? "menu-active-link"
@@ -65,7 +64,7 @@ const Index = () => {
               </SubMenu>
             ) : (
               <MenuItem
-                onClick={() => navigate(item.routePath)}
+                onClick={() => handleNavigate(item)}
                 className={
                   isActiveLink(item.routePath, pathname)
                     ? "menu-active-link"
