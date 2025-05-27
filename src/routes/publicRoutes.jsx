@@ -1,5 +1,5 @@
 import { Navigate } from "react-router-dom";
-import Home from "@/pages/Home";
+import Home from "../pages/home";
 import Contact from "../pages/contact";
 import Dealership from "../pages/dealership";
 import About from "../pages/about";
