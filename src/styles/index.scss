@@ -1,0 +1,5 @@
+@use "sass:meta";
+@import "../../node_modules/slick-carousel/slick/slick.css";
+@include meta.load-css("../../node_modules/slick-carousel/slick/slick-theme.scss");
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@include meta.load-css("../../public/scss/main.scss");

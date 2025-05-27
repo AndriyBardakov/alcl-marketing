@@ -1,0 +1,127 @@
+/* 
+Superio | Job Portal & Job Board ReactJs Template
+
+Template Name: Superio
+Author: ib-themes
+Version: 1.4.0
+
+
+/*** 
+
+====================================================================
+Fonts
+====================================================================
+
+***/
+@use "icons.scss";
+@use "flaticon.scss";
+@use "fontawesome-all.scss";
+@use "line-awesome.scss";
+@use "custom-slick.scss";
+@use "../../node_modules/react-modal-video/scss/modal-video.scss";
+
+/*** 
+
+====================================================================
+Reset
+====================================================================
+
+***/
+
+/*** 
+
+====================================================================
+Global Settings
+====================================================================
+
+***/
+
+@use "base/base.scss";
+@use "base/forms.scss";
+@use "base/typography.scss";
+@use "base/utilities.scss";
+
+@use "components/about.scss";
+@use "components/dealership.scss";
+@use "components/accordion.scss";
+@use "components/ads.scss";
+@use "components/banner-box.scss";
+@use "components/button.scss";
+@use "components/Callout.scss";
+@use "components/clients.scss";
+@use "components/companies.scss";
+@use "components/contact.scss";
+@use "components/dashboard.scss";
+@use "components/feature.scss";
+@use "components/footer.scss";
+@use "components/fun-fact.scss";
+@use "components/header.scss";
+@use "components/job.scss";
+@use "components/list.scss";
+@use "components/login.scss";
+@use "components/map.scss";
+@use "components/menu.scss";
+@use "components/video-carousel.scss";
+
+@use "components/message-box.scss";
+@use "components/page-title.scss";
+@use "components/pie-graph.scss";
+@use "components/portfolio.scss";
+@use "components/preloader.scss";
+@use "components/progress-bar.scss";
+@use "components/registr-banner.scss";
+@use "components/resume.scss";
+@use "components/section-title.scss";
+@use "components/select.scss";
+@use "components/sidebar.scss";
+@use "components/social.scss";
+@use "components/socialIcons.scss";
+@use "components/table.scss";
+@use "components/tabs.scss";
+@use "components/testimonials.scss";
+@use "components/tooltip.scss";
+@use "components/uploadings.scss";
+
+@use "components/sections/app.scss";
+@use "components/sections/browse.scss";
+@use "components/sections/candidates.scss";
+@use "components/sections/cta.scss";
+@use "components/sections/faq.scss";
+@use "components/sections/invoice.scss";
+@use "components/sections/jobseeker.scss";
+@use "components/sections/ls-section.scss";
+@use "components/sections/news.scss";
+@use "components/sections/pricing.scss";
+@use "components/sections/process.scss";
+@use "components/sections/recruiter.scss";
+@use "components/sections/steps.scss";
+@use "components/sections/subscribe.scss";
+@use "components/sections/tnc.scss";
+@use "components/job-search.scss";
+
+@use "layout/blog-sidebar.scss";
+@use "layout/blog-single.scss";
+@use "layout/shop/cart.scss";
+@use "layout/shop/order.scss";
+@use "layout/shop/products.scss";
+@use "layout/shop/single.scss";
+@use "layout/shop/tabs.scss" as tabs2;
+
+@use "components/new/index-11.scss";
+@use "components/new/index-12.scss";
+@use "components/new/index-13.scss";
+@use "components/new/index-14.scss";
+@use "components/new/index-15.scss";
+@use "components/new/index-16.scss";
+@use "components/new/index-17.scss";
+
+@use "components/shame.scss";
+
+/*** 
+====================================================================
+59. Responsive
+====================================================================
+***/
+@use "base/responsive.scss";
+@use "input-range-slider";
+@use "custom-nextjs.scss";

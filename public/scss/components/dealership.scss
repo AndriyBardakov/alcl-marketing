@@ -1,0 +1,36 @@
+/*** 
+
+====================================================================
+Dealership Section
+====================================================================
+
+***/
+
+.dealership-header {
+  padding-top: 220px;
+
+  h1 {
+    font-weight: 900;
+    font-size: 50px;
+  }
+}
+
+.dealership-content {
+  .image {
+    padding: 0 20px 20px
+  }
+
+  .dealer-form-fields {
+    list-style-type: disc;
+    list-style-position: inside;
+
+    li {
+      list-style-type: disc;
+    }
+  }
+
+  ul {
+    // margin-left: 40px;
+  }
+}
+
