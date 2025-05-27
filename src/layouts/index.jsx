@@ -15,7 +15,12 @@ const PageLayout = (props) => {
       <MobileMenu />
       {/* End MobileMenu */}
 
-      <div className="main-content">{props.children}</div>
+      <div
+        className="main-content"
+        style={{ minHeight: "calc(100vh - 100px)" }}
+      >
+        {props.children}
+      </div>
       <Footer />
     </div>
   );
