@@ -12,7 +12,30 @@ export const shopNowItems = [
 ];
 
 export const productsItems = [
-
+  {
+    name: "All Products",
+    routePath: "/products",
+  },
+  {
+    name: "Cheese & Cheese Powder",
+    routePath: "/products/cheese-and-cheese-powder",
+  },
+  {
+    name: "Flavour Enhancers",
+    routePath: "/products/flavour-enhancers",
+  },
+  {
+    name: "Baking Ingredients",
+    routePath: "/products/baking-ingredients",
+  },
+  {
+    name: "Others",
+    routePath: "/products/others",
+  },
+  {
+    name: "Cereal & Oats",
+    routePath: "/products/cereal-and-oats",
+  }
 ];
 
 export const videoItems = [

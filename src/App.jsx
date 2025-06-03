@@ -8,6 +8,7 @@ import { Provider } from "react-redux";
 import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer } from "react-toastify";
 import Routes from "./routes/index";
+import store from "./redux/store";
 
 if (typeof window !== "undefined") {
   import("bootstrap");
@@ -23,13 +24,13 @@ const App = () => {
   }, []);
 
   return (
-    // <Provider store={store}>
+    <Provider store={store}>
       <BrowserRouter>
         <ScrollToTop />
         <ToastContainer />
-        <Routes/>
+        <Routes />
       </BrowserRouter>
-    // </Provider>
+    </Provider>
   );
 };
 

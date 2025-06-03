@@ -49,22 +49,10 @@ const HeaderNavContent = () => {
 
           <li
             className={`${
-              isActiveParent(shopNowItems, pathname) ? "current" : ""
+              isActiveLink("/products", pathname) ? "current" : ""
             } dropdown`}
           >
-            <span>Products</span>
-            <ul>
-              {productsItems.map((item, i) => (
-                <li
-                  className={
-                    isActiveLink(item.routePath, pathname) ? "current" : ""
-                  }
-                  key={i}
-                >
-                  <Link to={item.routePath}>{item.name}</Link>
-                </li>
-              ))}
-            </ul>
+             <Link to="/products">Products</Link>
           </li>
 
           <li

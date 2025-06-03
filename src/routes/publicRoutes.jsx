@@ -3,12 +3,14 @@ import Home from "../pages/home";
 import Contact from "../pages/contact";
 import Dealership from "../pages/dealership";
 import About from "../pages/about";
+import Products from "../pages/products";
 
 export const routes = [
   { path: "/home", component: <Home /> },
   { path: "/contact", component: <Contact /> },
   { path: "/dealership", component: <Dealership /> },
   { path: "/about", component: <About /> },
+  { path: "/products", component: <Products /> },
 
   // this route should be at the end of all other routes
   // eslint-disable-next-line react/display-name

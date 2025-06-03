@@ -23,7 +23,7 @@ export const mobileMenuData = [
   {
     id: 3,
     label: "Products",
-    items: [],
+    routePath: "/products",
   },
   {
     id: 4,
