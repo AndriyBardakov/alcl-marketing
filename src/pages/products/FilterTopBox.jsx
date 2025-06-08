@@ -58,26 +58,64 @@ const FilterTopBox = () => {
             key={product.id}
           >
             <div className="inner-box">
-              <Link to={product.link} target="_blank" className="">
-                {/* <button className="bookmark-btn">
-                  <span className="flaticon-ellipsis"></span>
-                </button> */}
-
-                <div className="content-inner">
-                  {/* <span className="featured">Featured</span> */}
+              <div className="d-flex h-100">
+                <div className="content-inner d-flex flex-column justify-content-between">
                   <span className="company-logo">
                     <img src={product.image} alt="company brand" />
                   </span>
                   <h6>{product.name}</h6>
+                  <div className="d-flex justify-content-center mt-3 align-items-end gap-2 flex-grow-1">
+                    <a
+                      href="#"
+                      className="btn btn-outline-secondary btn-sm"
+                      data-bs-toggle="modal"
+                      data-bs-target={`#productModal-${product.id}`}
+                    >
+                      Details
+                    </a>
+                    <Link
+                      to={product.link}
+                      target="_blank"
+                      className="btn btn-outline-primary btn-sm"
+                    >
+                      Buy Now
+                    </Link>
+                  </div>
                 </div>
-                {/* <div className="product-description">
-            {product.description.map((item, index) => (
-              <p className="text" key={index}>
-                {item}
-              </p>
-            ))}
-          </div> */}
-              </Link>
+              </div>
+            </div>
+            <div
+              className="modal fade"
+              id={`productModal-${product.id}`}
+              tabIndex="-1"
+              aria-hidden="true"
+            >
+              <div className="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+                <div className="apply-modal-content modal-content">
+                  <div className="text-center">
+                    <h5 className="title">{product.name}</h5>
+                    <button
+                      type="button"
+                      className="closed-modal"
+                      data-bs-dismiss="modal"
+                      aria-label="Close"
+                    ></button>
+                  </div>
+                  {/* End modal-header */}
+                  <div className="overflow-auto">
+                    <div className="text-center">
+                      <img
+                        src={product.image}
+                        alt="product"
+                        className="img-fluid mb-3"
+                      />
+                    </div>
+                    <div>{product.description}</div>
+                  </div>
+                  {/* End PrivateMessageBox */}
+                </div>
+                {/* End .send-private-message-wrapper */}
+              </div>
             </div>
           </div>
         )),
