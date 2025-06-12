@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { LuShoppingCart } from "react-icons/lu";
 import { LiaMapMarkerAltSolid } from "react-icons/lia";
 import { TbPhone } from "react-icons/tb";
@@ -117,10 +118,12 @@ const Content = () => {
           </div>
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
             <figure className="image" data-aos="fade-left">
+            <Link to="https://www.facebook.com/ALCLMarketing" target="_blank" className="">
               <img
-                src="/images/source/dealers_distributors.jpg"
+                src="/images/source/Carousel-AdsArtboard.png"
                 alt="dealers"
               />
+              </Link>
             </figure>
           </div>
         </div>

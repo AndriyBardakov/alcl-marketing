@@ -57,7 +57,7 @@ const FilterTopBox = () => {
             className="company-block-four col-xl-3 col-lg-6 col-md-6 col-sm-12"
             key={product.id}
           >
-            <div className="inner-box">
+            <div className="inner-box product-box">
               <div className="d-flex h-100">
                 <div className="content-inner d-flex flex-column justify-content-between">
                   <span className="company-logo">
@@ -67,7 +67,7 @@ const FilterTopBox = () => {
                   <div className="d-flex justify-content-center mt-3 align-items-end gap-2 flex-grow-1">
                     <a
                       href="#"
-                      className="btn btn-outline-secondary btn-sm"
+                      className="btn btn-outline-primary btn-sm"
                       data-bs-toggle="modal"
                       data-bs-target={`#productModal-${product.id}`}
                     >
@@ -76,7 +76,7 @@ const FilterTopBox = () => {
                     <Link
                       to={product.link}
                       target="_blank"
-                      className="btn btn-outline-primary btn-sm"
+                      className="btn btn-primary btn-sm"
                     >
                       Buy Now
                     </Link>

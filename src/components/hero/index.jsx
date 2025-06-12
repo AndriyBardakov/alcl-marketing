@@ -19,7 +19,8 @@ const index = () => {
       }}
     >
       <div className="container d-flex flex-column justify-content-center align-items-center h-100">
-        <h1>Welcome to ALCL</h1>
+        <h1 className="mb-3">Mga Ka-Cheesemiss!</h1>
+        <h2>Welcome To The OFFICIAL ALCL MARKETING WEBSITE</h2>
         {/* <p className="lead text-white">Your trusted partner in digital solutions</p>
         <a href="#services" className="btn btn-light btn-lg">
           Explore Services

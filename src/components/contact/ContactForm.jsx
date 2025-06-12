@@ -1,6 +1,29 @@
+import React, { useRef, useCallback } from "react";
+import emailjs from "@emailjs/browser";
+import config from "../../configs/config.json";
+
 const ContactForm = () => {
+  const formRef = useRef();
+
+  const sendEmail = useCallback((e) => {
+    e.preventDefault();
+
+    emailjs
+      .sendForm(config.EMAIL_SERVICE_ID, config.EMAIL_TEMPLATE_ID, formRef.current, {
+        publicKey: config.EMAIL_PUBLIC_KEY,
+      })
+      .then(
+        () => {
+          console.log("SUCCESS!");
+        },
+        (error) => {
+          console.log("FAILED...", error.text);
+        }
+      );
+  }, []);
+
   return (
-    <form>
+    <form ref={formRef} onSubmit={sendEmail}>
       <div className="row">
         <div className="form-group col-lg-12 col-md-12 col-sm-12">
           <div className="response"></div>
@@ -11,7 +34,7 @@ const ContactForm = () => {
           <label>Your Name</label>
           <input
             type="text"
-            name="username"
+            name="name"
             className="username"
             placeholder="Your Name*"
             required
@@ -31,7 +54,7 @@ const ContactForm = () => {
         </div>
         {/* End .col */}
 
-        <div className="col-lg-12 col-md-12 col-sm-12 form-group">
+        {/* <div className="col-lg-12 col-md-12 col-sm-12 form-group">
           <label>Subject</label>
           <input
             type="text"
@@ -40,7 +63,7 @@ const ContactForm = () => {
             placeholder="Subject *"
             required
           />
-        </div>
+        </div> */}
         {/* End .col */}
 
         <div className="col-lg-12 col-md-12 col-sm-12 form-group">
