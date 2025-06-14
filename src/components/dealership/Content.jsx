@@ -1,8 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { LuShoppingCart } from "react-icons/lu";
-import { LiaMapMarkerAltSolid } from "react-icons/lia";
-import { TbPhone } from "react-icons/tb";
 
 const Content = () => {
   return (
@@ -26,7 +23,7 @@ const Content = () => {
         <div className="row">
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
             <figure className="image" data-aos="fade-right">
-              <img src="/images/source/dealers.jpg" alt="dealers" />
+              <img src="/images/source/Carousel-AdsArtboard.png" alt="dealers" />
             </figure>
           </div>
           <div className="content-column col-lg-6 col-md-12 col-sm-12">
@@ -56,7 +53,7 @@ const Content = () => {
       </section>
       <section
         className="dealership-content"
-        style={{ padding: "2.5% 10% 5% 10%" }}
+        style={{ padding: "2.5% 10% 0 10%" }}
       >
         <div className="row">
           <div className="content-column col-lg-6 col-md-12 col-sm-12">
@@ -69,7 +66,7 @@ const Content = () => {
                 className="mb-4 fs-6 border rounded p-3"
                 style={{ backgroundColor: "#F5F7FC" }}
               >
-                <p className="fs-5 mb-4">Online Stores</p>
+                <p className="fs-5 mb-4 text-center">Online Stores</p>
                 <ul className="list-unstyled">
                   <li>
                     👉
@@ -95,32 +92,13 @@ const Content = () => {
                   </li>
                 </ul>
               </div>
-              <div
-                className="mb-4 fs-6 border rounded p-3"
-                style={{ backgroundColor: "#F5F7FC" }}
-              >
-                <p className="fs-5 mb-4">Dealers</p>
-                <ul className="list-unstyled">
-                  <li>
-                    👉
-                    <a
-                      className="fs-5 ms-2"
-                      href="https://www.facebook.com/ALCLMarketing/posts/pfbid02uCenVSdD5Q43TLXYrdeRtGqLM4NKVqVTCoVzkRRHFr5ARZFTAHV6HMV46H8kvGacl"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Facebook
-                    </a>
-                  </li>
-                </ul>
-              </div>
             </div>
           </div>
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
             <figure className="image" data-aos="fade-left">
             <Link to="https://www.facebook.com/ALCLMarketing" target="_blank" className="">
               <img
-                src="/images/source/Carousel-AdsArtboard.png"
+                src="/images/source/dealers.jpg"
                 alt="dealers"
               />
               </Link>

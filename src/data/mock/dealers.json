@@ -4,537 +4,605 @@
     "dealers": [
       {
         "name": "809 General Merchandising, Inc.",
-        "address": "#809 Sto. Cristo St., Binondo, Manila, MM",
+        "address": "809 Sto. Cristo St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0995-6780009",
-          "#0917-5180100",
-          "#0922-8829033"
-        ]
+          "0995-6780009",
+          "0917-5180100",
+          "0922-8829033"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23809+Sto.+Cristo+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "APC Trading",
-        "address": "#811 Sto. Cristo St., Binondo, Manila, MM",
+        "address": "811 Sto. Cristo St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8597101"
-        ]
+          "0917-8597101"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23811+Sto.+Cristo+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "JG88 Food Products Trading",
-        "address": "#721 Sto. Cristo St., Binondo, Manila, MM",
+        "address": "721 Sto. Cristo St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-4421965",
-          "#0917-3273613",
-          "#0922-5299017"
-        ]
+          "0917-4421965",
+          "0917-3273613",
+          "0922-5299017"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23721+Sto.+Cristo+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "AA Fresh Eggs & Farm Produce, Inc.",
-        "address": "#765 Sto. Cristo St., Binondo, Manila, MM",
+        "address": "765 Sto. Cristo St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-2442822"
-        ]
+          "0917-2442822"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23765+Sto.+Cristo+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Philip Estanislao Trading",
-        "address": "#817 Sto. Cristo St., Binondo, Manila, MM",
+        "address": "817 Sto. Cristo St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0956-7764933"
-        ]
+          "0956-7764933"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23817+Sto.+Cristo+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Spices Nature Grocery",
-        "address": "#696 Sto. Cristo St., Binondo, Manila, MM",
+        "address": "696 Sto. Cristo St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0922-8380696",
-          "#0923-0829102"
-        ]
+          "0922-8380696",
+          "0923-0829102"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23696+Sto.+Cristo+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Crispina Chua General Merchandise",
-        "address": "#967 Sto. Cristo St., Tondo, Manila, MM",
+        "address": "967 Sto. Cristo St., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8875757"
-        ]
+          "0917-8875757"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23967+Sto.+Cristo+St.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "1st Dvisoria Supplies Corporation",
-        "address": "#845 Tabora St., Binondo, Manila, MM",
+        "address": "845 Tabora St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0918-2342593",
-          "#09664814996"
-        ]
+          "0918-2342593",
+          "09664814996"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23845+Tabora+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Agripack Diversified Products, Inc.",
-        "address": "#477 M. De Santos St., Binondo, Manila, MM",
+        "address": "477 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5100341"
-        ]
+          "0917-5100341"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23477+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Infigold General Merchandise, OPC",
-        "address": "#481 M. De Santos St., Binondo, Manila, MM",
+        "address": "481 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5404571"
-        ]
+          "0917-5404571"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23481+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Carry More General Merchandise",
-        "address": "#479 M. De Santos St., Binondo, Manila, MM",
+        "address": "479 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8062887"
-        ]
+          "0917-8062887"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23479+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Commander Commercial",
-        "address": "#471 M. De Santos St., Binondo, Manila, MM",
+        "address": "471 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0928-5076259"
-        ]
+          "0928-5076259"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23471+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Seeds Mansion Mercantile, Inc.",
-        "address": "#465 M. De Santos St., Binondo, Manila, MM",
+        "address": "465 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0916-4036205"
-        ]
+          "0916-4036205"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23465+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Majestic Rainbow Pop Trading",
-        "address": "#463 M. De Santos St., Binondo, Manila, MM",
+        "address": "463 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0945-1182193",
-          "#0921-2662100",
-          "#0933-5611650"
-        ]
+          "0945-1182193",
+          "0921-2662100",
+          "0933-5611650"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23463+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Macrobian Marketing",
-        "address": "#460-462 M. De Santos St., Binondo, Manila, MM",
+        "address": "460-462 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-6335564",
-          "#0917-5318886",
-          "#0999-5652335"
-        ]
+          "0917-6335564",
+          "0917-5318886",
+          "0999-5652335"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23460-462+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Numero Uno Enterprises",
-        "address": "#432 M. De Santos St., Binondo, Manila, MM",
+        "address": "432 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8885151",
-          "#0922-8898985"
-        ]
+          "0917-8885151",
+          "0922-8898985"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23432+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Anna Marketing",
-        "address": "#428 M. De Santos St., Binondo, Manila, MM",
+        "address": "428 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0925-5925558",
-          "#0920-9075428"
-        ]
+          "0925-5925558",
+          "0920-9075428"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23428+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Sinkaku Trading Co.",
-        "address": "#426 M. De Santos St., Binondo, Manila, MM",
+        "address": "426 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0961-5137999",
-          "#0920-9278825"
-        ]
+          "0961-5137999",
+          "0920-9278825"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23426+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "MC99 Agri Sales Co.",
-        "address": "#404 M. De Santos St., Binondo, Manila, MM",
+        "address": "404 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5207833"
-        ]
+          "0917-5207833"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23404+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Augoco Marketing",
-        "address": "#411 M. De Santos St., Binondo, Manila, MM",
+        "address": "411 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-7135888"
-        ]
+          "0917-7135888"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23411+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Quickdeal Marketing",
-        "address": "#438 M. De Santos St., Binondo, Manila, MM",
+        "address": "438 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5364778"
-        ]
+          "0917-5364778"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23438+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Enriquez Multi-Sales",
-        "address": "#427 M. De Santos St., Binondo, Manila, MM",
+        "address": "427 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#8243-3668",
-          "#8243-3665"
-        ]
+          "8243-3668",
+          "8243-3665"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23427+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Regulus Trading",
-        "address": "#473 M. De Santos St., Binondo, Manila, MM",
+        "address": "473 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5805685",
-          "#0961-8527377"
-        ]
+          "0917-5805685",
+          "0961-8527377"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23473+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Jen Ann House of Nuts",
-        "address": "#605 M. De Santos St., Binondo, Manila, MM",
+        "address": "605 M. De Santos St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8993532",
-          "#0917-5257342",
-          "#0917-8158374"
-        ]
+          "0917-8993532",
+          "0917-5257342",
+          "0917-8158374"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23605+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Greatspice Marketing",
-        "address": "#858 Elcano St., Binondo, Manila, MM",
+        "address": "858 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-2040605",
-          "#0917-1352335"
-        ]
+          "0917-2040605",
+          "0917-1352335"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23858+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Monsource Trading",
-        "address": "#859 Elcano St., Binondo, Manila, MM",
+        "address": "859 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5171999",
-          "#0917-1898788",
-          "#09175373999"
-        ]
+          "0917-5171999",
+          "0917-1898788",
+          "09175373999"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23859+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Golden Sun Marketing Corporation",
-        "address": "#820 Elcano St., Binondo, Manila, MM",
+        "address": "820 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0927-6834730"
-        ]
+          "0927-6834730"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23820+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "San Megaluck Commercial",
-        "address": "#808 Elcano St., Binondo, Manila, MM",
+        "address": "808 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0916-1234247",
-          "#0908-3421672",
-          "#0966-5707581",
-          "#0967-8657758",
-          "#0909-7283903"
-        ]
+          "0916-1234247",
+          "0908-3421672",
+          "0966-5707581",
+          "0967-8657758",
+          "0909-7283903"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23808+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Seeds & Spices Trading",
-        "address": "#828 Elcano St., Binondo, Manila, MM",
+        "address": "828 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0915-6102840"
-        ]
+          "0915-6102840"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23828+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Go Kim Commercial",
-        "address": "#834 Elcano St., Binondo, Manila, MM",
+        "address": "834 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0927-2020490",
-          "#0929-8127509"
-        ]
+          "0927-2020490",
+          "0929-8127509"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23834+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Charini General Merchandising",
-        "address": "#803 Elcano St., Binondo, Manila, MM",
+        "address": "803 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-1828986",
+          "0917-1828986",
           "0956-1076618"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23803+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Minesville Enterprises",
-        "address": "#783 Elcano St., Binondo, Manila, MM",
+        "address": "783 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8960310",
-          "#0917-8843150"
-        ]
+          "0917-8960310",
+          "0917-8843150"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23783+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Golden Sky Agri-Products",
-        "address": "#785 Elcano St., Binondo, Manila, MM",
+        "address": "785 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8378588",
-          "#0922-8667789",
-          "#0918-9170897"
-        ]
+          "0917-8378588",
+          "0922-8667789",
+          "0918-9170897"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23785+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "777 Commercial",
-        "address": "#777 Elcano St., Binondo, Manila, MM",
+        "address": "777 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-6789299",
+          "0917-6789299",
           "0917-6799661"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23777+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Hiap Lian Marketing",
-        "address": "#737 Elcano St., Binondo, Manila, MM",
+        "address": "737 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0918-4017726",
-          "#0917-5529909"
-        ]
+          "0918-4017726",
+          "0917-5529909"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23737+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Tagsibol Agricultural Products",
-        "address": "#732 Elcano St., Binondo, Manila, MM",
+        "address": "732 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0966-6247989"
-        ]
+          "0966-6247989"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23732+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Apple Lodia Marketing",
-        "address": "#735 Elcano St., Binondo, Manila, MM",
+        "address": "735 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0915-5670288",
-          "#0933-6262912",
-          "#0933-4633668"
-        ]
+          "0915-5670288",
+          "0933-6262912",
+          "0933-4633668"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23735+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Jimmy's Grains & Spices",
-        "address": "#711 Elcano St., Binondo, Manila, MM",
+        "address": "711 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5354952"
-        ]
+          "0917-5354952"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23711+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Hong Seng Commercial",
-        "address": "#686 Elcano St., Binondo, Manila, MM",
+        "address": "686 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0916-6129336",
-          "#0918-9212993"
-        ]
+          "0916-6129336",
+          "0918-9212993"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23686+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Goldcrest Agricultural Trading",
-        "address": "#679 Elcano St., Binondo, Manila, MM",
+        "address": "679 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-7963329"
-        ]
+          "0917-7963329"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23679+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Wings Marketing",
-        "address": "#720 Elcano St., Binondo, Manila, MM",
+        "address": "720 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8924247",
-          "#0927-6686155"
-        ]
+          "0917-8924247",
+          "0927-6686155"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23720+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Haya Agri-Grains & Spice Trading",
-        "address": "#641 Elcano St., Binondo, Manila, MM",
+        "address": "641 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5288860"
-        ]
+          "0917-5288860"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23641+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "KJMN Trading",
-        "address": "#923 Elcano St., Tondo, Manila, MM",
+        "address": "923 Elcano St., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0997-1561331",
-          "#0917-8228745"
-        ]
+          "0997-1561331",
+          "0917-8228745"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23923+Elcano+St.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "Kapalaran Grocery",
-        "address": "#929 Elcano St., Binondo, Manila, MM",
+        "address": "929 Elcano St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-3186823"
-        ]
+          "0917-3186823"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23929+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Henricson Grocery",
-        "address": "#945 Elcano St., Tondo, Manila, MM",
+        "address": "945 Elcano St., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8985692"
-        ]
+          "0917-8985692"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23945+Elcano+St.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "Isfida Marketing",
-        "address": "#460 Clavel St., Binondo, Manila, MM",
+        "address": "460 Clavel St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0915-2337293",
-          "#0906-4783438",
-          "#0917-1182142",
-          "#0917-5804567",
-          "#0917-6789355",
-          "#0917-8451048"
-        ]
+          "0915-2337293",
+          "0906-4783438",
+          "0917-1182142",
+          "0917-5804567",
+          "0917-6789355",
+          "0917-8451048"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23460+Clavel+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Ging Huat Trading",
-        "address": "#440 Clavel St., Binondo, Manila, MM",
+        "address": "440 Clavel St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5333337",
+          "0917-5333337",
           "0917-7278910"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23440+Clavel+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Super X Trading",
-        "address": "#434 Clavel St., Binondo, Manila, MM",
+        "address": "434 Clavel St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0998-9757650"
-        ]
+          "0998-9757650"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23434+Clavel+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Baby J Marketing",
-        "address": "#431 Clavel St., Binondo, Manila, MM",
+        "address": "431 Clavel St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0915-9227700",
+          "0915-9227700",
           "0917-3223928"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23431+Clavel+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Herbiza Herbs and Spices Trading",
-        "address": "#808 Asuncion St., Tondo, Manila, MM",
+        "address": "808 Asuncion St., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5188933",
-          "#0950-7788949",
-          "#0961-5196267"
-        ]
+          "0917-5188933",
+          "0950-7788949",
+          "0961-5196267"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23808+Asuncion+St.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "Lucky JC Food Products Trading",
-        "address": "#814 Asuncion St., Binondo, Manila, MM",
+        "address": "814 Asuncion St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-5321038",
-          "#0917-7181337",
-          "#0917-8211998"
-        ]
+          "0917-5321038",
+          "0917-7181337",
+          "0917-8211998"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23814+Asuncion+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Green Spice Trading",
-        "address": "#725 Asuncion St., Binondo, Manila, MM",
+        "address": "725 Asuncion St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8621217",
-          "#0917-5174533"
-        ]
+          "0917-8621217",
+          "0917-5174533"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23725+Asuncion+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Met Food Corporation",
-        "address": "Unit 504-505 5/F Sky 1 Tower, #68 Dasmarinas St., Binondo, Manila, MM",
+        "address": "Unit 504-505 5/F Sky 1 Tower, 68 Dasmarinas St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8938376",
-          "#0918-8227599",
-          "#0997-3155890",
-          "#0919-5451402"
-        ]
+          "0917-8938376",
+          "0918-8227599",
+          "0997-3155890",
+          "0919-5451402"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+504-505+5%2FF+Sky+1+Tower%2C+%2368+Dasmarinas+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Sin Hiap Hing Grocery & Miki Factory Co.",
-        "address": "#473 Claro M. Recto Ave., Tondo, Manila, MM",
+        "address": "473 Claro M. Recto Ave., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-6536263",
-          "#0922-8530933"
-        ]
+          "0917-6536263",
+          "0922-8530933"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23473+Claro+M.+Recto+Ave.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "Jollyfield Enterprises",
-        "address": "#334 Lara St., Binondo, Manila, MM",
+        "address": "334 Lara St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0916-3912991"
-        ]
+          "0916-3912991"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23334+Lara+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Fortune Seed Agri Trading",
-        "address": "#435 Lavezares St., Binondo, Manila, MM",
+        "address": "435 Lavezares St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8155668",
-          "#0917-8938868"
-        ]
+          "0917-8155668",
+          "0917-8938868"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23435+Lavezares+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Mardben Marketing",
-        "address": "#714 Madrid St., Binondo, Manila, MM",
+        "address": "714 Madrid St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0918-9126251"
-        ]
+          "0918-9126251"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23714+Madrid+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Big R Store",
-        "address": "#1004 Carmen Planas St., Tondo, Manila, MM",
+        "address": "1004 Carmen Planas St., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0928-8067485"
-        ]
+          "0928-8067485"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%231004+Carmen+Planas+St.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "Krisjerly Commercial",
-        "address": "#577 P. Aguirre St., Tondo, Manila, MM",
+        "address": "577 P. Aguirre St., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0906-0796905"
-        ]
+          "0906-0796905"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23577+P.+Aguirre+St.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "Vanida International Ltd. Co.",
-        "address": "#1065 Bilbao St., Tondo, Manila, MM",
+        "address": "1065 Bilbao St., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8925732",
-          "#0917-5583636",
-          "#0927-9607888"
-        ]
+          "0917-8925732",
+          "0917-5583636",
+          "0927-9607888"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%231065+Bilbao+St.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "Kenny's Grocery Co., Inc.",
-        "address": "#81 Orosco St., Quiapo, Manila, MM",
+        "address": "81 Orosco St., Quiapo, Manila, MM",
         "phoneNumbers": [
-          "#0960-6830600",
-          "#0977-3814973"
-        ]
+          "0960-6830600",
+          "0977-3814973"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2381+Orosco+St.%2C+Quiapo%2C+Manila%2C+MM"
       },
       {
         "name": "Mga Sangkap At Iba Pa",
-        "address": "#78 Orozco St., Quiapo, Manila, MM",
+        "address": "78 Orozco St., Quiapo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8048993"
-        ]
+          "0917-8048993"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2378+Orozco+St.%2C+Quiapo%2C+Manila%2C+MM"
       },
       {
         "name": "CTG & Sons, Inc.",
-        "address": "#115 P. Ducos St., Quiapo, Manila, MM",
+        "address": "115 P. Ducos St., Quiapo, Manila, MM",
         "phoneNumbers": [
-          "#0922-2222488"
-        ]
+          "0922-2222488"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23115+P.+Ducos+St.%2C+Quiapo%2C+Manila%2C+MM"
       },
       {
         "name": "JVQ Trading",
-        "address": "#452A Clavel St., Binondo, Manila, MM",
+        "address": "452A Clavel St., Binondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-8772335"
-        ]
+          "0917-8772335"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23452A+Clavel+St.%2C+Binondo%2C+Manila%2C+MM"
       },
       {
         "name": "Jia Ran Enterprises",
         "address": "Block 3, Unit 25, Jade Garden Manila, Honorio Lopez cor. Juan Luna Sts., Tondo, Manila, MM",
         "phoneNumbers": [
-          "#0917-1693999",
-          "#0917-01693999",
-          "#0917-5258035"
-        ]
+          "0917-1693999",
+          "0917-01693999",
+          "0917-5258035"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+3%2C+Unit+25%2C+Jade+Garden+Manila%2C+Honorio+Lopez+cor.+Juan+Luna+Sts.%2C+Tondo%2C+Manila%2C+MM"
       },
       {
         "name": "2447 Store",
-        "address": "#2445-2447 Oroquieta St., Brgy. 263, Zone 037, Sta. Cruz, Manila, MM",
+        "address": "2445-2447 Oroquieta St., Brgy. 263, Zone 037, Sta. Cruz, Manila, MM",
         "phoneNumbers": [
-          "#0920-8641749"
-        ]
+          "0920-8641749"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%232445-2447+Oroquieta+St.%2C+Brgy.+263%2C+Zone+037%2C+Sta.+Cruz%2C+Manila%2C+MM"
       },
       {
         "name": "Sugar Rush Trading Corporation",
-        "address": "2/F #1575 Batangas St. cor. Rizal Ave., Brgy. 357, Zone 36, Sta. Cruz, Manila, MM",
+        "address": "2/F 1575 Batangas St. cor. Rizal Ave., Brgy. 357, Zone 36, Sta. Cruz, Manila, MM",
         "phoneNumbers": [
-          "#0927-5809533"
-        ]
+          "0927-5809533"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=2%2FF+%231575+Batangas+St.+cor.+Rizal+Ave.%2C+Brgy.+357%2C+Zone+36%2C+Sta.+Cruz%2C+Manila%2C+MM"
       },
       {
         "name": "Vesticore, Inc.",
-        "address": "12/F Fuhong Commercial Bldg., #1394 Perez St., Paco, Manila, MM",
+        "address": "12/F Fuhong Commercial Bldg., 1394 Perez St., Paco, Manila, MM",
         "phoneNumbers": [
-          "#0917-5352422"
-        ]
+          "0917-5352422"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%2FF+Fuhong+Commercial+Bldg.%2C+%231394+Perez+St.%2C+Paco%2C+Manila%2C+MM"
       }
     ]
   },
@@ -545,52 +613,58 @@
         "name": "Malou Store",
         "address": "Balintawak Cloverleaf Market, EDSA cor. Old Samson Rd., Balintawak, Quezon City, MM",
         "phoneNumbers": [
-          "#0917-6312367"
-        ]
+          "0917-6312367"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Balintawak+Cloverleaf+Market%2C+EDSA+cor.+Old+Samson+Rd.%2C+Balintawak%2C+Quezon+City%2C+MM"
       },
       {
         "name": "Wilvin Go Store",
-        "address": "#5 Austria St., LVT Arcade Building, Novaliches Proper, Novaliches, Quezon City, MM",
+        "address": "5 Austria St., LVT Arcade Building, Novaliches Proper, Novaliches, Quezon City, MM",
         "phoneNumbers": [
-          "#0923-4012293",
-          "#0923-9303501",
-          "#0985-7951491",
-          "#0968-5324687",
-          "#0976-3635152",
-          "#0932-2075709"
-        ]
+          "0923-4012293",
+          "0923-9303501",
+          "0985-7951491",
+          "0968-5324687",
+          "0976-3635152",
+          "0932-2075709"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%235+Austria+St.%2C+LVT+Arcade+Building%2C+Novaliches+Proper%2C+Novaliches%2C+Quezon+City%2C+MM"
       },
       {
         "name": "Nympha Enterprises",
-        "address": "#31-J T.S. Evalle Drive, Evamin Homes, Kaligayahan, Novaliches, Quezon City, MM",
+        "address": "31-J T.S. Evalle Drive, Evamin Homes, Kaligayahan, Novaliches, Quezon City, MM",
         "phoneNumbers": [
-          "#0917-8075566",
-          "#0998-9798196"
-        ]
+          "0917-8075566",
+          "0998-9798196"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2331-J+T.S.+Evalle+Drive%2C+Evamin+Homes%2C+Kaligayahan%2C+Novaliches%2C+Quezon+City%2C+MM"
       },
       {
         "name": "L. Carandang Store",
-        "address": "Stall #57, Pasilio C, Mega Quintillon Market Plaza, Ermin Garcia St. cor. EDSA, Brgy. E. Rodriguez, Quezon City, MM",
+        "address": "Stall 57, Pasilio C, Mega Quintillon Market Plaza, Ermin Garcia St. cor. EDSA, Brgy. E. Rodriguez, Quezon City, MM",
         "phoneNumbers": [
-          "#0917-8047189"
-        ]
+          "0917-8047189"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%2357%2C+Pasilio+C%2C+Mega+Quintillon+Market+Plaza%2C+Ermin+Garcia+St.+cor.+EDSA%2C+Brgy.+E.+Rodriguez%2C+Quezon+City%2C+MM"
       },
       {
         "name": "Twin Sister Variety Store",
         "address": "T2 47-48 Cereal Section, Commonwealth Market, Commonwealth Ave., Quezon City, MM",
         "phoneNumbers": [
-          "#0977-0563429"
-        ]
+          "0977-0563429"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=T2+47-48+Cereal+Section%2C+Commonwealth+Market%2C+Commonwealth+Ave.%2C+Quezon+City%2C+MM"
       },
       {
         "name": "Baking & Home Depot",
-        "address": "TSL Bldg., #59 E. Rodriguez Sr. Ave., Brgy. Josefa, Quezon City, MM",
+        "address": "TSL Bldg., 59 E. Rodriguez Sr. Ave., Brgy. Josefa, Quezon City, MM",
         "phoneNumbers": [
-          "#0915-5869347",
-          "#0917-9402288",
-          "#0917-8909997",
-          "#0933-8697082"
-        ]
+          "0915-5869347",
+          "0917-9402288",
+          "0917-8909997",
+          "0933-8697082"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=TSL+Bldg.%2C+%2359+E.+Rodriguez+Sr.+Ave.%2C+Brgy.+Josefa%2C+Quezon+City%2C+MM"
       }
     ]
   },
@@ -599,35 +673,39 @@
     "dealers": [
       {
         "name": "Royal Dragon Marketing",
-        "address": "#26 J. Isidro Francisco St., Malinta, Valenzuela City, MM",
+        "address": "26 J. Isidro Francisco St., Malinta, Valenzuela City, MM",
         "phoneNumbers": [
-          "#0917-8515168"
-        ]
+          "0917-8515168"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2326+J.+Isidro+Francisco+St.%2C+Malinta%2C+Valenzuela+City%2C+MM"
       },
       {
         "name": "Play Merchandising",
-        "address": "Unit #11-12 Gen. T. De Leon Commercial Complex, Karuhatan Road, Karuhatan, Valenzuela City, MM",
+        "address": "Unit 11-12 Gen. T. De Leon Commercial Complex, Karuhatan Road, Karuhatan, Valenzuela City, MM",
         "phoneNumbers": [
-          "#0920-9090328",
-          "#0917-3607700"
-        ]
+          "0920-9090328",
+          "0917-3607700"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+%2311-12+Gen.+T.+De+Leon+Commercial+Complex%2C+Karuhatan+Road%2C+Karuhatan%2C+Valenzuela+City%2C+MM"
       },
       {
         "name": "Dennis & Nene Bakery Supply",
-        "address": "#38 Rincon St., Malinta, Valenzuela City, MM",
+        "address": "38 Rincon St., Malinta, Valenzuela City, MM",
         "phoneNumbers": [
-          "#0922-8404746",
-          "#0925-7336658",
-          "#0968-8547301"
-        ]
+          "0922-8404746",
+          "0925-7336658",
+          "0968-8547301"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2338+Rincon+St.%2C+Malinta%2C+Valenzuela+City%2C+MM"
       },
       {
         "name": "Gastroavenue Food Products Trading",
-        "address": "#273 McArthur Highway, Karuhatan, Valenzuela City, MM",
+        "address": "273 McArthur Highway, Karuhatan, Valenzuela City, MM",
         "phoneNumbers": [
-          "#0920-9480843",
-          "#0917-5958726"
-        ]
+          "0920-9480843",
+          "0917-5958726"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23273+McArthur+Highway%2C+Karuhatan%2C+Valenzuela+City%2C+MM"
       }
     ]
   },
@@ -636,30 +714,33 @@
     "dealers": [
       {
         "name": "Tessie Ong Processed Meat Shop",
-        "address": "#1485-A M. Suarez Ave., Pasig City, MM",
+        "address": "1485-A M. Suarez Ave., Pasig City, MM",
         "phoneNumbers": [
-          "#0939-1887088",
-          "#0922-7811007",
-          "#0920-2058414"
-        ]
+          "0939-1887088",
+          "0922-7811007",
+          "0920-2058414"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%231485-A+M.+Suarez+Ave.%2C+Pasig+City%2C+MM"
       },
       {
         "name": "Oliver Plastic Center",
-        "address": "Stall #243 Plastic Section, Pasig City Mega Market, Caruncho cor. Market Avenue, Pasig City, MM",
+        "address": "Stall 243 Plastic Section, Pasig City Mega Market, Caruncho cor. Market Avenue, Pasig City, MM",
         "phoneNumbers": [
-          "#0918-4203678",
-          "#0946-4396106",
-          "#0994-2879157"
-        ]
+          "0918-4203678",
+          "0946-4396106",
+          "0994-2879157"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23243+Plastic+Section%2C+Pasig+City+Mega+Market%2C+Caruncho+cor.+Market+Avenue%2C+Pasig+City%2C+MM"
       },
       {
         "name": "Baby Asuncion Store",
-        "address": "Stall #242 Plastic Section, Pasig City Mega Market, Caruncho cor. Market Avenue, Pasig City, MM",
+        "address": "Stall 242 Plastic Section, Pasig City Mega Market, Caruncho cor. Market Avenue, Pasig City, MM",
         "phoneNumbers": [
-          "#0927-9636061",
-          "#0936-1020321",
-          "#0975-2486459"
-        ]
+          "0927-9636061",
+          "0936-1020321",
+          "0975-2486459"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23242+Plastic+Section%2C+Pasig+City+Mega+Market%2C+Caruncho+cor.+Market+Avenue%2C+Pasig+City%2C+MM"
       }
     ]
   },
@@ -668,10 +749,11 @@
     "dealers": [
       {
         "name": "Premium Blends, OPC",
-        "address": "Unit 108, G/F Wilson Promenade Building, #198 Wilson St., Addition Hills, San Juan, MM",
+        "address": "Unit 108, G/F Wilson Promenade Building, 198 Wilson St., Addition Hills, San Juan, MM",
         "phoneNumbers": [
-          "#0917-1691006"
-        ]
+          "0917-1691006"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+108%2C+G%2FF+Wilson+Promenade+Building%2C+%23198+Wilson+St.%2C+Addition+Hills%2C+San+Juan%2C+MM"
       }
     ]
   },
@@ -682,16 +764,18 @@
         "name": "MSCS PrimeGoods, Inc.",
         "address": "3rd Flr., P&D Bldg., Calbayog cor. Mariveles Sts., Highway Hills, Mandaluyong City, MM",
         "phoneNumbers": [
-          "#0917-5843396",
-          "#0917-1756719"
-        ]
+          "0917-5843396",
+          "0917-1756719"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=3rd+Flr.%2C+P%26D+Bldg.%2C+Calbayog+cor.+Mariveles+Sts.%2C+Highway+Hills%2C+Mandaluyong+City%2C+MM"
       },
       {
         "name": "Gladys Store",
-        "address": "Stall #KA-44, Kalentong Market 2, #543 New Pamaderos St., Mandaluyong City, MM",
+        "address": "Stall KA-44, Kalentong Market 2, 543 New Pamaderos St., Mandaluyong City, MM",
         "phoneNumbers": [
-          "#0908-2122465"
-        ]
+          "0908-2122465"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23KA-44%2C+Kalentong+Market+2%2C+%23543+New+Pamaderos+St.%2C+Mandaluyong+City%2C+MM"
       }
     ]
   },
@@ -700,13 +784,14 @@
     "dealers": [
       {
         "name": "Sang-Ulan Store",
-        "address": "#33 E. Jacinto St., Sto. Nino, Marikina City, MM",
+        "address": "33 E. Jacinto St., Sto. Nino, Marikina City, MM",
         "phoneNumbers": [
-          "#0915-0695614",
-          "#0915-6431506",
-          "#0921-4747280",
-          "#0915-2896906"
-        ]
+          "0915-0695614",
+          "0915-6431506",
+          "0921-4747280",
+          "0915-2896906"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2333+E.+Jacinto+St.%2C+Sto.+Nino%2C+Marikina+City%2C+MM"
       }
     ]
   },
@@ -715,41 +800,46 @@
     "dealers": [
       {
         "name": "Trader Son Marketing Co.",
-        "address": "#55 Caimito Rd. cor. Dagohoy St., Brgy. 77, Caloocan City, MM",
+        "address": "55 Caimito Rd. cor. Dagohoy St., Brgy. 77, Caloocan City, MM",
         "phoneNumbers": [
-          "#0916-3451723",
-          "#0917-8131733",
-          "#0932-8913825"
-        ]
+          "0916-3451723",
+          "0917-8131733",
+          "0932-8913825"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2355+Caimito+Rd.+cor.+Dagohoy+St.%2C+Brgy.+77%2C+Caloocan+City%2C+MM"
       },
       {
         "name": "DKW Coolers",
-        "address": "#29B M. Arce St., Heroes Del 96, Caloocan City, MM",
+        "address": "29B M. Arce St., Heroes Del 96, Caloocan City, MM",
         "phoneNumbers": [
-          "#0917-5867234",
-          "#0928-8383055"
-        ]
+          "0917-5867234",
+          "0928-8383055"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2329B+M.+Arce+St.%2C+Heroes+Del+96%2C+Caloocan+City%2C+MM"
       },
       {
         "name": "K Mara Bakery Supplies",
-        "address": "#45 Gen. San Miguel Rd., Sangandaan, Caloocan City, MM",
+        "address": "45 Gen. San Miguel Rd., Sangandaan, Caloocan City, MM",
         "phoneNumbers": [
-          "#0917-8242626"
-        ]
+          "0917-8242626"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2345+Gen.+San+Miguel+Rd.%2C+Sangandaan%2C+Caloocan+City%2C+MM"
       },
       {
         "name": "Shop Wings Food Trading",
-        "address": "#93 10th Ave., Grace Park West, Brgy. 63, Caloocan City, MM",
+        "address": "93 10th Ave., Grace Park West, Brgy. 63, Caloocan City, MM",
         "phoneNumbers": [
-          "#0969-2544350"
-        ]
+          "0969-2544350"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2393+10th+Ave.%2C+Grace+Park+West%2C+Brgy.+63%2C+Caloocan+City%2C+MM"
       },
       {
         "name": "Micko Packaging Supplies",
-        "address": "#349 Rizal Ave. Ext., West Grace Park, Brgy. 62, Caloocan City, MM",
+        "address": "349 Rizal Ave. Ext., West Grace Park, Brgy. 62, Caloocan City, MM",
         "phoneNumbers": [
-          "#0936-2004890"
-        ]
+          "0936-2004890"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23349+Rizal+Ave.+Ext.%2C+West+Grace+Park%2C+Brgy.+62%2C+Caloocan+City%2C+MM"
       }
     ]
   },
@@ -758,12 +848,13 @@
     "dealers": [
       {
         "name": "Gold Label Resources, Inc.",
-        "address": "#168 Carbonium St., Goldendale Industrial Complex, Tinajeros, Malabon City, MM",
+        "address": "168 Carbonium St., Goldendale Industrial Complex, Tinajeros, Malabon City, MM",
         "phoneNumbers": [
-          "#0999-9935657",
-          "#0917-1699888",
-          "#0920-9183858"
-        ]
+          "0999-9935657",
+          "0917-1699888",
+          "0920-9183858"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23168+Carbonium+St.%2C+Goldendale+Industrial+Complex%2C+Tinajeros%2C+Malabon+City%2C+MM"
       }
     ]
   },
@@ -772,11 +863,12 @@
     "dealers": [
       {
         "name": "Restaurant Depot",
-        "address": "#2738 F. B. Harrison St., Brgy. 075, Pasay City, MM",
+        "address": "2738 F. B. Harrison St., Brgy. 075, Pasay City, MM",
         "phoneNumbers": [
-          "#0917-8956635",
-          "#0917-1324327"
-        ]
+          "0917-8956635",
+          "0917-1324327"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%232738+F.+B.+Harrison+St.%2C+Brgy.+075%2C+Pasay+City%2C+MM"
       }
     ]
   },
@@ -787,28 +879,31 @@
         "name": "Lioner Marketing Enterprise Company",
         "address": "Antipolo Public Market, F. Manalo cor. J. Sumulong Sts., Brgy. San Jose, Antipolo City, Rizal",
         "phoneNumbers": [
-          "#0919-5014159",
-          "#0922-8249782",
-          "#0985-4724564",
-          "#0915-2954461"
-        ]
+          "0919-5014159",
+          "0922-8249782",
+          "0985-4724564",
+          "0915-2954461"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Antipolo+Public+Market%2C+F.+Manalo+cor.+J.+Sumulong+Sts.%2C+Brgy.+San+Jose%2C+Antipolo+City%2C+Rizal"
       },
       {
         "name": "Highlander",
         "address": "Sto. Nino St., Brgy. San Jose, Antipolo City, Rizal",
         "phoneNumbers": [
-          "#0908-8627426",
-          "#0921-4506159",
-          "#0977-7631666"
-        ]
+          "0908-8627426",
+          "0921-4506159",
+          "0977-7631666"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sto.+Nino+St.%2C+Brgy.+San+Jose%2C+Antipolo+City%2C+Rizal"
       },
       {
         "name": "Marc Andrei Marketing",
         "address": "B11 L7, Monreale St., Maia Alta Subd., Dalig, Antipolo City, Rizal",
         "phoneNumbers": [
-          "#0917-5162727",
-          "#0933-8662383"
-        ]
+          "0917-5162727",
+          "0933-8662383"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=B11+L7%2C+Monreale+St.%2C+Maia+Alta+Subd.%2C+Dalig%2C+Antipolo+City%2C+Rizal"
       }
     ]
   },
@@ -819,16 +914,18 @@
         "name": "Balubaran Enterprises",
         "address": "C12 Jolly Industrial Park, Plaridel Bypass Access Rd., Parulan, Plaridel, Bulacan",
         "phoneNumbers": [
-          "#0917-8916800",
-          "#0933-8550317"
-        ]
+          "0917-8916800",
+          "0933-8550317"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=C12+Jolly+Industrial+Park%2C+Plaridel+Bypass+Access+Rd.%2C+Parulan%2C+Plaridel%2C+Bulacan"
       },
       {
         "name": "RLC Baking Supplies",
         "address": "2F Petron Bldg., Purok 5, San Martin III, Sapang Palay, San Jose Del Monte, Bulacan",
         "phoneNumbers": [
-          "#0917-5261366"
-        ]
+          "0917-5261366"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=2F+Petron+Bldg.%2C+Purok+5%2C+San+Martin+III%2C+Sapang+Palay%2C+San+Jose+Del+Monte%2C+Bulacan"
       }
     ]
   },
@@ -837,17 +934,19 @@
     "dealers": [
       {
         "name": "Centralbay Food Trading",
-        "address": "#43-29 Don Bonifacio Subd., Pulung Maragul, Angeles City, Pampanga",
+        "address": "43-29 Don Bonifacio Subd., Pulung Maragul, Angeles City, Pampanga",
         "phoneNumbers": [
-          "#0917-9748184"
-        ]
+          "0917-9748184"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2343-29+Don+Bonifacio+Subd.%2C+Pulung+Maragul%2C+Angeles+City%2C+Pampanga"
       },
       {
         "name": "JTEC Distribution Inc.",
         "address": "Bldg. 4, Mexico Techno Resource Center, Pandacaqui, Mexico, Pampanga",
         "phoneNumbers": [
-          "#0926-5000189"
-        ]
+          "0926-5000189"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bldg.+4%2C+Mexico+Techno+Resource+Center%2C+Pandacaqui%2C+Mexico%2C+Pampanga"
       }
     ]
   },
@@ -856,17 +955,19 @@
     "dealers": [
       {
         "name": "GMG Baking Station",
-        "address": "#95 Pablo Roman St., Poblacion, Balanga City, Bataan",
+        "address": "95 Pablo Roman St., Poblacion, Balanga City, Bataan",
         "phoneNumbers": [
-          "#0917-6470862"
-        ]
+          "0917-6470862"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2395+Pablo+Roman+St.%2C+Poblacion%2C+Balanga+City%2C+Bataan"
       },
       {
         "name": "Princess Variety Store",
         "address": "San Ramon Public Market, Dinalupihan, Bataan",
         "phoneNumbers": [
-          "#0969-5632775"
-        ]
+          "0969-5632775"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=San+Ramon+Public+Market%2C+Dinalupihan%2C+Bataan"
       }
     ]
   },
@@ -877,12 +978,13 @@
         "name": "Mega Wholesale Solutions, Inc.",
         "address": "Block 4, Tarlac Arch, McArthur Highway, Sta. Cruz, Tarlac City, Tarlac",
         "phoneNumbers": [
-          "#0906-6403464",
-          "#0975-6455835",
-          "#0977-7171310",
-          "#0915-6805707",
-          "#0917-1608773"
-        ]
+          "0906-6403464",
+          "0975-6455835",
+          "0977-7171310",
+          "0915-6805707",
+          "0917-1608773"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+4%2C+Tarlac+Arch%2C+McArthur+Highway%2C+Sta.+Cruz%2C+Tarlac+City%2C+Tarlac"
       }
     ]
   },
@@ -893,39 +995,44 @@
         "name": "Pronto Distributor Marketing Services, Inc.",
         "address": "De Venecia Rd., Lucao District, Dagupan City, Pangasinan",
         "phoneNumbers": [
-          "#0908-8129056",
-          "#0943-4303604"
-        ]
+          "0908-8129056",
+          "0943-4303604"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=De+Venecia+Rd.%2C+Lucao+District%2C+Dagupan+City%2C+Pangasinan"
       },
       {
         "name": "Penny's Plastic Store",
         "address": "Labrador Public Market, Labrador, Pangasinan",
         "phoneNumbers": [
-          "#0946-6040953"
-        ]
+          "0946-6040953"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Labrador+Public+Market%2C+Labrador%2C+Pangasinan"
       },
       {
         "name": "Udragon Corporation / Udragon Urdaneta Corporation",
         "address": "Lot 1-B Perez South St., Poblacion, Urdaneta City, Pangasinan",
         "phoneNumbers": [
-          "#0966-5393954",
-          "#0960-5263360"
-        ]
+          "0966-5393954",
+          "0960-5263360"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lot+1-B+Perez+South+St.%2C+Poblacion%2C+Urdaneta+City%2C+Pangasinan"
       },
       {
         "name": "Baby's Angel Sophia Peanut, Beans and Pasalubong Store",
         "address": "Bagsakan Market, Urdaneta City, Pangasinan",
         "phoneNumbers": [
-          "#0932-1059001",
-          "#0915-7613555"
-        ]
+          "0932-1059001",
+          "0915-7613555"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bagsakan+Market%2C+Urdaneta+City%2C+Pangasinan"
       },
       {
         "name": "Shentoni's Store",
         "address": "National Highway, Brgy. San Jose, Urdaneta City, Pangasinan",
         "phoneNumbers": [
-          "#0917-8915372"
-        ]
+          "0917-8915372"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=National+Highway%2C+Brgy.+San+Jose%2C+Urdaneta+City%2C+Pangasinan"
       }
     ]
   },
@@ -936,10 +1043,11 @@
         "name": "3J's Marketing",
         "address": "Sitio Centrum, Imelda, Naguilian, La Union",
         "phoneNumbers": [
-          "#0949-9916569",
-          "#0917-5067349",
-          "#0943-1377929"
-        ]
+          "0949-9916569",
+          "0917-5067349",
+          "0943-1377929"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sitio+Centrum%2C+Imelda%2C+Naguilian%2C+La+Union"
       }
     ]
   },
@@ -948,17 +1056,19 @@
     "dealers": [
       {
         "name": "Soolit General Merchandise, OPC",
-        "address": "Baguio Public Market, 2/F Domesco Bldg., #1 Kayang St., Baguio City, Benguet",
+        "address": "Baguio Public Market, 2/F Domesco Bldg., 1 Kayang St., Baguio City, Benguet",
         "phoneNumbers": [
-          "#0907-9917127"
-        ]
+          "0907-9917127"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Baguio+Public+Market%2C+2%2FF+Domesco+Bldg.%2C+%231+Kayang+St.%2C+Baguio+City%2C+Benguet"
       },
       {
         "name": "Immanuel Convenience Store",
         "address": "Km. 5, Pico, La Trinidad, Benguet",
         "phoneNumbers": [
-          "#0998-9616032"
-        ]
+          "0998-9616032"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Km.+5%2C+Pico%2C+La+Trinidad%2C+Benguet"
       }
     ]
   },
@@ -969,23 +1079,26 @@
         "name": "Deimacoy General Merchandise",
         "address": "Vacunero, Sto. Domingo, Ilocos Sur",
         "phoneNumbers": [
-          "#0917-8097153",
-          "#0917-5032061"
-        ]
+          "0917-8097153",
+          "0917-5032061"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Vacunero%2C+Sto.+Domingo%2C+Ilocos+Sur"
       },
       {
         "name": "Jeriel's Frozen Foods Store",
         "address": "San Lucas, Magsingal, Ilocos Sur",
         "phoneNumbers": [
-          "#0997-1466685"
-        ]
+          "0997-1466685"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=San+Lucas%2C+Magsingal%2C+Ilocos+Sur"
       },
       {
         "name": "CRT Coffee and Milktea Supplier",
-        "address": "#92 General Luna St., Brgy. 3, Vigan City, Ilocos Sur",
+        "address": "92 General Luna St., Brgy. 3, Vigan City, Ilocos Sur",
         "phoneNumbers": [
-          "#0917-7946836"
-        ]
+          "0917-7946836"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2392+General+Luna+St.%2C+Brgy.+3%2C+Vigan+City%2C+Ilocos+Sur"
       }
     ]
   },
@@ -996,16 +1109,18 @@
         "name": "Shop Brew N Drink Consumer Goods Trading",
         "address": "NPAC Bldg., Washington St., Centro 4, Tuguegarao City, Cagayan",
         "phoneNumbers": [
-          "#0917-5041552",
-          "#0945-1959792"
-        ]
+          "0917-5041552",
+          "0945-1959792"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=NPAC+Bldg.%2C+Washington+St.%2C+Centro+4%2C+Tuguegarao+City%2C+Cagayan"
       },
       {
         "name": "Gieanne's Milktea Supplies",
-        "address": "Stall #2, Callangan Bldg., Bonifacio St., Centro 8, Tuguegarao City, Cagayan",
+        "address": "Stall 2, Callangan Bldg., Bonifacio St., Centro 8, Tuguegarao City, Cagayan",
         "phoneNumbers": [
-          "#0926-1468403"
-        ]
+          "0926-1468403"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%232%2C+Callangan+Bldg.%2C+Bonifacio+St.%2C+Centro+8%2C+Tuguegarao+City%2C+Cagayan"
       }
     ]
   },
@@ -1016,32 +1131,36 @@
         "name": "Escalona Plastic Store",
         "address": "Gate 3, Old Public Market, Santiago City, Isabela",
         "phoneNumbers": [
-          "#0923-6139639",
-          "#0977-6278335",
-          "#0932-5716652"
-        ]
+          "0923-6139639",
+          "0977-6278335",
+          "0932-5716652"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gate+3%2C+Old+Public+Market%2C+Santiago+City%2C+Isabela"
       },
       {
         "name": "Junior's Variety Shop",
         "address": "Salas Bldg., Public Market, Brgy. San Pedro, Tamauini, Isabela",
         "phoneNumbers": [
-          "#0915-1333136"
-        ]
+          "0915-1333136"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Salas+Bldg.%2C+Public+Market%2C+Brgy.+San+Pedro%2C+Tamauini%2C+Isabela"
       },
       {
         "name": "Son Miguel Supermart",
         "address": "Magsaysay Ave., Victory Norte, Santiago City, Isabela",
         "phoneNumbers": [
-          "cell # 0936-4952699",
+          "0936-4952699",
           "0917-8772810"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Magsaysay+Ave.%2C+Victory+Norte%2C+Santiago+City%2C+Isabela"
       },
       {
         "name": "CKA Food and Refreshment Hub",
-        "address": "Zone B, #43 4Lanes Plaza, Brgy. Gen. Malvar, Santiago City, Isabela",
+        "address": "Zone B, 43 4Lanes Plaza, Brgy. Gen. Malvar, Santiago City, Isabela",
         "phoneNumbers": [
-          "#0917-4865822"
-        ]
+          "0917-4865822"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zone+B%2C+%2343+4Lanes+Plaza%2C+Brgy.+Gen.+Malvar%2C+Santiago+City%2C+Isabela"
       }
     ]
   },
@@ -1052,9 +1171,10 @@
         "name": "Coffee R Us Enterprise",
         "address": "Block 6, Lot 11, Greenplace Homes 2, Malagasang, Imus, Cavite",
         "phoneNumbers": [
-          "#0917-1208412",
-          "#0956-1289732"
-        ]
+          "0917-1208412",
+          "0956-1289732"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+6%2C+Lot+11%2C+Greenplace+Homes+2%2C+Malagasang%2C+Imus%2C+Cavite"
       }
     ]
   },
@@ -1065,46 +1185,59 @@
         "name": "Lhekum Trading",
         "address": "National Highway, Parian, Calamba, Laguna",
         "phoneNumbers": [
-          "National Rd., Brgy. Bubukal, Sta. Cruz, Laguna"
-        ]
+          "0919-9952331",
+          "0920-9575375",
+          "0920-9606580",
+          "0936-1131594",
+          "0977-8371123"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=National+Highway%2C+Parian%2C+Calamba%2C+Laguna"
       },
       {
-        "name": "#0919-9952331 / #0920-9575375 / #0920-9606580 / #0936-1131594 / #0977-8371123",
-        "address": "Tomasing Marketing",
+        "name": "Tomasing Marketing",
+        "address": "Blk. 7, Lot 8-9, JB Village 2, Balibago, Sta. Rosa, Laguna",
         "phoneNumbers": [
-          "Blk. 7, Lot 8-9, JB Village 2, Balibago, Sta. Rosa, Laguna"
-        ]
-      },
+          "0919-0958180"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Blk.+7%2C+Lot+8-9%2C+JB+Village+2%2C+Balibago%2C+Sta.+Rosa%2C+Laguna"
+      }
+    ]
+  },
+  {
+    "name": "Batangas",
+    "dealers": [
       {
-        "name": "#0919-0958180",
-        "address": "• BATANGAS",
+        "name": "Tigerluck Enterprise",
+        "address": "180 Evangelista St., Brgy. 23, Batangas City, Batangas",
         "phoneNumbers": [
-          "Tigerluck Enterprise"
-        ]
-      },
-      {
-        "name": "#180 Evangelista St., Brgy. 23, Batangas City, Batangas",
-        "address": "#0917-3158289 / #0909-8430459",
-        "phoneNumbers": [
-          "• QUEZON"
-        ]
-      },
+          "0917-3158289",
+          "0909-8430459"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23180+Evangelista+St.%2C+Brgy.+23%2C+Batangas+City%2C+Batangas"
+      }
+    ]
+  },
+  {
+    "name": "Quezon",
+    "dealers": [
       {
         "name": "RYC Store",
         "address": "Marktown Subdivision, Red-V, Lucena City, Quezon",
         "phoneNumbers": [
-          "#0915-6907242",
-          "#0928-1654897"
-        ]
+          "0915-6907242",
+          "0928-1654897"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marktown+Subdivision%2C+Red-V%2C+Lucena+City%2C+Quezon"
       },
       {
         "name": "ARC Pepper Enterprise",
         "address": "Alvarez Subd., Brgy. Del Carmen, Pagbilao, Quezon",
         "phoneNumbers": [
-          "#0949-6325837",
-          "#0995-8890802",
-          "#0916-4604886"
-        ]
+          "0949-6325837",
+          "0995-8890802",
+          "0916-4604886"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Alvarez+Subd.%2C+Brgy.+Del+Carmen%2C+Pagbilao%2C+Quezon"
       }
     ]
   },
@@ -1115,32 +1248,36 @@
         "name": "NPJ Corporation",
         "address": "Jackson Sy Bldg., F. Imperial St., Bitano, Legazpi City, Albay",
         "phoneNumbers": [
-          "#0915-9494029",
+          "0915-9494029",
           "0917-6229909"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Jackson+Sy+Bldg.%2C+F.+Imperial+St.%2C+Bitano%2C+Legazpi+City%2C+Albay"
       },
       {
         "name": "Polyware Trading",
         "address": "Santillan St., Quinale, Tabaco City, Albay",
         "phoneNumbers": [
-          "#0956-3353995"
-        ]
+          "0956-3353995"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Santillan+St.%2C+Quinale%2C+Tabaco+City%2C+Albay"
       },
       {
         "name": "J. Y. Legazpi Marketing Corporation",
-        "address": "#423 Gov. Forbes St., Legazpi, Albay",
+        "address": "423 Gov. Forbes St., Legazpi, Albay",
         "phoneNumbers": [
-          "#0917-1007711",
-          "#0917-5591993"
-        ]
+          "0917-1007711",
+          "0917-5591993"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23423+Gov.+Forbes+St.%2C+Legazpi%2C+Albay"
       },
       {
         "name": "Legazpi Miki, Inc.",
-        "address": "#5 F. Imperial St., Tinago, Legazpi, Albay",
+        "address": "5 F. Imperial St., Tinago, Legazpi, Albay",
         "phoneNumbers": [
-          "#0926-6587065",
-          "#0917-5421356"
-        ]
+          "0926-6587065",
+          "0917-5421356"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%235+F.+Imperial+St.%2C+Tinago%2C+Legazpi%2C+Albay"
       }
     ]
   },
@@ -1151,8 +1288,9 @@
         "name": "Kreamery Baking Supplies Store",
         "address": "San Juan St., Virac, Catanduanes",
         "phoneNumbers": [
-          "#0947-1459000"
-        ]
+          "0947-1459000"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=San+Juan+St.%2C+Virac%2C+Catanduanes"
       }
     ]
   },
@@ -1163,15 +1301,17 @@
         "name": "Adison Trading, OPC",
         "address": "Pan Philippine Highway, San Vicente, Pili, Camarines Sur",
         "phoneNumbers": [
-          "#0916-4876615"
-        ]
+          "0916-4876615"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pan+Philippine+Highway%2C+San+Vicente%2C+Pili%2C+Camarines+Sur"
       },
       {
         "name": "RDRC Choco Lit House",
         "address": "G/F Trader's Square Bldg., P. Burgos St., Sta. Cruz, Naga City, Camarines Sur",
         "phoneNumbers": [
-          "#0923-4033925"
-        ]
+          "0923-4033925"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=G%2FF+Trader%27s+Square+Bldg.%2C+P.+Burgos+St.%2C+Sta.+Cruz%2C+Naga+City%2C+Camarines+Sur"
       }
     ]
   },
@@ -1182,16 +1322,18 @@
         "name": "Sugar and Stripes Trading",
         "address": "Gumba Bldg., Malvar St., Brgy. Matahimik, Puerto Princesa, Palawan",
         "phoneNumbers": [
-          "#0917-7223454",
-          "#0977-8073000"
-        ]
+          "0917-7223454",
+          "0977-8073000"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gumba+Bldg.%2C+Malvar+St.%2C+Brgy.+Matahimik%2C+Puerto+Princesa%2C+Palawan"
       },
       {
         "name": "GKS Dry Goods Store",
-        "address": "Stall #4 Groceries Section, Public Market, Poblacion, Narra, Palawan",
+        "address": "Stall 4 Groceries Section, Public Market, Poblacion, Narra, Palawan",
         "phoneNumbers": [
-          "#0939-2858095"
-        ]
+          "0939-2858095"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%234+Groceries+Section%2C+Public+Market%2C+Poblacion%2C+Narra%2C+Palawan"
       }
     ]
   },
@@ -1200,10 +1342,11 @@
     "dealers": [
       {
         "name": "Lars Marketing",
-        "address": "#0461 Rajah Soliman St., Poblacion 4, San Jose, Occidental Mindoro=",
+        "address": "0461 Rajah Soliman St., Poblacion 4, San Jose, Occidental Mindoro=",
         "phoneNumbers": [
-          "#0915-5046452"
-        ]
+          "0915-5046452"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%230461+Rajah+Soliman+St.%2C+Poblacion+4%2C+San+Jose%2C+Occidental+Mindoro%3D"
       }
     ]
   },
@@ -1214,47 +1357,53 @@
         "name": "Chefs & Bakers Master Franchise Corporation",
         "address": "Chefs and Bakers Bldg., 13th Lacson-Aguinaldo St., Brgy. 4, Bacolod City, Negros Occidental",
         "phoneNumbers": [
-          "#0917-3000288",
-          "#0933-8216538"
-        ]
+          "0917-3000288",
+          "0933-8216538"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Chefs+and+Bakers+Bldg.%2C+13th+Lacson-Aguinaldo+St.%2C+Brgy.+4%2C+Bacolod+City%2C+Negros+Occidental"
       },
       {
         "name": "Babi's Chocolate Store",
         "address": "Door 1, Irene Bldg., Hilado cor. F. Y. Manalo Sts., Bacolod City, Negros Occidental",
         "phoneNumbers": [
-          "#0925-8085248",
-          "#0917-5150032"
-        ]
+          "0925-8085248",
+          "0917-5150032"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+1%2C+Irene+Bldg.%2C+Hilado+cor.+F.+Y.+Manalo+Sts.%2C+Bacolod+City%2C+Negros+Occidental"
       },
       {
         "name": "Negrense Baking & Chocolate Hub",
         "address": "Marivic Bldg., Yunque cor. Rizal Sts., La Carlota City, Negros Occidental",
         "phoneNumbers": [
-          "#0917-1207986",
-          "#0945-7649179"
-        ]
+          "0917-1207986",
+          "0945-7649179"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marivic+Bldg.%2C+Yunque+cor.+Rizal+Sts.%2C+La+Carlota+City%2C+Negros+Occidental"
       },
       {
         "name": "Everkeen Marketing, Inc.",
         "address": "VL Yap cor. Araneta Sts., Singcang, Bacolod City, Negros Accidental",
         "phoneNumbers": [
-          "#0928-5953288",
-          "#0999-2216740"
-        ]
+          "0928-5953288",
+          "0999-2216740"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=VL+Yap+cor.+Araneta+Sts.%2C+Singcang%2C+Bacolod+City%2C+Negros+Accidental"
       },
       {
         "name": "Food Sun Spices Trading",
-        "address": "Door #2 Quendy's Bldg., Amelia Ave., Libertad, Bacolod City, Negros Occidental",
+        "address": "Door 2 Quendy's Bldg., Amelia Ave., Libertad, Bacolod City, Negros Occidental",
         "phoneNumbers": [
-          "#0917-7713364"
-        ]
+          "0917-7713364"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+%232+Quendy%27s+Bldg.%2C+Amelia+Ave.%2C+Libertad%2C+Bacolod+City%2C+Negros+Occidental"
       },
       {
         "name": "Yoomi Spices Trading",
-        "address": "Door #3-4 ACFC Bldg., Libertad St., Brgy. 33, Bacolod City, Negros Occidental",
+        "address": "Door 3-4 ACFC Bldg., Libertad St., Brgy. 33, Bacolod City, Negros Occidental",
         "phoneNumbers": [
-          "#0995-4584318"
-        ]
+          "0995-4584318"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+%233-4+ACFC+Bldg.%2C+Libertad+St.%2C+Brgy.+33%2C+Bacolod+City%2C+Negros+Occidental"
       }
     ]
   },
@@ -1265,57 +1414,64 @@
         "name": "Lee Super Plaza",
         "address": "Gov. M. F. Percides St., Dumaguete City, Negros Oriental",
         "phoneNumbers": [
-          "#0908-8136744",
-          "#0917-5332000",
-          "#0917-5334222",
-          "#0917-8850000"
-        ]
+          "0908-8136744",
+          "0917-5332000",
+          "0917-5334222",
+          "0917-8850000"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gov.+M.+F.+Percides+St.%2C+Dumaguete+City%2C+Negros+Oriental"
       },
       {
         "name": "New Yan Yan Commercial",
         "address": "Sta. Rosa cor. Mabini Sts., Dumaguete City, Negros Oriental",
         "phoneNumbers": [
-          "#0955-9333086",
-          "#0955-5185996"
-        ]
+          "0955-9333086",
+          "0955-5185996"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sta.+Rosa+cor.+Mabini+Sts.%2C+Dumaguete+City%2C+Negros+Oriental"
       },
       {
         "name": "Yujstel Marketing",
         "address": "Door 1, J&J Hotelier, Brgy. Looc, Dumaguete City, Negros Oriental",
         "phoneNumbers": [
-          "#0917-3006524"
-        ]
+          "0917-3006524"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+1%2C+J%26J+Hotelier%2C+Brgy.+Looc%2C+Dumaguete+City%2C+Negros+Oriental"
       },
       {
         "name": "Jimkarl Merchandise",
-        "address": "Stall #231, Bldg. 3, Public Market Complex, Dumaguete City, Negros Oriental",
+        "address": "Stall 231, Bldg. 3, Public Market Complex, Dumaguete City, Negros Oriental",
         "phoneNumbers": [
-          "#0917-7072018"
-        ]
+          "0917-7072018"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23231%2C+Bldg.+3%2C+Public+Market+Complex%2C+Dumaguete+City%2C+Negros+Oriental"
       },
       {
         "name": "SBJ Commercial",
         "address": "Bais Satellite Market, Bais City, Negros Oriental",
         "phoneNumbers": [
-          "#0928-5597802",
-          "#0998-9853022"
-        ]
+          "0928-5597802",
+          "0998-9853022"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Bais+Satellite+Market%2C+Bais+City%2C+Negros+Oriental"
       },
       {
         "name": "Angelique's Food and Beverage Essentials",
         "address": "Percides cor. Sta. Rosa Sts., Poblacion 2, Dumaguete City, Negros Oriental",
         "phoneNumbers": [
-          "#0977-8270780",
-          "#0933-8196061",
+          "0977-8270780",
+          "0933-8196061",
           "0933-8196060"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Percides+cor.+Sta.+Rosa+Sts.%2C+Poblacion+2%2C+Dumaguete+City%2C+Negros+Oriental"
       },
       {
         "name": "J&C Enterprises",
         "address": "Colon St., Brgy. 3, Dumguete City, Negros Oriental",
         "phoneNumbers": [
-          "#0917-1047003"
-        ]
+          "0917-1047003"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Colon+St.%2C+Brgy.+3%2C+Dumguete+City%2C+Negros+Oriental"
       }
     ]
   },
@@ -1326,8 +1482,9 @@
         "name": "Marianing Superstore",
         "address": "Dr. Gonzales cor. Pastrana Sts., Poblacion, Kalibo, Aklan",
         "phoneNumbers": [
-          "#0918-9275041"
-        ]
+          "0918-9275041"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dr.+Gonzales+cor.+Pastrana+Sts.%2C+Poblacion%2C+Kalibo%2C+Aklan"
       }
     ]
   },
@@ -1338,39 +1495,44 @@
         "name": "Bonz Local Pinoy Favorites, Inc.",
         "address": "Iloilo Terminal Market, Brgy. Flores, Iloilo City, Iloilo",
         "phoneNumbers": [
-          "#0917-2087654"
-        ]
+          "0917-2087654"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Iloilo+Terminal+Market%2C+Brgy.+Flores%2C+Iloilo+City%2C+Iloilo"
       },
       {
         "name": "Celine Gee Vendo Electronics Enterprise & Services",
         "address": "Fernandez Bldg., Tagbac, Jaro, Iloilo City, Iloilo",
         "phoneNumbers": [
-          "#0995-0142599",
+          "0995-0142599",
           "0998-9794801"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fernandez+Bldg.%2C+Tagbac%2C+Jaro%2C+Iloilo+City%2C+Iloilo"
       },
       {
         "name": "Gascon Balut & Egg Retailer",
         "address": "Iloilo Terminal Market, Rizal St., Brgy. Flores, Iloilo City, Iloilo",
         "phoneNumbers": [
-          "#0998-3045395",
+          "0998-3045395",
           "0908-1922219"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Iloilo+Terminal+Market%2C+Rizal+St.%2C+Brgy.+Flores%2C+Iloilo+City%2C+Iloilo"
       },
       {
         "name": "Nodque Marketing",
         "address": "LMT Bldg., De Leon St., Iloilo City, Iloilo",
         "phoneNumbers": [
-          "#0917-1450219"
-        ]
+          "0917-1450219"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=LMT+Bldg.%2C+De+Leon+St.%2C+Iloilo+City%2C+Iloilo"
       },
       {
         "name": "CR8 Food Products Trading",
         "address": "Tupas St., Poblacion 6, Tigbauan, Iloilo",
         "phoneNumbers": [
-          "#0921-7292522",
-          "#0945-5147527"
-        ]
+          "0921-7292522",
+          "0945-5147527"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tupas+St.%2C+Poblacion+6%2C+Tigbauan%2C+Iloilo"
       }
     ]
   },
@@ -1379,33 +1541,37 @@
     "dealers": [
       {
         "name": "SYP Enterprises",
-        "address": "#276 P. Burgos St., Brgy. 37, Tacloban City, Leyte",
+        "address": "276 P. Burgos St., Brgy. 37, Tacloban City, Leyte",
         "phoneNumbers": [
-          "#0956-1995296",
-          "#0999-0031568"
-        ]
+          "0956-1995296",
+          "0999-0031568"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23276+P.+Burgos+St.%2C+Brgy.+37%2C+Tacloban+City%2C+Leyte"
       },
       {
         "name": "30 Degrees Frozen Products Trading",
         "address": "Brgy. 1 & 4, Libertad, Tacloban City, Leyte",
         "phoneNumbers": [
-          "#0917-8088188",
-          "#0917-8880220"
-        ]
+          "0917-8088188",
+          "0917-8880220"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Brgy.+1+%26+4%2C+Libertad%2C+Tacloban+City%2C+Leyte"
       },
       {
         "name": "I-njoy General Merchandize",
         "address": "Rizal Ave., Brgy. 16, Tacloban City, Leyte",
         "phoneNumbers": [
-          "#0917-3249197"
-        ]
+          "0917-3249197"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rizal+Ave.%2C+Brgy.+16%2C+Tacloban+City%2C+Leyte"
       },
       {
         "name": "Lydia Rosales Store",
-        "address": "Stall #34 Ormoc Public Market, Juan Luna St., Ormoc City, Leyte",
+        "address": "Stall 34 Ormoc Public Market, Juan Luna St., Ormoc City, Leyte",
         "phoneNumbers": [
-          "#0917-5100406"
-        ]
+          "0917-5100406"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%2334+Ormoc+Public+Market%2C+Juan+Luna+St.%2C+Ormoc+City%2C+Leyte"
       }
     ]
   },
@@ -1416,9 +1582,10 @@
         "name": "Sontess, Inc.",
         "address": "National Road, Brgy. Dalakit, Catarman, Northern Samar",
         "phoneNumbers": [
-          "#0917-7901022",
-          "#0905-5476895"
-        ]
+          "0917-7901022",
+          "0905-5476895"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=National+Road%2C+Brgy.+Dalakit%2C+Catarman%2C+Northern+Samar"
       }
     ]
   },
@@ -1429,30 +1596,34 @@
         "name": "Nihibi Corporation",
         "address": "Diamond Food Products, NS Cabahug St., Sudlon, Maguikay, Mandaue, Cebu",
         "phoneNumbers": [
-          "#0919-0795446"
-        ]
+          "0919-0795446"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Diamond+Food+Products%2C+NS+Cabahug+St.%2C+Sudlon%2C+Maguikay%2C+Mandaue%2C+Cebu"
       },
       {
         "name": "JCH - New Lucky 168 Corporation",
-        "address": "#4922 R. Duterte St., Banawa, Guadalupe, Cebu City, Cebu",
+        "address": "4922 R. Duterte St., Banawa, Guadalupe, Cebu City, Cebu",
         "phoneNumbers": [
-          "#0925-8727344",
-          "#0917-8833799"
-        ]
+          "0925-8727344",
+          "0917-8833799"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%234922+R.+Duterte+St.%2C+Banawa%2C+Guadalupe%2C+Cebu+City%2C+Cebu"
       },
       {
         "name": "Joeden Consumer Goods Trading",
         "address": "Anopog Dumlog, Toledo City, Cebu",
         "phoneNumbers": [
-          "#0917-3232883"
-        ]
+          "0917-3232883"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Anopog+Dumlog%2C+Toledo+City%2C+Cebu"
       },
       {
         "name": "Veyra Sari-Sari Store",
-        "address": "Stall #113 Carcar Public Market, Carcar City, Cebu",
+        "address": "Stall 113 Carcar Public Market, Carcar City, Cebu",
         "phoneNumbers": [
-          "#0929-8575933"
-        ]
+          "0929-8575933"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23113+Carcar+Public+Market%2C+Carcar+City%2C+Cebu"
       }
     ]
   },
@@ -1463,37 +1634,42 @@
         "name": "Alturas Supermarket Corporation /",
         "address": "Alturas Corporate Center, North Wing, Island City Mall Bldg., Dampas District, Tagbilaran City, Bohol",
         "phoneNumbers": [
-          "#0919-0796704",
-          "#0919-0795680"
-        ]
+          "0919-0796704",
+          "0919-0795680"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Alturas+Corporate+Center%2C+North+Wing%2C+Island+City+Mall+Bldg.%2C+Dampas+District%2C+Tagbilaran+City%2C+Bohol"
       },
       {
         "name": "Ant Mart Enterprises, Inc.",
-        "address": "#58 San Jose St., Cogon District, Tagbilaran City, Bohol",
+        "address": "58 San Jose St., Cogon District, Tagbilaran City, Bohol",
         "phoneNumbers": [
-          "#0938-2828135"
-        ]
+          "0938-2828135"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2358+San+Jose+St.%2C+Cogon+District%2C+Tagbilaran+City%2C+Bohol"
       },
       {
         "name": "32 Trading Post",
-        "address": "#38C J. S. Torralba St., Tagbilaran City, Bohol",
+        "address": "38C J. S. Torralba St., Tagbilaran City, Bohol",
         "phoneNumbers": [
-          "#0917-3035478"
-        ]
+          "0917-3035478"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2338C+J.+S.+Torralba+St.%2C+Tagbilaran+City%2C+Bohol"
       },
       {
         "name": "Joytan Dauis Convenience Store",
         "address": "P8 Union, Poblacion, Dauis, Bohol",
         "phoneNumbers": [
-          "#0949-3301183"
-        ]
+          "0949-3301183"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=P8+Union%2C+Poblacion%2C+Dauis%2C+Bohol"
       },
       {
         "name": "Boylinda Store",
         "address": "Block 4 Circumferential Bldg., Ubay Public Market, Poblacion, Ubay, Bohol",
         "phoneNumbers": [
-          "#0985-9068060"
-        ]
+          "0985-9068060"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+4+Circumferential+Bldg.%2C+Ubay+Public+Market%2C+Poblacion%2C+Ubay%2C+Bohol"
       }
     ]
   },
@@ -1504,15 +1680,17 @@
         "name": "L'L Frozen Food Trading",
         "address": "Zone 2, Airport Village, Landing, Casisang, Malaybalay City, Bukidnon",
         "phoneNumbers": [
-          "#0967-9101018"
-        ]
+          "0967-9101018"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zone+2%2C+Airport+Village%2C+Landing%2C+Casisang%2C+Malaybalay+City%2C+Bukidnon"
       },
       {
         "name": "ANF Frozenhaus",
         "address": "Tamin Bldg., Moreno St., Brgy. 5, Malaybalay City, Bukidnon",
         "phoneNumbers": [
-          "#0917-8886624"
-        ]
+          "0917-8886624"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Tamin+Bldg.%2C+Moreno+St.%2C+Brgy.+5%2C+Malaybalay+City%2C+Bukidnon"
       }
     ]
   },
@@ -1523,46 +1701,52 @@
         "name": "D and J Baker's Place",
         "address": "Unit 5, Gait Bldg., National Highway, Maranding, Lala, Lanao del Norte",
         "phoneNumbers": [
-          "#0922-8642681",
-          "#0917-3000908"
-        ]
+          "0922-8642681",
+          "0917-3000908"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+5%2C+Gait+Bldg.%2C+National+Highway%2C+Maranding%2C+Lala%2C+Lanao+del+Norte"
       },
       {
         "name": "JMC Trading",
         "address": "FB Laya St., Palao, Iligan City, Lanao del Norte",
         "phoneNumbers": [
-          "#0917-7163609"
-        ]
+          "0917-7163609"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=FB+Laya+St.%2C+Palao%2C+Iligan+City%2C+Lanao+del+Norte"
       },
       {
         "name": "ADL Rivson Commercial",
         "address": "Door 12, U & J Bldg. 1, B. S. Ong St., Pala-o Market, Pala-o, Iligan City, Lanao del Norte",
         "phoneNumbers": [
-          "#0917-7088092"
-        ]
+          "0917-7088092"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+12%2C+U+%26+J+Bldg.+1%2C+B.+S.+Ong+St.%2C+Pala-o+Market%2C+Pala-o%2C+Iligan+City%2C+Lanao+del+Norte"
       },
       {
         "name": "FK Mart",
         "address": "Gen. Aguinaldo St., Poblacion, Iligan City, Lanao del Norte",
         "phoneNumbers": [
-          "#0920-9268723",
-          "#0919-0762018"
-        ]
+          "0920-9268723",
+          "0919-0762018"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gen.+Aguinaldo+St.%2C+Poblacion%2C+Iligan+City%2C+Lanao+del+Norte"
       },
       {
         "name": "DJ Mart",
         "address": "DJ Mart Bldg., Picardal St., Mahayahay, Iligan City, Lanao Del Norte",
         "phoneNumbers": [
-          "#0925-8808892",
+          "0925-8808892",
           "0917-7022004"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=DJ+Mart+Bldg.%2C+Picardal+St.%2C+Mahayahay%2C+Iligan+City%2C+Lanao+Del+Norte"
       },
       {
         "name": "Ma. Del Carmen Mart, Inc.",
         "address": "U and J Bldg., Gen. Aguinaldo St., Pala-o, Iligan City, Lanao Del Norte",
         "phoneNumbers": [
-          "#0927-4953649"
-        ]
+          "0927-4953649"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=U+and+J+Bldg.%2C+Gen.+Aguinaldo+St.%2C+Pala-o%2C+Iligan+City%2C+Lanao+Del+Norte"
       }
     ]
   },
@@ -1573,8 +1757,9 @@
         "name": "Amroding General Merchandise",
         "address": "Marawi Poblacion, Marawi City, Lanao Del Sur",
         "phoneNumbers": [
-          "#0905-7856574"
-        ]
+          "0905-7856574"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marawi+Poblacion%2C+Marawi+City%2C+Lanao+Del+Sur"
       }
     ]
   },
@@ -1585,48 +1770,54 @@
         "name": "JT Food Depot",
         "address": "Door 4, Lavina Bldg., Justo Ramonal St., Cagayan De Oro, Misamis Oriental",
         "phoneNumbers": [
-          "#0977-4983050",
-          "#0935-8259134",
-          "#0917-7703593",
-          "#0917-7676667"
-        ]
+          "0977-4983050",
+          "0935-8259134",
+          "0917-7703593",
+          "0917-7676667"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+4%2C+Lavina+Bldg.%2C+Justo+Ramonal+St.%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
       },
       {
         "name": "Koolhans Store",
         "address": "Valenzuela Rd., Lapasan, Cagayan De Oro, Misamis Oriental",
         "phoneNumbers": [
-          "#0936-6300021"
-        ]
+          "0936-6300021"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Valenzuela+Rd.%2C+Lapasan%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
       },
       {
         "name": "ILT Food Products",
-        "address": "#196 Corrales Ave., Brgy. 29, Cagayan De Oro, Misamis Oriental",
+        "address": "196 Corrales Ave., Brgy. 29, Cagayan De Oro, Misamis Oriental",
         "phoneNumbers": [
-          "#0917-5288088"
-        ]
+          "0917-5288088"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23196+Corrales+Ave.%2C+Brgy.+29%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
       },
       {
         "name": "EJ Food Products Trading",
         "address": "B14, L14, Waling-Waling St., Villa Candida Subd., Buluan, Cagayan De Oro, Misamis Occidental",
         "phoneNumbers": [
-          "#0965-4010772",
-          "#0917-7169593",
-          "#0917-1229459"
-        ]
+          "0965-4010772",
+          "0917-7169593",
+          "0917-1229459"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=B14%2C+L14%2C+Waling-Waling+St.%2C+Villa+Candida+Subd.%2C+Buluan%2C+Cagayan+De+Oro%2C+Misamis+Occidental"
       },
       {
         "name": "EGTLC General Merchandise",
         "address": "Unit 4 Gaw Bldg., Agora Lapasan, Cagayan De Oro, Misamis Oriental",
         "phoneNumbers": [
-          "#0917-7189188"
-        ]
+          "0917-7189188"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+4+Gaw+Bldg.%2C+Agora+Lapasan%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
       },
       {
         "name": "Cagayan 168 Corporation",
         "address": "Yacapin-Guillermo Sts., Brgy. 33, Cagayan De Oro, Misamis Oriental",
         "phoneNumbers": [
-          "#0917-7067935"
-        ]
+          "0917-7067935"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Yacapin-Guillermo+Sts.%2C+Brgy.+33%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
       }
     ]
   },
@@ -1635,10 +1826,11 @@
     "dealers": [
       {
         "name": "FD Packaging Services",
-        "address": "#862 Don Anselmo Bernad Ave., Carmen Annex, Ozamiz, Misamis Occidental",
+        "address": "862 Don Anselmo Bernad Ave., Carmen Annex, Ozamiz, Misamis Occidental",
         "phoneNumbers": [
-          "#0949-6177795"
-        ]
+          "0949-6177795"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23862+Don+Anselmo+Bernad+Ave.%2C+Carmen+Annex%2C+Ozamiz%2C+Misamis+Occidental"
       }
     ]
   },
@@ -1649,38 +1841,43 @@
         "name": "GQ9 Multisales",
         "address": "JFG Bldg., Ochoa Ave., Limaha, Butuan City, Agusan Del Norte",
         "phoneNumbers": [
-          "#0907-8881983"
-        ]
+          "0907-8881983"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=JFG+Bldg.%2C+Ochoa+Ave.%2C+Limaha%2C+Butuan+City%2C+Agusan+Del+Norte"
       },
       {
         "name": "Butuan Golden Key Corporation",
-        "address": "#54-D Rosales St., San Ignacio, Butuan City, Agusan Del Norte",
+        "address": "54-D Rosales St., San Ignacio, Butuan City, Agusan Del Norte",
         "phoneNumbers": [
-          "#0909-0047551",
+          "0909-0047551",
           "0917-7033444"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2354-D+Rosales+St.%2C+San+Ignacio%2C+Butuan+City%2C+Agusan+Del+Norte"
       },
       {
         "name": "Au Foods and Packaging",
         "address": "KT 104, SM City Butuan, P-5 JC Aquino Ave., Lapu-Lapu, Butuan City, Agusan Del Norte",
         "phoneNumbers": [
-          "#0908-8948285"
-        ]
+          "0908-8948285"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=KT+104%2C+SM+City+Butuan%2C+P-5+JC+Aquino+Ave.%2C+Lapu-Lapu%2C+Butuan+City%2C+Agusan+Del+Norte"
       },
       {
         "name": "Wing-On Buenavista",
         "address": "National Highway cor. Cagampang St., Poblacion 3, Buenavista, Agusan Del Norte",
         "phoneNumbers": [
-          "#0949-8841434"
-        ]
+          "0949-8841434"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=National+Highway+cor.+Cagampang+St.%2C+Poblacion+3%2C+Buenavista%2C+Agusan+Del+Norte"
       },
       {
         "name": "Companero Commercial",
         "address": "Lopez Jaena St., Brgy. Humabon, Butuan City, Agusan Del Norte",
         "phoneNumbers": [
-          "#0917-1155044",
+          "0917-1155044",
           "0998-5757724"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lopez+Jaena+St.%2C+Brgy.+Humabon%2C+Butuan+City%2C+Agusan+Del+Norte"
       }
     ]
   },
@@ -1691,8 +1888,9 @@
         "name": "Absolute Essentials Traders, Inc.",
         "address": "Alesandra Bldg., Rizal cor. Amat Sts., Surigao City, Surigao Del Norte",
         "phoneNumbers": [
-          "#0917-5820929"
-        ]
+          "0917-5820929"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Alesandra+Bldg.%2C+Rizal+cor.+Amat+Sts.%2C+Surigao+City%2C+Surigao+Del+Norte"
       }
     ]
   },
@@ -1701,109 +1899,134 @@
     "dealers": [
       {
         "name": "JC Plastic Center",
-        "address": "#062 E. Perez St., Kidapawan City, North Cotabato / Purok 1, Lanao, Kidapawan City, North Cotabato",
+        "address": "062 E. Perez St., Kidapawan City, North Cotabato / Purok 1, Lanao, Kidapawan City, North Cotabato",
         "phoneNumbers": [
-          "#0919-6527742"
-        ]
+          "0919-6527742"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23062+E.+Perez+St.%2C+Kidapawan+City%2C+North+Cotabato+%2F+Purok+1%2C+Lanao%2C+Kidapawan+City%2C+North+Cotabato"
       },
       {
         "name": "MKJ Trading",
         "address": "Datu Ali St., Poblacion 1, Midsayap, North Cotabato",
         "phoneNumbers": [
-          "TIN # 926-789-803-000"
-        ]
+          "TIN  926-789-803-000",
+          "0917-8030635"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Datu+Ali+St.%2C+Poblacion+1%2C+Midsayap%2C+North+Cotabato"
+      }
+    ]
+  },
+  {
+    "name": "South Cotabato",
+    "dealers": [
+      {
+        "name": "New Marbel Amigo Commercial",
+        "address": "A. Morrow cor. Roxas Sts., Koronadal City, South Cotabato",
+        "phoneNumbers": [
+          "0928-5550900"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=A.+Morrow+cor.+Roxas+Sts.%2C+Koronadal+City%2C+South+Cotabato"
       },
       {
-        "name": "#0917-8030635",
-        "address": "• SOUTH COTABATO",
+        "name": "Buenas Suerte Trading",
+        "address": "140 Alunan St., Bula, General Santos City, South Cotabato",
         "phoneNumbers": [
-          "New Marbel Amigo Commercial"
-        ]
+          "0995-5559391 "
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23140+Alunan+St.%2C+Bula%2C+General+Santos+City%2C+South+Cotabato"
       },
       {
-        "name": "A. Morrow cor. Roxas Sts., Koronadal City, South Cotabato",
-        "address": "#0928-5550900",
+        "name": "Ethan and Evan's Food Depot",
+        "address": "Delos Reyes Bldg., Magsaysay Ave., General Santos City, South Cotabato",
         "phoneNumbers": [
-          "Ethan and Evan's Food Depot"
-        ]
-      },
-      {
-        "name": "Delos Reyes Bldg., Magsaysay Ave., General Santos City, South Cotabato",
-        "address": "#0999-8894052",
-        "phoneNumbers": [
-          "• DAVAO"
-        ]
-      },
+          "0999-8894052"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Delos+Reyes+Bldg.%2C+Magsaysay+Ave.%2C+General+Santos+City%2C+South+Cotabato"
+      }
+    ]
+  },
+  {
+    "name": "Davao",
+    "dealers": [
       {
         "name": "Lifestream Commercial",
-        "address": "#71 Carmam Bldg., Sta. Ana cor. Gempesaw St., Davao City",
+        "address": "71 Carmam Bldg., Sta. Ana cor. Gempesaw St., Davao City",
         "phoneNumbers": [
-          "#0917-7718104",
-          "#0917-7295802",
+          "0917-7718104",
+          "0917-7295802",
           "0977-8518882"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2371+Carmam+Bldg.%2C+Sta.+Ana+cor.+Gempesaw+St.%2C+Davao+City"
       },
       {
         "name": "Davao Great Wall Trading",
         "address": "T. Monteverde St., Poblacion, Davao City",
         "phoneNumbers": [
-          "#0922-8521414",
-          "#0917-7017989"
-        ]
+          "0922-8521414",
+          "0917-7017989"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=T.+Monteverde+St.%2C+Poblacion%2C+Davao+City"
       },
       {
         "name": "JBBS Trading Corporation",
         "address": "Door 1, Ong Bldg., Lapu-Lapu St., Davao City",
         "phoneNumbers": [
-          "#0922-8583730",
-          "#0927-5909533"
-        ]
+          "0922-8583730",
+          "0927-5909533"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+1%2C+Ong+Bldg.%2C+Lapu-Lapu+St.%2C+Davao+City"
       },
       {
         "name": "BP Baking Supplies and Cooking Equipment Corporation",
-        "address": "#68 Lizada St., Brgy. 27-C, Poblacion District, Davao City",
+        "address": "68 Lizada St., Brgy. 27-C, Poblacion District, Davao City",
         "phoneNumbers": [
-          "#0991-3739774",
-          "#0960-4842667"
-        ]
+          "0991-3739774",
+          "0960-4842667"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2368+Lizada+St.%2C+Brgy.+27-C%2C+Poblacion+District%2C+Davao+City"
       },
       {
         "name": "Davao 88 Traders",
         "address": "Lizada Street, Davao City",
         "phoneNumbers": [
-          "#0917-7200327",
-          "#0917-7151228",
-          "#0998-8860068"
-        ]
+          "0917-7200327",
+          "0917-7151228",
+          "0998-8860068"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lizada+Street%2C+Davao+City"
       },
       {
         "name": "Kimsheen Dvo. Milktea Supplies",
-        "address": "Door #4 LDL Commercial Bldg., Cabantian Buhangin District, Cabantian Rd., Davao City",
+        "address": "Door 4 LDL Commercial Bldg., Cabantian Buhangin District, Cabantian Rd., Davao City",
         "phoneNumbers": [
-          "#0920-5265415"
-        ]
+          "0920-5265415"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+%234+LDL+Commercial+Bldg.%2C+Cabantian+Buhangin+District%2C+Cabantian+Rd.%2C+Davao+City"
       },
       {
         "name": "ASL Durian Marketing, OPC",
         "address": "Gante Dalisay Ave., Purok Mansanitas, Magugpo West, Tagum City, Davao Del Norte",
         "phoneNumbers": [
-          "#0917-1689222",
-          "#0918-9290096"
-        ]
+          "0917-1689222",
+          "0918-9290096"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gante+Dalisay+Ave.%2C+Purok+Mansanitas%2C+Magugpo+West%2C+Tagum+City%2C+Davao+Del+Norte"
       },
       {
         "name": "Dreamer Milktea Supplies",
         "address": "Ursua Bldg., Purok Waling-Waling, Visayan Village, Tagum City, Davao Del Sur",
         "phoneNumbers": [
-          "#0950-2034919"
-        ]
+          "0950-2034919"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Ursua+Bldg.%2C+Purok+Waling-Waling%2C+Visayan+Village%2C+Tagum+City%2C+Davao+Del+Sur"
       },
       {
         "name": "Golden C4S Trading Corporation",
         "address": "Lim Bldg., Roxas Ext., Zone 2, Digos City, Davao Del Sur",
         "phoneNumbers": [
-          "#0920-3378903"
-        ]
+          "0920-3378903"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lim+Bldg.%2C+Roxas+Ext.%2C+Zone+2%2C+Digos+City%2C+Davao+Del+Sur"
       }
     ]
   },
@@ -1812,18 +2035,20 @@
     "dealers": [
       {
         "name": "Tacurong General Merchandise and Panay Repacking",
-        "address": "#14 Bonifacio St., Tacurong City, Sultan Kudarat",
+        "address": "14 Bonifacio St., Tacurong City, Sultan Kudarat",
         "phoneNumbers": [
-          "#0917-5308496"
-        ]
+          "0917-5308496"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2314+Bonifacio+St.%2C+Tacurong+City%2C+Sultan+Kudarat"
       },
       {
         "name": "A. Latoza Store",
-        "address": "Stall # 26, Tacurong Public Market, #6 Malvar St., Poblacion, Tacurong City, Sultan Kudarat",
+        "address": "Stall  26, Tacurong Public Market, 6 Malvar St., Poblacion, Tacurong City, Sultan Kudarat",
         "phoneNumbers": [
-          "#0926-2479767",
+          "0926-2479767",
           "0906-1832214"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23+26%2C+Tacurong+Public+Market%2C+%236+Malvar+St.%2C+Poblacion%2C+Tacurong+City%2C+Sultan+Kudarat"
       }
     ]
   },
@@ -1832,49 +2057,55 @@
     "dealers": [
       {
         "name": "Lansh Enterprise Center",
-        "address": "#44 Notre Dame Ave., Cotabato City, Maguindanao Del Norte",
+        "address": "44 Notre Dame Ave., Cotabato City, Maguindanao Del Norte",
         "phoneNumbers": [
-          "#0917-7055233"
-        ]
+          "0917-7055233"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2344+Notre+Dame+Ave.%2C+Cotabato+City%2C+Maguindanao+Del+Norte"
       },
       {
         "name": "Store Zone, Inc.",
         "address": "Don Rufino Alonzo St., Cotabato City, Maguindanao Del Norte",
         "phoneNumbers": [
-          "#0917-6221950",
-          "#0917-6322141",
-          "#0917-7920619"
-        ]
+          "0917-6221950",
+          "0917-6322141",
+          "0917-7920619"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Don+Rufino+Alonzo+St.%2C+Cotabato+City%2C+Maguindanao+Del+Norte"
       },
       {
         "name": "Cotabato Plastic Trading",
         "address": "Martinez Bldg., SK Pendatuan Ave., Cotabato City, Maguindanao Del Norte",
         "phoneNumbers": [
-          "#0918-2284075",
-          "#0967-8574009"
-        ]
+          "0918-2284075",
+          "0967-8574009"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Martinez+Bldg.%2C+SK+Pendatuan+Ave.%2C+Cotabato+City%2C+Maguindanao+Del+Norte"
       },
       {
         "name": "Golden Qilin Distribution Corporation",
-        "address": "#4 Don T. V. Juliano Avenue, Rosary Heights, Cotabato City, Maguindanao Del Norte",
+        "address": "4 Don T. V. Juliano Avenue, Rosary Heights, Cotabato City, Maguindanao Del Norte",
         "phoneNumbers": [
-          "#0916-2014950",
-          "#0956-5181038"
-        ]
+          "0916-2014950",
+          "0956-5181038"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%234+Don+T.+V.+Juliano+Avenue%2C+Rosary+Heights%2C+Cotabato+City%2C+Maguindanao+Del+Norte"
       },
       {
         "name": "Dee Kei's Grocery",
         "address": "Dalican, Poblacion, Datu Odin Sinsuat, Maguindanao Del Norte",
         "phoneNumbers": [
-          "#0917-1625886"
-        ]
+          "0917-1625886"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dalican%2C+Poblacion%2C+Datu+Odin+Sinsuat%2C+Maguindanao+Del+Norte"
       },
       {
         "name": "NJ Linos Food, OPC",
-        "address": "#202 Puretan Bldg., Sinsuat Ave., Rosary Heights, Cotabato City, Maguindanao Del Norte",
+        "address": "202 Puretan Bldg., Sinsuat Ave., Rosary Heights, Cotabato City, Maguindanao Del Norte",
         "phoneNumbers": [
-          "#0917-7237208"
-        ]
+          "0917-7237208"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23202+Puretan+Bldg.%2C+Sinsuat+Ave.%2C+Rosary+Heights%2C+Cotabato+City%2C+Maguindanao+Del+Norte"
       }
     ]
   },
@@ -1885,26 +2116,29 @@
         "name": "Arclem Frozen Products Trading",
         "address": "Villa Sta. Rosa, Turno, Dipolog City, Zamboanga Del Norte",
         "phoneNumbers": [
-          "#0926-4033212",
+          "0926-4033212",
           "0910-3066887"
-        ]
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Villa+Sta.+Rosa%2C+Turno%2C+Dipolog+City%2C+Zamboanga+Del+Norte"
       },
       {
         "name": "Baking and Beyond Dipolog Baking Supplies Store",
         "address": "Burgos cor. Gen. Luna St., Dipolog City, Zamboanga Del Norte",
         "phoneNumbers": [
-          "#0939-1815800",
-          "#0908-8837880",
-          "#0965-3316168",
-          "#0995-4888578"
-        ]
+          "0939-1815800",
+          "0908-8837880",
+          "0965-3316168",
+          "0995-4888578"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Burgos+cor.+Gen.+Luna+St.%2C+Dipolog+City%2C+Zamboanga+Del+Norte"
       },
       {
         "name": "Baking Ounces Bakery Supplies Trading",
-        "address": "#285 Gen. Luna cor. Magsaysay Sts., Dipolog City, Zamboanga Del Norte",
+        "address": "285 Gen. Luna cor. Magsaysay Sts., Dipolog City, Zamboanga Del Norte",
         "phoneNumbers": [
-          "#0916-3162118"
-        ]
+          "0916-3162118"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23285+Gen.+Luna+cor.+Magsaysay+Sts.%2C+Dipolog+City%2C+Zamboanga+Del+Norte"
       }
     ]
   },
@@ -1915,32 +2149,36 @@
         "name": "DKD Marketing",
         "address": "A. Lim Bldg., Alejo Alvarez St. cor. San Jose Rd., Zamboanga City, Zamboanga Del Sur",
         "phoneNumbers": [
-          "#0917-6328884",
-          "#0917-7779884"
-        ]
+          "0917-6328884",
+          "0917-7779884"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=A.+Lim+Bldg.%2C+Alejo+Alvarez+St.+cor.+San+Jose+Rd.%2C+Zamboanga+City%2C+Zamboanga+Del+Sur"
       },
       {
         "name": "JA&C Food Store",
         "address": "Yangco St., Maloloy-on, Molave, Zamboanga Del Sur",
         "phoneNumbers": [
-          "#0950-8577672"
-        ]
+          "0950-8577672"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Yangco+St.%2C+Maloloy-on%2C+Molave%2C+Zamboanga+Del+Sur"
       },
       {
         "name": "I & CC Food Trading",
         "address": "Rizal Ave., Lumbia, Pagadian City, Zamboanga Del Sur",
         "phoneNumbers": [
-          "#0917-7759647"
-        ]
+          "0917-7759647"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Rizal+Ave.%2C+Lumbia%2C+Pagadian+City%2C+Zamboanga+Del+Sur"
       },
       {
         "name": "SuperV Grocer Hub",
         "address": "Pulmones St., Sta. Lucia, Pagadian City, Zamboanga Del Sur",
         "phoneNumbers": [
-          "#0909-2782882",
-          "#0912-1644208",
-          "#0935-0288993"
-        ]
+          "0909-2782882",
+          "0912-1644208",
+          "0935-0288993"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pulmones+St.%2C+Sta.+Lucia%2C+Pagadian+City%2C+Zamboanga+Del+Sur"
       }
     ]
   },
@@ -1949,11 +2187,12 @@
     "dealers": [
       {
         "name": "Leila's Enterprises",
-        "address": "Store #4 Notre Dame Bldg., Sanchez St., Brgy. Walled City, Jolo, Sulu",
+        "address": "Store 4 Notre Dame Bldg., Sanchez St., Brgy. Walled City, Jolo, Sulu",
         "phoneNumbers": [
-          "#0935-1568326",
-          "#0955-9909889"
-        ]
+          "0935-1568326",
+          "0955-9909889"
+        ],
+        "mapsLink": "https://www.google.com/maps/search/?api=1&query=Store+%234+Notre+Dame+Bldg.%2C+Sanchez+St.%2C+Brgy.+Walled+City%2C+Jolo%2C+Sulu"
       }
     ]
   }
