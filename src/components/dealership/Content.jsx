@@ -23,7 +23,10 @@ const Content = () => {
         <div className="row">
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
             <figure className="image" data-aos="fade-right">
-              <img src="/images/source/Carousel-AdsArtboard.png" alt="dealers" />
+              <img
+                src="/images/source/Carousel-AdsArtboard.png"
+                alt="dealers"
+              />
             </figure>
           </div>
           <div className="content-column col-lg-6 col-md-12 col-sm-12">
@@ -52,8 +55,13 @@ const Content = () => {
         </div>
       </section>
       <section
-        className="dealership-content"
-        style={{ padding: "2.5% 10% 0 10%" }}
+        className="dealership-content bg-primary text-white"
+        // style={{ padding: "2.5% 10% 0 10%" }}
+        style={{
+          backgroundImage: "url(/images/source/5.png)",
+          backgroundSize: "cover",
+          padding: "2.5% 10% 0 10%",
+        }}
       >
         <div className="row">
           <div className="content-column col-lg-6 col-md-12 col-sm-12">
@@ -96,11 +104,12 @@ const Content = () => {
           </div>
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
             <figure className="image" data-aos="fade-left">
-            <Link to="https://www.facebook.com/ALCLMarketing" target="_blank" className="">
-              <img
-                src="/images/source/dealers.jpg"
-                alt="dealers"
-              />
+              <Link
+                to="https://www.facebook.com/ALCLMarketing"
+                target="_blank"
+                className=""
+              >
+                <img src="/images/source/dealers.jpg" alt="dealers" />
               </Link>
             </figure>
           </div>
