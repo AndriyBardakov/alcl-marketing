@@ -5,6 +5,7 @@ import Statistics from "./Statistics";
 import IntroDescriptions from "./IntroDescriptions";
 import NegosyoSeries from "./NegosyoSeries";
 import Lifestyle from "./Lifestyle";
+import ActivitiesCollaborations from "./ActivitiesCollaborations";
 
 const index = () => {
   return (
@@ -12,10 +13,10 @@ const index = () => {
       {/* <Header /> */}
       <IntroDescriptions />
       <Statistics />
-      {/* <NegosyoSeries /> */}
-      {/* <Lifestyle /> */}
-      {/* <Section2 /> */}
-      {/* <Section3 /> */}
+      {/* <NegosyoSeries />
+      <Lifestyle /> */}
+      {/* <ActivitiesCollaborations /> */}
+
     </>
   );
 }

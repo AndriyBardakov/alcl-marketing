@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Contact from './Contact';
+// import Contact from './Contact';
 
 const Content = () => {
   return (
@@ -51,6 +51,16 @@ const Content = () => {
                 <li>Socmed Page / Website</li>
                 <li>Forwarder Details (if applicable)</li>
               </ul>
+              <div className="mt-4">
+                👉
+                <a
+                  className="fs-5 ms-2"
+                  href="/contact"
+                  rel="noopener noreferrer"
+                >
+                  Contact Us!
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -116,11 +126,11 @@ const Content = () => {
           </div>
         </div>
       </section>
-      <section style={{ padding: "5% 0 2.5% 0" }} data-aos="fade-down">
+      {/* <section style={{ padding: "5% 0 2.5% 0" }} data-aos="fade-down">
         <div className="auto-container">
           <Contact />
         </div>
-      </section>
+      </section> */}
     </>
   );
 }
