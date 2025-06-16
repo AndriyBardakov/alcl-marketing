@@ -404,12 +404,13 @@ Top Companies
   border-color: var(--primary-2nd-color);
 }
 
-.company-block-four .inner-box.product-box .btn-primary{
+.company-block-four .inner-box.product-box .btn-primary,
+.modal-dialog .btn-buy-now {
   background-color: #1c4d9c;
   // color: var(--primary-2nd-color);
 }
 
-.company-block-four .inner-box.product-box .btn-outline-primary{
+.company-block-four .inner-box.product-box .btn-outline-primary {
   border-color: #1c4d9c;
   color: #1c4d9c
   // color: var(--primary-2nd-color);
@@ -423,8 +424,14 @@ Top Companies
   // color: var(--primary-2nd-color);
 }
 
-.company-block-four .inner-box.product-box .btn-primary:hover{
+.company-block-four .inner-box.product-box .btn-primary:hover,
+.modal-dialog .btn-buy-now:hover{
   background-color: rgba(28, 77, 156, 0.8);
+}
+
+.product-btns-group .btn,
+.modal-dialog .btn-buy-now {
+  width: 75px
 }
 
 // .company-block-four .inner-box:hover .product-description {

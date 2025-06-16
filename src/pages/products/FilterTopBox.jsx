@@ -64,7 +64,7 @@ const FilterTopBox = () => {
                     <img src={product.image} alt="company brand" />
                   </span>
                   <h6>{product.name}</h6>
-                  <div className="d-flex justify-content-center mt-3 align-items-end gap-2 flex-grow-1">
+                  <div className="d-flex justify-content-center product-btns-group mt-3 align-items-end gap-2 flex-grow-1">
                     <a
                       href="#"
                       className="btn btn-outline-primary btn-sm"
@@ -112,6 +112,15 @@ const FilterTopBox = () => {
                     </div>
                     <div>{product.description}</div>
                   </div>
+                  <div className="mt-3 text-center">
+                      <Link
+                        to={product.link}
+                        target="_blank"
+                        className="btn btn-primary btn-sm btn-buy-now"
+                      >
+                        Buy Now
+                      </Link>
+                    </div>
                   {/* End PrivateMessageBox */}
                 </div>
                 {/* End .send-private-message-wrapper */}

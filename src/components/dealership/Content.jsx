@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Contact from './Contact';
 
 const Content = () => {
   return (
@@ -113,6 +114,11 @@ const Content = () => {
               </Link>
             </figure>
           </div>
+        </div>
+      </section>
+      <section style={{ padding: "5% 0 2.5% 0" }} data-aos="fade-down">
+        <div className="auto-container">
+          <Contact />
         </div>
       </section>
     </>

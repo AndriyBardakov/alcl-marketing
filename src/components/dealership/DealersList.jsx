@@ -16,7 +16,7 @@ const DealersList = () => {
     <section
       className="dealership-list"
       data-aos="fade-down"
-      style={{ padding: "5% 10% 2.5% 10%" }}
+      style={{ padding: "2.5% 10% 2.5% 10%" }}
     >
       <div
         className="dealers-list mb-4 fs-6 border rounded p-3"
