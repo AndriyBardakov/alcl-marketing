@@ -7,12 +7,12 @@ const Section3 = () => {
     <section
       className="bg-primary text-white text-center py-5"
       style={{
-        backgroundImage: "url(/images/source/5.png)",
+        backgroundImage: "url(/images/source/orange_bg.png)",
         backgroundSize: "cover",
         padding: "5% 20% 2.5% 20%",
       }}
     >
-      <h3 className="mb-4">Influencers</h3>
+      <h1 className="mb-5 fw-bolder">Influencers</h1>
 
       <div className="row">
         <div className="content-column col-lg-4 col-md-4 col-sm-12 order-2">

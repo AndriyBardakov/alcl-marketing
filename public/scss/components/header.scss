@@ -258,6 +258,10 @@ Main Header
   color: var(--primary-color) !important;
 }
 
+.main-menu .navigation > li.current.dropdown > span:after {
+  color: var(--primary-2nd-color) !important;
+}
+
 .main-menu .navigation > li > ul > li > ul {
   position: absolute;
   top: 100%;
@@ -641,6 +645,15 @@ Sticky Header
   @media (max-width: 767px) {
     margin-top: 60px;
     height: 200px;
+    padding-top: 70px !important;
+
+    h1 {
+      font-size: 30px !important;
+    }
+
+    h2 {
+      font-size: 20px !important;
+    }
   }
 }
 

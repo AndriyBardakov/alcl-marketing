@@ -31,11 +31,6 @@ export const mobileMenuData = [
     routePath: "/dealership",
   },
   {
-    id: 7,
-    label: "About",
-    routePath: "/about",
-  },
-  {
     id: 5,
     label: "Videos",
     items: [
@@ -66,8 +61,17 @@ export const mobileMenuData = [
     ],
   },
   {
-    id: 6,
-    label: "Contact",
-    routePath: "/contact",
-  },
+    id: 8,
+    label: "Company",
+    items: [
+      {
+        name: "About ALCL Marketing",
+        routePath: "/about",
+      },
+      {
+        name: "Contact Us",
+        routePath: "/contact",
+      }
+    ],
+  }
 ];
