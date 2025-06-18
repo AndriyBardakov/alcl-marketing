@@ -17,8 +17,9 @@ const Home = () => {
       <MetaComponent meta={metadata} />
       <Hero />
       <VideoCarousel />
-      <Section1 />
       <Section2 />
+      <Section1 />
+      <Section3 />
       {/* <SectionProducts /> */}
       {/* <Section3 /> */}
     </>

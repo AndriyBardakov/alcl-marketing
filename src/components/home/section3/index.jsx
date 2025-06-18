@@ -7,45 +7,65 @@ const Section3 = () => {
     <section
       className="bg-primary text-white text-center py-5"
       style={{
-        backgroundImage:
-          "url(https://doxo.com.ph/wp-content/uploads/2020/01/Dealer.png)",
+        backgroundImage: "url(/images/source/5.png)",
         backgroundSize: "cover",
-        padding: "5% 10%",
+        padding: "5% 20% 2.5% 20%",
       }}
     >
-      <div className="row">
-        <div className="content-column col-lg-6 col-md-12 col-sm-12">
-          <div className="inner-column" data-aos="zoom-in">
-            <div className="text text-white text-left fs-5 fw-bold">
-              Success story: Milk Tea Business with inJoy
-            </div>
-          </div>
-          <div className="inner-column " data-aos="fade-up">
-            <div className="sec-title">
-              <div className="text text-white text-left fs-5">
-                “Kung hindi ninyo susubukan, hindi ninyo malalaman… Talagang
-                napakaganda ng product ng inJoy, all in one! Napadali ang
-                pagtitimpla naming ng milk tea. Nakakatulong talaga sa mga
-                gustong magnegosyo kahit walang puhunan na ganon kalaki. Kahit
-                sa maliit na halaga, kaya mong magsimula ng negosyo!”
-              </div>
-            </div>
-          </div>
-        </div>
+      <h3 className="mb-4">Influencers</h3>
 
-        <div className="image-column col-lg-6 col-md-12 col-sm-12">
-          <figure className="video ratio ratio-16x9" data-aos="flip-up">
-            <iframe
-              width="560"
-              height="315"
-              src="https://www.youtube.com/embed/zC4qhYNfT4s?si=emjW7kaQgfLYbBRx"
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
-            ></iframe>
-          </figure>
+      <div className="row">
+        <div className="content-column col-lg-4 col-md-4 col-sm-12 order-2">
+          <Link
+            to="https://www.tiktok.com/@chefgerickmanalo/video/7274565585768402182"
+            target="_blank"
+            className="btn btn-light mb-3 p-2"
+          >
+            <figure className="image" data-aos="zoom-in">
+              <img
+                src="/images/source/influencers/Chef_Gericke.jpg"
+                alt="Chef Gericke"
+                className="rounded"
+              />
+              <figcaption className="text-center mt-2">Chef Gericke</figcaption>
+            </figure>
+          </Link>
+        </div>
+        <div className="content-column col-lg-4 col-md-4 col-sm-12 order-2">
+          <Link
+            to="https://www.instagram.com/p/DIswUudRYgP/"
+            target="_blank"
+            className="btn btn-light mb-3 p-2"
+          >
+            <figure className="image" data-aos="zoom-in">
+              <img
+                src="/images/source/influencers/Sophia_Cartie.jpg"
+                alt="Sophia Cartie"
+                className="rounded"
+              />
+              <figcaption className="text-center mt-2">
+                Sophia Cartie
+              </figcaption>
+            </figure>
+          </Link>
+        </div>
+        <div className="content-column col-lg-4 col-md-4 col-sm-12 order-2">
+          <Link
+            to="https://www.tiktok.com/@thejosephverallo"
+            target="_blank"
+            className="btn btn-light mb-3 p-2"
+          >
+            <figure className="image" data-aos="zoom-in">
+              <img
+                src="/images/source/influencers/Joseph_Verallo.jpg"
+                alt="Joseph Verallo"
+                className="rounded"
+              />
+              <figcaption className="text-center mt-2">
+                Joseph Verallo
+              </figcaption>
+            </figure>
+          </Link>
         </div>
       </div>
     </section>
