@@ -7,27 +7,27 @@ export const productsDataSelector = createSelector(
   (products) => products.productsData
 );
 
-export const categoriesSelector = createSelector(
+export const productsCategoriesSelector = createSelector(
   [getProducts],
   (products) => products.categories
 );
 
-export const filterSelector = createSelector(
+export const productsFilterSelector = createSelector(
   [getProducts],
   (products) => products.filter
 );
 
-export const categoryFilterSelector = createSelector(
-  [filterSelector],
+export const productsCategoryFilterSelector = createSelector(
+  [productsFilterSelector],
   (filter) => filter.category
 );
 
-export const keywordFilterSelector = createSelector(
-  [filterSelector],
+export const productsKeywordFilterSelector = createSelector(
+  [productsFilterSelector],
   (filter) => filter.keyword
 );
 
-export const currentPageSelector = createSelector(
+export const productsCurrentPageSelector = createSelector(
   [getProducts],
   (products) => products.currentPage
 );

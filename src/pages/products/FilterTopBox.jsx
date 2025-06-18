@@ -1,25 +1,22 @@
 import React, { useMemo } from "react";
 import { Link } from "react-router-dom";
-import companyData from "../../data/topCompany";
-import Pagination from "../../components/products/Pagination";
+import Pagination from "../../components/common/Pagination";
 import { useDispatch, useSelector } from "react-redux";
 import {
-  addCategoryFilter,
-  addKeywordFilter,
-  addPerPageFilter,
-  addSortFilter,
-  resetFilter,
+  addProductsPerPageFilter,
+  addProductsSortFilter,
+  resetProductsFilter,
 } from "../../redux/actions/products";
 import {
-  filterSelector,
+  productsFilterSelector,
   productsDataSelector,
-  currentPageSelector,
+  productsCurrentPageSelector,
 } from "../../redux/selectors/products";
 
 const FilterTopBox = () => {
   const productsData = useSelector(productsDataSelector);
-  const { keyword, category, sort, perPage } = useSelector(filterSelector);
-  const currentPage = useSelector(currentPageSelector);
+  const { keyword, category, sort, perPage } = useSelector(productsFilterSelector);
+  const currentPage = useSelector(productsCurrentPageSelector);
   const dispatch = useDispatch();
 
   // keyword filter
@@ -134,17 +131,17 @@ const FilterTopBox = () => {
   // per page handler
   const perPageHandler = (e) => {
     const pageData = JSON.parse(e.target.value);
-    dispatch(addPerPageFilter(pageData));
+    dispatch(addProductsPerPageFilter(pageData));
   };
 
   // sort handler
   const sortHandler = (e) => {
-    dispatch(addSortFilter(e.target.value));
+    dispatch(addProductsSortFilter(e.target.value));
   };
 
   // clear handler
   const clearAll = () => {
-    dispatch(resetFilter());
+    dispatch(resetProductsFilter());
   };
   return (
     <>
@@ -232,7 +229,8 @@ const FilterTopBox = () => {
 
       <Pagination
         perPageEnd={perPage?.end || 0}
-        productsCount={productsData?.length || 0}
+        itemsCount={productsData?.length || 0}
+        isProduct
       />
       {/* <!-- Pagination --> */}
     </>

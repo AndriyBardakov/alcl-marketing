@@ -1,15 +1,15 @@
 
 
 import { useDispatch, useSelector } from "react-redux";
-import Categories from "../../components/common/Categories";
-import SearchBox from "../../components/common/SearchBox";
-import { resetProductsFilter } from "../../redux/actions/products";
+import Categories from "../../common/Categories";
+import SearchBox from "../../common/SearchBox";
+import { resetDealersFilter } from "../../../redux/actions/dealers";
 
 const JobSearchForm = () => {
   const dispatch = useDispatch();
 
   const clearAll = () => {
-    dispatch(resetProductsFilter());
+    dispatch(resetDealersFilter());
   };
   return (
     <>
@@ -21,7 +21,7 @@ const JobSearchForm = () => {
           {/* <!-- Form Group --> */}
 
           <div className="form-group col-lg-4 col-md-12 col-sm-12 location">
-            <Categories type="product" />
+            <Categories />
           </div>
           {/* <!-- Form Group --> */}
 

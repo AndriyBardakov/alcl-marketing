@@ -47,7 +47,7 @@ const Section2 = () => {
       style={{
         backgroundImage: "url(/images/source/5.png)",
         backgroundSize: "cover",
-        padding: "5% 20%",
+        padding: "5% 20% 2.5% 20%",
       }}
     >
       <div className="row">

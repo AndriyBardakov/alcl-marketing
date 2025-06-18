@@ -1,43 +1,37 @@
 import {
-  SET_PRODUCTS_DATA,
-  ADD_PRODUCTS_CATEGORY_FILTER,
-  ADD_PRODUCTS_KEYWORD_FILTER,
-  ADD_PRODUCTS_SORT_FILTER,
-  ADD_PRODUCTS_PER_PAGE_FILTER,
-  RESET_PRODUCTS_FILTER,
-  SET_PRODUCTS_CURRENT_PAGE
+  ADD_DEALERS_CATEGORY_FILTER,
+  ADD_DEALERS_KEYWORD_FILTER,
+  ADD_DEALERS_SORT_FILTER,
+  ADD_DEALERS_PER_PAGE_FILTER,
+  RESET_DEALERS_FILTER,
+  SET_DEALERS_CURRENT_PAGE,
+  SET_DEALERS_CATEGORIES,
+  SET_DEALERS_DATA
 } from "../constants";
 
 const initialState = {
-  productsData: null,
-  categories: [
-    // { value: "all", label: "All Products" },
-    { value: "cheese-and-cheese-powder", label: "Cheese & Cheese Powder" },
-    { value: "flavour-enhancers", label: "Flavour Enhancers" },
-    { value: "baking-ingredients", label: "Baking Ingredients" },
-    { value: "others", label: "Others" },
-    { value: "cereal-and-oats", label: "Cereal & Oats" }
-  ],
+  dealersData: null,
+  categories: [],
   filter: {
     category: "",
     keyword: "",
     sort: "asc",
     perPage: {
       start: 0,
-      end: 0,
+      end: 20,
     }
   },
   currentPage: 1,
 };
 
-const products = (state = initialState, { type, payload }) => {
+const dealers = (state = initialState, { type, payload }) => {
   switch (type) {
-    case SET_PRODUCTS_DATA:
+    case SET_DEALERS_DATA:
       return {
         ...state,
-        productsData: payload,
+        dealersData: payload,
       };
-    case ADD_PRODUCTS_CATEGORY_FILTER:
+    case ADD_DEALERS_CATEGORY_FILTER:
       return {
         ...state,
         filter: {
@@ -45,7 +39,7 @@ const products = (state = initialState, { type, payload }) => {
           category: payload,
         },
       };
-    case ADD_PRODUCTS_KEYWORD_FILTER:
+    case ADD_DEALERS_KEYWORD_FILTER:
       return {
         ...state,
         filter: {
@@ -53,7 +47,7 @@ const products = (state = initialState, { type, payload }) => {
           keyword: payload,
         },
       };
-    case ADD_PRODUCTS_SORT_FILTER:
+    case ADD_DEALERS_SORT_FILTER:
       return {
         ...state,
         filter: {
@@ -61,7 +55,7 @@ const products = (state = initialState, { type, payload }) => {
           sort: payload,
         },
       };
-    case ADD_PRODUCTS_PER_PAGE_FILTER:
+    case ADD_DEALERS_PER_PAGE_FILTER:
       return {
         ...state,
         filter: {
@@ -69,7 +63,7 @@ const products = (state = initialState, { type, payload }) => {
           perPage: payload,
         },
       };
-    case RESET_PRODUCTS_FILTER:
+    case RESET_DEALERS_FILTER:
       return {
         ...state,
         filter: {
@@ -78,18 +72,23 @@ const products = (state = initialState, { type, payload }) => {
           sort: "asc",
           perPage: {
             start: 0,
-            end: 0,
+            end: 20,
           },
         },
       };
-    case SET_PRODUCTS_CURRENT_PAGE:
+    case SET_DEALERS_CURRENT_PAGE:
       return {
         ...state,
         currentPage: payload,
+      };
+    case SET_DEALERS_CATEGORIES:
+      return {
+        ...state,
+        categories: payload,
       };
     default:
       return state;
   }
 };
 
-export default products;
+export default dealers;
