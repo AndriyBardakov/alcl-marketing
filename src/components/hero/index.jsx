@@ -9,22 +9,36 @@ const index = () => {
     //   </div>
     // </section>
     <section
-      className="alcl-hero bg-primary text-white text-center py-5"
-      style={{
-        backgroundImage:
-          "url(/images/source/orange_bg.png)",
-        backgroundSize: "cover",
-        // marginTop: "150px",
-        // height: "300px",
-      }}
+      className="alcl-hero text-white text-center"
+      // style={{
+      //   backgroundImage: "url(/images/source/orange_bg.png)",
+      //   backgroundSize: "cover",
+      //   // marginTop: "150px",
+      //   // height: "300px",
+      // }}
     >
-      <div className="container d-flex flex-column justify-content-center align-items-center h-100">
-        <h1 className="mb-3 fw-bolder" style={{fontSize: "48px"}}>Mga Ka-Cheesemiss!</h1>
-        <h2 className="fw-bolder" style={{fontSize: "40px"}}>Welcome To The OFFICIAL ALCL MARKETING WEBSITE</h2>
+      <div className="youtube-container container d-flex flex-column justify-content-center align-items-center h-100">
+        {/* <h1 className="mb-3 fw-bolder" style={{fontSize: "48px"}}>Mga Ka-Cheesemiss!</h1>
+        <h2 className="fw-bolder" style={{fontSize: "40px"}}>Welcome To The OFFICIAL ALCL MARKETING WEBSITE</h2> */}
         {/* <p className="lead text-white">Your trusted partner in digital solutions</p>
         <a href="#services" className="btn btn-light btn-lg">
           Explore Services
         </a> */}
+        <div className="video-wrapper">
+          <iframe
+            src="https://www.youtube.com/embed/ptL9q-lU_cg?si=jLzJJfT2IFSS0Bac&autoplay=1&mute=1"
+            title="YouTube video player"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+          ></iframe>
+          
+        </div>
+        <h3 className="mt-4 text-dark text-start">
+            The unsung hero of the Philippine flavoring industry, hailed as one
+            of the top in both B2B and B2C markets with its accessible and
+            affordable flavoring options
+          </h3>
       </div>
     </section>
   );

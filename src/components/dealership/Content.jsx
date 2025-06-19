@@ -31,7 +31,7 @@ const Content = () => {
             </figure>
           </div>
           <div className="content-column col-lg-6 col-md-12 col-sm-12">
-            <div className="content" data-aos="fade-left">
+            <div className="content" data-aos="fade-down">
               <h5 className="mb-4">
                 We are looking for wholesale food dealers or distributors with
                 physical stores or warehouses.
@@ -114,7 +114,7 @@ const Content = () => {
             </div>
           </div>
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
-            <figure className="image" data-aos="fade-left">
+            <figure className="image" data-aos="fade-down">
               <Link
                 to="https://www.facebook.com/ALCLMarketing"
                 target="_blank"

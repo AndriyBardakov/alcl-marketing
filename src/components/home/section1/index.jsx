@@ -7,7 +7,7 @@ const Section1 = () => {
     <section className="" style={{ padding: "5% 10%" }}>
       <div className="row">
         <div className="content-column col-lg-6 col-md-12 col-sm-12 order-2">
-          <div className="inner-column " data-aos="fade-left">
+          <div className="inner-column " data-aos="fade-down">
             <div className="sec-title">
               <div className="text fs-5">
                 ALCL has had a long-standing partnership with NATIONAL BAKING

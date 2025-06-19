@@ -68,7 +68,7 @@ const Section2 = () => {
         </div>
 
         <div className="image-column col-lg-6 col-md-12 col-sm-12">
-          <figure className="image" data-aos="fade-left">
+          <figure className="image" data-aos="fade-down">
             <Slider {...carouselConfig}>
               <div>
                 <img
