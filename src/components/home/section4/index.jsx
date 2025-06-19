@@ -27,7 +27,7 @@ const Section4 = () => {
                 alt="Chef Gericke"
                 className="rounded"
               />
-              <figcaption className="text-center mt-2">Cheesemosa</figcaption>
+              <figcaption className="text-center mt-2">Meet Miss Cheesemosa</figcaption>
             </figure>
           </Link>
         </div>
@@ -45,7 +45,7 @@ const Section4 = () => {
                 style={{ maxHeight: "800px"}}
               />
               <figcaption className="text-center mt-2">
-                Ranchero
+                Meet Macho Ranchero
               </figcaption>
             </figure>
           </Link>
