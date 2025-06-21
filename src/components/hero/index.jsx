@@ -9,13 +9,10 @@ const index = () => {
     //   </div>
     // </section>
     <section
-      className="alcl-hero text-white text-center"
-      // style={{
-      //   backgroundImage: "url(/images/source/orange_bg.png)",
-      //   backgroundSize: "cover",
-      //   // marginTop: "150px",
-      //   // height: "300px",
-      // }}
+      className="text-white text-center"
+      style={{
+        padding: "2.5% 10% 2.5% 10%",
+      }}
     >
       <div className="youtube-container container d-flex flex-column justify-content-center align-items-center h-100">
         {/* <h1 className="mb-3 fw-bolder" style={{fontSize: "48px"}}>Mga Ka-Cheesemiss!</h1>
@@ -26,7 +23,7 @@ const index = () => {
         </a> */}
         <div className="video-wrapper">
           <iframe
-            src="https://www.youtube.com/embed/ptL9q-lU_cg?si=jLzJJfT2IFSS0Bac&autoplay=1&mute=1"
+            src="https://www.youtube.com/embed/ptL9q-lU_cg?playlist=ptL9q-lU_cg&autoplay=1&loop=1&mute=1"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

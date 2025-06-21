@@ -71,7 +71,7 @@ const Content = () => {
         style={{
           backgroundImage: "url(/images/source/5.png)",
           backgroundSize: "cover",
-          padding: "2.5% 10% 0 10%",
+          padding: "2.5% 10% 2.5% 10%",
         }}
       >
         <div className="row">
@@ -114,7 +114,19 @@ const Content = () => {
             </div>
           </div>
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
-            <figure className="image" data-aos="fade-down">
+            <iframe
+              data-aos="fade-zoom-in"
+              className="dealership-video"
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/r6CYqYr2nd8?playlist=r6CYqYr2nd8&autoplay=1&loop=1&mute=1"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+            ></iframe>
+            {/* <figure className="image" data-aos="fade-down">
               <Link
                 to="https://www.facebook.com/ALCLMarketing"
                 target="_blank"
@@ -122,7 +134,7 @@ const Content = () => {
               >
                 <img src="/images/source/dealers.jpg" alt="dealers" />
               </Link>
-            </figure>
+            </figure> */}
           </div>
         </div>
       </section>

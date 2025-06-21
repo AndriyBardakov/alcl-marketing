@@ -68,9 +68,9 @@ const carouselConfig = {
 export default function VideoCarousel() {
   return (
     <section
-      className="text-white text-center"
+      className="text-white text-center alcl-hero"
       style={{
-        padding: "5% 10% 0 10%",
+        padding: "5% 10% 2.5% 10%",
       }}
     >
       <div className="row">

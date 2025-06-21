@@ -1,11 +1,11 @@
 export const shopNowItems = [
   {
     name: "Shopee",
-    routePath: "https://shopee.ph/",
+    routePath: "https://shopee.ph/alclmarketing",
     external: true,
   },
   {
-    name: "TikTok",
+    name: "TikTok Shop",
     routePath: "https://www.tiktok.com/@alclmarketing",
     external: true,
   },
@@ -66,13 +66,18 @@ export const videoItems = [
           "https://youtube.com/playlist?list=PLi4xAH56tdYOGTodO0G2u06FBfbhwrk8m&si=5tMUySyMpme4-H_L",
         external: true,
       },
+      {
+        name: "Shorts & Reels",
+        routePath: "https://www.youtube.com/@ALCLMarketing/shorts",
+        external: true,
+      },
     ],
   },
 ];
 
 export const companyMenuItems = [
   {
-    name: "About ALCL Marketing",
+    name: "About Us",
     routePath: "/about",
   },
   {

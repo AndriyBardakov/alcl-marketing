@@ -6,14 +6,12 @@ const IntroDescriptions = () => {
           <h4 className="text-center">About ALCL Marketing</h4>
           <p>
             ALCL Marketing, OPC is a Filipino company specializing in food
-            products for businesses. Founded by Alvin Lawrence Lau, the company
-            operates as a food trader and is headquartered in Brgy. San Antonio,
-            Quezon City. ALCL Marketing offers a variety of products, including
-            cheese powders, flavor enhancers, baking ingredients, and cocoa
-            powders. Their popular items include Rancheros BBQ Flavoring Powder,
-            Cheesemiss Cheese Flavoring Powder, and Casa Bamvina Alkalized Cocoa
-            Powder. These products are designed to enhance the taste of snacks
-            and meals, making them ideal for businesses in the food industry.
+            products for businesses. The company operates as a food trader and
+            is headquartered in Brgy. San Antonio, Quezon City. ALCL Marketing
+            offers a variety of products, including flavoring powers, cocoa
+            powders, and other ingredients. These products are designed
+            to enhance the taste of snacks and meals, making them ideal for
+            businesses in the food industry.
           </p>
           <p>
             We are pleased to offer you our line of flavoring powders together

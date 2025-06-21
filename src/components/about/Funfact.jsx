@@ -12,8 +12,8 @@ const Funfact = () => {
     {
       id: 1,
       startCount: "0",
-      endCount: "15",
-      endPointText: "",
+      endCount: "20",
+      endPointText: "+",
       meta: "Years of experience",
       animationDelay: "0",
     },

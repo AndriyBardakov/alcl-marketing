@@ -12,11 +12,11 @@ const initialState = {
   productsData: null,
   categories: [
     // { value: "all", label: "All Products" },
-    { value: "cheese-and-cheese-powder", label: "Cheese & Cheese Powder" },
-    { value: "flavour-enhancers", label: "Flavour Enhancers" },
-    { value: "baking-ingredients", label: "Baking Ingredients" },
-    { value: "others", label: "Others" },
-    { value: "cereal-and-oats", label: "Cereal & Oats" }
+    { value: "cheese-and-cheese-powder", label: "Cheesemiss" },
+    { value: "flavour-enhancers", label: "Ranchero's" },
+    { value: "baking-ingredients", label: "Casa Bamvina" },
+    { value: "others", label: "Satisfry" },
+    // { value: "cereal-and-oats", label: "Cereal & Oats" }
   ],
   filter: {
     category: "",

@@ -16,8 +16,9 @@ const Home = () => {
   return (
     <>
       <MetaComponent meta={metadata} />
-      <Hero />
+      
       <VideoCarousel />
+      <Hero />
       <Section2 />
       <Section1 />
       <Section3 />

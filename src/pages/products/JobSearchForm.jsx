@@ -16,7 +16,7 @@ const JobSearchForm = () => {
       <div className="job-search-form">
         <div className="row">
           <div className="form-group col-lg-4 col-md-12 col-sm-12">
-            <SearchBox />
+            <SearchBox type="product" />
           </div>
           {/* <!-- Form Group --> */}
 

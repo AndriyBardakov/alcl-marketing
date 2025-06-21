@@ -13,13 +13,6 @@ const Social = () => {
         <FaFacebook size={24} />
       </a>
       <a
-        href="https://shopee.ph/alclmarketing"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <SiShopee size={24} />
-      </a>
-      <a
         href="https://www.instagram.com/alcl_marketing"
         target="_blank"
         rel="noopener noreferrer"
@@ -27,18 +20,25 @@ const Social = () => {
         <FaInstagram size={24} />
       </a>
       <a
-        href="https://www.youtube.com/@alclmarketing"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <FaYoutube size={24} />
-      </a>
-      <a
         href="https://www.tiktok.com/@alclmarketing"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FaTiktok size={24} />
+      </a>
+      <a
+        href="https://shopee.ph/alclmarketing"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <SiShopee size={24} />
+      </a>
+      <a
+        href="https://www.youtube.com/@alclmarketing"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <FaYoutube size={24} />
       </a>
     </>
   );

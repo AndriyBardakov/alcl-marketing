@@ -19,7 +19,7 @@ const Address = () => {
     {
       id: 2,
       iconName: "smartphone",
-      title: "Call Us",
+      title: "Call Us or Viber",
       text: (
         <>
           <a href="tel:+63 917 852 9927" className="phone">
