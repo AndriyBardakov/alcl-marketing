@@ -1448,7 +1448,7 @@
     "name": "Buenas Suerte Trading",
     "region": "South Cotabato",
     "address": "140 Alunan St., Bula, General Santos City, South Cotabato",
-    "phoneNumbers": ["0995-5559391 "],
+    "phoneNumbers": ["0995-5559391"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23140+Alunan+St.%2C+Bula%2C+General+Santos+City%2C+South+Cotabato"
   },
   {
@@ -1640,5 +1640,12 @@
     "address": "Store 4 Notre Dame Bldg., Sanchez St., Brgy. Walled City, Jolo, Sulu",
     "phoneNumbers": ["0935-1568326", "0955-9909889"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Store+%234+Notre+Dame+Bldg.%2C+Sanchez+St.%2C+Brgy.+Walled+City%2C+Jolo%2C+Sulu"
+  },
+  {
+    "name": "KY8 Consumer Goods Trading",
+    "region": "Antique",
+    "address": "Dumrog, Pandan, Antique",
+    "phoneNumbers": ["0917-7824646"],
+    "mapsLink": "https://www.google.com/maps/place/Dumrog,+Pandan,+Antique,+Philippines/@11.7002652,122.1088436,15z/data=!3m1!4b1!4m6!3m5!1s0x33a56f7aa048fb51:0xfb122ea8454b3a46!8m2!3d11.6991237!4d122.1093067!16s%2Fg%2F11fyx9x_mv?authuser=0&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D"
   }
 ]
