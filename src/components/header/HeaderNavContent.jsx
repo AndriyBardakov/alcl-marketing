@@ -5,7 +5,8 @@ import {
   shopNowItems,
   productsItems,
   videoItems,
-  companyMenuItems
+  companyMenuItems,
+  influencersMenuItems
 } from "@/data/mainMenuData";
 import {
   isActiveParent,
@@ -69,6 +70,28 @@ const HeaderNavContent = () => {
 
           <li
             className={`${
+              isActiveParent(influencersMenuItems, pathname) ? "current" : ""
+            } dropdown`}
+          >
+            <span>Influencers</span>
+            <ul>
+              {influencersMenuItems.map((item, i) => (
+                <li
+                  className={
+                    isActiveLink(item.routePath, pathname) ? "current" : ""
+                  }
+                  key={i}
+                >
+                  <Link to={item.routePath}>
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </li>
+
+          <li
+            className={`${
               isActiveParentChaild(companyMenuItems, pathname) ||
               isActiveParentChaild(videoItems[0].items, pathname)
                 ? "current "
@@ -89,8 +112,8 @@ const HeaderNavContent = () => {
                   </Link>
                 </li>
               ))}
-              {videoItems.map((item) => (
-                <li className="dropdown" key={item.id}>
+              {videoItems.map((item, i) => (
+                <li className="dropdown" key={i}>
                   <span
                     className={`${
                       isActiveParentChaild(videoItems[0].items, pathname)

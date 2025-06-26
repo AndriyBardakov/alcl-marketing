@@ -32,6 +32,52 @@ export const mobileMenuData = [
   },
   {
     id: 5,
+    label: "Influencers",
+    items: [
+      {
+        name: "Chef Emily Peralta",
+        routePath: "/influencers/chef-emily-peralta",
+      },
+      {
+        name: "Chef Gerick Manalo",
+        routePath: "/influencers/chef-gerick-manalo",
+      },
+      {
+        name: "Hello Eats Nani",
+        routePath: "/influencers/hello-eats-nani",
+      },
+      {
+        name: "Jhunpig",
+        routePath: "/influencers/jhunpig",
+      },
+      {
+        name: "Joana Ramos",
+        routePath: "/influencers/joana-ramos",
+      },
+      {
+        name: "Joseph Verallo",
+        routePath: "/influencers/joseph-verallo",
+      },
+      {
+        name: "Kim Bulan",
+        routePath: "/influencers/kim-bulan",
+      },
+      {
+        name: "Kristine Castillo",
+        routePath: "/influencers/kristine-castillo",
+      },
+      {
+        name: "Nika Estuista",
+        routePath: "/influencers/nika-estuista",
+      },
+      {
+        name: "Sophia Cartie",
+        routePath: "/influencers/sophia-cartie",
+      },
+    ],
+  },
+  {
+    id: 6,
     label: "Videos",
     items: [
       {
@@ -66,7 +112,7 @@ export const mobileMenuData = [
     ],
   },
   {
-    id: 8,
+    id: 7,
     label: "Company",
     items: [
       {
@@ -76,7 +122,7 @@ export const mobileMenuData = [
       {
         name: "Contact Us",
         routePath: "/contact",
-      }
+      },
     ],
-  }
+  },
 ];

@@ -1,7 +1,6 @@
 
 
 import Dealership from "@/components/dealership";
-
 import MetaComponent from "@/components/common/MetaComponent";
 
 const metadata = {

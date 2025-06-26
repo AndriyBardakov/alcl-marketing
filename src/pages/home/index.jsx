@@ -21,10 +21,8 @@ const Home = () => {
       <Hero />
       <Section2 />
       <Section1 />
-      <Section3 />
-      <Section4 />
-      {/* <SectionProducts /> */}
-      {/* <Section3 /> */}
+      {/* <Section3 />
+      <Section4 /> */}
     </>
   );
 };
