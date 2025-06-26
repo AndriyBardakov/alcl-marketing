@@ -1,5 +1,5 @@
 import React from "react";
-import InfluencerContainer from "./InfluencerContainer";
+import InfluencerContainer from "./influencerContainer";
 import Slider from "react-slick";
 import { carouselConfig, style } from "./carouselUtils";
 

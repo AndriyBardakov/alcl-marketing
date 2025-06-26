@@ -1,5 +1,5 @@
 import React from "react";
-import InfluencerContainer from "./InfluencerContainer";
+import InfluencerContainer from "./influencerContainer";
 import { style } from "./carouselUtils";
 
 const NicaEstuista = () => {
