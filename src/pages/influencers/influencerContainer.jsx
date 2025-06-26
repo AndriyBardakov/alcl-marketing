@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import MetaComponent from "@/components/common/MetaComponent";
-import PhotoContainer from "./PhotoContainer";
+import PhotoContainer from "./photoContainer";
 import { reloadTikTokEmbed } from "./carouselUtils";
 
 const InfluencerContainer = ({ name, src, children }) => {
