@@ -96,6 +96,10 @@ export const influencersMenuItems = [
     routePath: "/influencers/chef-gerick-manalo",
   },
   {
+    name: "Chef Lhen De Castro",
+    routePath: "/influencers/chef-lhen-de-castro",
+  },
+  {
     name: "Hello Eats Nani",
     routePath: "/influencers/hello-eats-nani",
   },

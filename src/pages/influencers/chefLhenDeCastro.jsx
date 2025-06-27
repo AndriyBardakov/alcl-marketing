@@ -11,10 +11,859 @@ const ChefLhenDeCastro = () => {
     >
       <Slider {...carouselConfig}>
         <div>
-          
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7396969255687965959"
+            data-video-id="7396969255687965959"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              <a
+                title="nachos"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nachos?refer=embed"
+              >
+                #nachos
+              </a>{" "}
+              <a
+                title="cheesesauce"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesesauce?refer=embed"
+              >
+                #cheesesauce
+              </a>{" "}
+              <a
+                title="nachodip"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nachodip?refer=embed"
+              >
+                #nachoDip
+              </a>{" "}
+              <a
+                title="dip"
+                target="_blank"
+                href="https://www.tiktok.com/tag/dip?refer=embed"
+              >
+                #Dip
+              </a>{" "}
+              <a
+                title="nachocheesesauce"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nachocheesesauce?refer=embed"
+              >
+                #nachoCheeseSauce
+              </a>{" "}
+              <a
+                title="cheddarcheese"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheddarcheese?refer=embed"
+              >
+                #cheddarcheese
+              </a>{" "}
+              <a
+                title="quezodebola"
+                target="_blank"
+                href="https://www.tiktok.com/tag/quezodebola?refer=embed"
+              >
+                #quezoDeBola
+              </a>{" "}
+              <a
+                title="lhendecastrotercias"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastrotercias?refer=embed"
+              >
+                #LhenDeCastroTercias
+              </a>{" "}
+              <a
+                title="lhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastro?refer=embed"
+              >
+                #LhenDeCastro
+              </a>{" "}
+              <a
+                title="bakeandcookwithlhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/bakeandcookwithlhendecastro?refer=embed"
+              >
+                #BakeAndCookWithLhenDeCastro
+              </a>{" "}
+              <a
+                title="snack"
+                target="_blank"
+                href="https://www.tiktok.com/tag/snack?refer=embed"
+              >
+                #snack
+              </a>{" "}
+              <a
+                target="_blank"
+                title="♬ Happy Song - Sound Viral 01"
+                href="https://www.tiktok.com/music/Happy-Song-7243630124506925057?refer=embed"
+              >
+                ♬ Happy Song - Sound Viral 01
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
         </div>
         <div>
-          
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7410031973667704081"
+            data-video-id="7410031973667704081"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #cheesemiss
+              </a>{" "}
+              <a
+                title="cheesesauce"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesesauce?refer=embed"
+              >
+                #CheeseSauce
+              </a>{" "}
+              <a
+                title="dip"
+                target="_blank"
+                href="https://www.tiktok.com/tag/dip?refer=embed"
+              >
+                #Dip
+              </a>{" "}
+              <a
+                title="nachodip"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nachodip?refer=embed"
+              >
+                #NachoDip
+              </a>{" "}
+              <a
+                title="frenchfries"
+                target="_blank"
+                href="https://www.tiktok.com/tag/frenchfries?refer=embed"
+              >
+                #Frenchfries
+              </a>{" "}
+              @alclmarketing{" "}
+              <a
+                target="_blank"
+                title="♬ พี่ชอบหนูที่สุดเลย (I Like You The Most) (Speed Up) - PONCHET"
+                href="https://www.tiktok.com/music/พี่ชอบหนูที่สุดเลย-I-Like-You-The-Most-Speed-Up-7296136277207730178?refer=embed"
+              >
+                ♬ พี่ชอบหนูที่สุดเลย (I Like You The Most) (Speed Up) - PONCHET
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7414993734728797448"
+            data-video-id="7414993734728797448"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              <a
+                title="corndog"
+                target="_blank"
+                href="https://www.tiktok.com/tag/corndog?refer=embed"
+              >
+                #CornDog
+              </a>{" "}
+              <a
+                title="cheesesauce"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesesauce?refer=embed"
+              >
+                #CheeseSauce
+              </a>{" "}
+              <a
+                title="hotdog"
+                target="_blank"
+                href="https://www.tiktok.com/tag/hotdog?refer=embed"
+              >
+                #hotdog
+              </a>{" "}
+              <a
+                title="lhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastro?refer=embed"
+              >
+                #lhendecastro
+              </a>{" "}
+              <a
+                title="lhendecastrotercias"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastrotercias?refer=embed"
+              >
+                #lhendecastrotercias
+              </a>{" "}
+              <a
+                title="bakeandcookwithlhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/bakeandcookwithlhendecastro?refer=embed"
+              >
+                #BakeAndCookWithLhenDeCastro
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #cheesemiss
+              </a>{" "}
+              <a
+                title="alclmarketing"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclmarketing?refer=embed"
+              >
+                #ALCLMARKETING
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ Chill Hip hop 41(932595) - 212soundworks"
+                href="https://www.tiktok.com/music/Chill-Hip-hop-41-932595-6906931626408675330?refer=embed"
+              >
+                ♬ Chill Hip hop 41(932595) - 212soundworks
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7426001144809360648"
+            data-video-id="7426001144809360648"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              <a
+                title="cheesesauce"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesesauce?refer=embed"
+              >
+                #cheesesauce
+              </a>{" "}
+              <a
+                title="chickenwings"
+                target="_blank"
+                href="https://www.tiktok.com/tag/chickenwings?refer=embed"
+              >
+                #chickenwings
+              </a>{" "}
+              <a
+                title="wings"
+                target="_blank"
+                href="https://www.tiktok.com/tag/wings?refer=embed"
+              >
+                #Wings
+              </a>{" "}
+              <a
+                title="unliwings"
+                target="_blank"
+                href="https://www.tiktok.com/tag/unliwings?refer=embed"
+              >
+                #Unliwings
+              </a>{" "}
+              <a
+                title="nachodip"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nachodip?refer=embed"
+              >
+                #nachodip
+              </a>{" "}
+              <a
+                title="bakeandcookwithlhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/bakeandcookwithlhendecastro?refer=embed"
+              >
+                #BakeAndCookWithLhenDeCastro
+              </a>{" "}
+              <a
+                title="lhendecastrotercias"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastrotercias?refer=embed"
+              >
+                #lhendecastrotercias
+              </a>{" "}
+              <a
+                title="lhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastro?refer=embed"
+              >
+                #lhendecastro
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ In Love With You - BLVKSHP"
+                href="https://www.tiktok.com/music/In-Love-With-You-6777624195661563906?refer=embed"
+              >
+                ♬ In Love With You - BLVKSHP
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7433016834829405448"
+            data-video-id="7433016834829405448"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              <a
+                title="cheesesauce"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesesauce?refer=embed"
+              >
+                #cheesesauce
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              <a
+                title="alclmarketing"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclmarketing?refer=embed"
+              >
+                #ALCLMarketing
+              </a>{" "}
+              <a
+                title="cheesemissinstantcheesesaucepowdermix"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemissinstantcheesesaucepowdermix?refer=embed"
+              >
+                #CheesemissInstantCheeseSaucePowderMix
+              </a>{" "}
+              <a
+                title="sarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapngkita?refer=embed"
+              >
+                #SarapNgKita
+              </a>{" "}
+              <a
+                title="sarapnglasa"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasa?refer=embed"
+              >
+                #SarapNgLasa
+              </a>{" "}
+              <a
+                title="lhendecastrotercias"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastrotercias?refer=embed"
+              >
+                #lhendecastrotercias
+              </a>{" "}
+              <a
+                title="lhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastro?refer=embed"
+              >
+                #lhendecastro
+              </a>{" "}
+              <a
+                title="bakeandcookwithlhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/bakeandcookwithlhendecastro?refer=embed"
+              >
+                #BakeAndCookWithLhenDeCastro
+              </a>{" "}
+              <a
+                title="pancitcanton"
+                target="_blank"
+                href="https://www.tiktok.com/tag/pancitcanton?refer=embed"
+              >
+                #PancitCanton
+              </a>{" "}
+              <a
+                title="luckyme"
+                target="_blank"
+                href="https://www.tiktok.com/tag/luckyme?refer=embed"
+              >
+                #Luckyme
+              </a>{" "}
+              <a
+                title="masflexcookware"
+                target="_blank"
+                href="https://www.tiktok.com/tag/masflexcookware?refer=embed"
+              >
+                #MasflexCookware
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ MOMENTS IN LIFE - Turreekk"
+                href="https://www.tiktok.com/music/MOMENTS-IN-LIFE-6769569394507909121?refer=embed"
+              >
+                ♬ MOMENTS IN LIFE - Turreekk
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7503033757415247122"
+            data-video-id="7503033757415247122"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Ang recommended ko Cheesemiss Instant Cheese Sauce Powder! 🧀🙌{" "}
+              <a
+                title="cheesedunk"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesedunk?refer=embed"
+              >
+                #CheeseDunk
+              </a>{" "}
+              <a
+                title="mcdo"
+                target="_blank"
+                href="https://www.tiktok.com/tag/mcdo?refer=embed"
+              >
+                #Mcdo
+              </a>{" "}
+              <a
+                title="mcdocheesedunk"
+                target="_blank"
+                href="https://www.tiktok.com/tag/mcdocheesedunk?refer=embed"
+              >
+                #McDoCheeseDunk
+              </a>{" "}
+              <a
+                title="mcdonaldscheesedunk"
+                target="_blank"
+                href="https://www.tiktok.com/tag/mcdonaldscheesedunk?refer=embed"
+              >
+                #McdonaldsCheesedunk
+              </a>{" "}
+              <a
+                title="recipe"
+                target="_blank"
+                href="https://www.tiktok.com/tag/recipe?refer=embed"
+              >
+                #Recipe
+              </a>{" "}
+              <a
+                title="mainitnacheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/mainitnacheesemiss?refer=embed"
+              >
+                #MainitNaCheesemiss
+              </a>
+              !{" "}
+              <a
+                title="alclsummertime"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclsummertime?refer=embed"
+              >
+                #ALCLSummerTime
+              </a>{" "}
+              <a
+                title="nakacheesemisskanaba"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nakacheesemisskanaba?refer=embed"
+              >
+                #NakaCHEESEMISSkaNaBa
+              </a>{" "}
+              <a
+                title="sarapnglasasarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasasarapngkita?refer=embed"
+              >
+                #SarapNgLasaSarapNgKita
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ Similar Sensation (Instrumental) - BLVKSHP"
+                href="https://www.tiktok.com/music/Similar-Sensation-Instrumental-6776496785708812290?refer=embed"
+              >
+                ♬ Similar Sensation (Instrumental) - BLVKSHP
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7508322639564410130"
+            data-video-id="7508322639564410130"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Cheesemiss Instant Cheese Sauce Powder Mix{" "}
+              <a
+                title="mainitnacheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/mainitnacheesemiss?refer=embed"
+              >
+                #MainitNaCheesemiss
+              </a>
+              !{" "}
+              <a
+                title="alclsummertime"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclsummertime?refer=embed"
+              >
+                #ALCLSummerTime
+              </a>{" "}
+              <a
+                title="nakacheesemisskanaba"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nakacheesemisskanaba?refer=embed"
+              >
+                #NakaCHEESEMISSkaNaBa
+              </a>{" "}
+              <a
+                title="sarapnglasasarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasasarapngkita?refer=embed"
+              >
+                #SarapNgLasaSarapNgKita
+              </a>{" "}
+              <a
+                title="samgyupsal"
+                target="_blank"
+                href="https://www.tiktok.com/tag/samgyupsal?refer=embed"
+              >
+                #samgyupsal
+              </a>{" "}
+              <a
+                title="samgyeopsal"
+                target="_blank"
+                href="https://www.tiktok.com/tag/samgyeopsal?refer=embed"
+              >
+                #samgyeopsal
+              </a>{" "}
+              <a
+                title="lhendecastrotercias"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastrotercias?refer=embed"
+              >
+                #lhendecastrotercias
+              </a>{" "}
+              <a
+                title="lhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastro?refer=embed"
+              >
+                #lhendecastro
+              </a>{" "}
+              <a
+                title="bakeandcookwithlhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/bakeandcookwithlhendecastro?refer=embed"
+              >
+                #BakeAndCookWithLhenDeCastro
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ Little Things - Adrián Berenguer"
+                href="https://www.tiktok.com/music/Little-Things-6981828410792216577?refer=embed"
+              >
+                ♬ Little Things - Adrián Berenguer
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7510971111128059144"
+            data-video-id="7510971111128059144"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Instant Cheesy Ramen{" "}
+              <a
+                title="mainitnacheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/mainitnacheesemiss?refer=embed"
+              >
+                #MainitNaCheesemiss
+              </a>
+              !{" "}
+              <a
+                title="cheesemissinstantcheesesaucepowdermix"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemissinstantcheesesaucepowdermix?refer=embed"
+              >
+                #CheesemissInstantCheeseSaucePowderMix
+              </a>{" "}
+              <a
+                title="alclsummertime"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclsummertime?refer=embed"
+              >
+                #ALCLSummerTime
+              </a>{" "}
+              <a
+                title="nakacheesemisskanaba"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nakacheesemisskanaba?refer=embed"
+              >
+                #NakaCHEESEMISSkaNaBa
+              </a>{" "}
+              <a
+                title="sarapnglasasarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasasarapngkita?refer=embed"
+              >
+                #SarapNgLasaSarapNgKita
+              </a>{" "}
+              <a
+                title="cheesyramen"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesyramen?refer=embed"
+              >
+                #cheesyramen
+              </a>{" "}
+              <a
+                title="cheeseramen"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheeseramen?refer=embed"
+              >
+                #cheeseramen
+              </a>{" "}
+              <a
+                title="buldak"
+                target="_blank"
+                href="https://www.tiktok.com/tag/buldak?refer=embed"
+              >
+                #buldak
+              </a>{" "}
+              <a
+                title="mukbang"
+                target="_blank"
+                href="https://www.tiktok.com/tag/mukbang?refer=embed"
+              >
+                #mukbang
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ Vibes - ZHRMusic"
+                href="https://www.tiktok.com/music/Vibes-7013588396048943105?refer=embed"
+              >
+                ♬ Vibes - ZHRMusic
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7515702604601543943"
+            data-video-id="7515702604601543943"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              A. Combine and set aside 1 &#38; 1&#47;2 cups evaporated milk
+              1&#47;2 cup all-purpose cream 2 tsp vinegar 1&#47;2 cup Cheesemiss
+              Instant Cheese Sauce Powder Mix B. Creaming method 1 1&#47;4 cups
+              butter, unsalted 1 3&#47;4 cups granulated sugar 1 tbsp vanilla 5
+              large eggs ( two additions) 1 tbsp baking powder C. Combine (two
+              additions) 3 cups All-purpose flour 2 bear brand swak pack
+              powdered milk (66 g total) Batter per loaf pan: 2 &#38; 1&#47;2
+              cups loaf pan size: 8&#34; x 3&#34; x 2.5&#34; total baking time:
+              50 minutes first 25 mins: 175 degrees remaining 25 mins: 160
+              degress{" "}
+              <a
+                title="cheesemissinstantcheesesaucepowdermix"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemissinstantcheesesaucepowdermix?refer=embed"
+              >
+                #CheesemissInstantCheeseSaucePowderMix
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              <a
+                title="alclmarketing"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclmarketing?refer=embed"
+              >
+                #ALCLMarketing
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                title="lhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastro?refer=embed"
+              >
+                #lhendecastro
+              </a>{" "}
+              <a
+                title="lhendecastrotercias"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastrotercias?refer=embed"
+              >
+                #lhendecastrotercias
+              </a>{" "}
+              <a
+                title="bakeandcookwithlhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/bakeandcookwithlhendecastro?refer=embed"
+              >
+                #BakeAndCookWithLhenDeCastro
+              </a>{" "}
+              <a
+                title="cakeloaf"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cakeloaf?refer=embed"
+              >
+                #CakeLoaf
+              </a>{" "}
+              <a
+                title="butterloaf"
+                target="_blank"
+                href="https://www.tiktok.com/tag/butterloaf?refer=embed"
+              >
+                #ButterLoaf
+              </a>{" "}
+              <a
+                title="buttercake"
+                target="_blank"
+                href="https://www.tiktok.com/tag/buttercake?refer=embed"
+              >
+                #Buttercake
+              </a>{" "}
+              <a
+                title="cheeseloaf"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheeseloaf?refer=embed"
+              >
+                #Cheeseloaf
+              </a>{" "}
+              <a
+                title="recipe"
+                target="_blank"
+                href="https://www.tiktok.com/tag/recipe?refer=embed"
+              >
+                #recipe
+              </a>{" "}
+              <a
+                title="fyp"
+                target="_blank"
+                href="https://www.tiktok.com/tag/fyp?refer=embed"
+              >
+                #fyp
+              </a>{" "}
+              <a
+                target="_blank"
+                title="♬ vanilla flavor - nemu music"
+                href="https://www.tiktok.com/music/vanilla-flavor-7405116643943761936?refer=embed"
+              >
+                ♬ vanilla flavor - nemu music
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
         </div>
       </Slider>
     </InfluencerContainer>
