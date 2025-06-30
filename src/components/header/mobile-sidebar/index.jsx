@@ -10,6 +10,7 @@ import {
 
 import { useNavigate } from "react-router-dom";
 import { useLocation } from "react-router-dom";
+import { Offcanvas } from "bootstrap";
 
 const Index = () => {
   const { pathname } = useLocation();
@@ -22,6 +23,10 @@ const Index = () => {
       return;
     }
     navigate(menuItem.routePath);
+    const btnCloseMenu = document.getElementById("btnCloseMenu");
+    if (btnCloseMenu) {
+      btnCloseMenu.click();
+    }
   };
 
   return (

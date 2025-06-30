@@ -29,13 +29,12 @@ const index = () => {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
           ></iframe>
-          
         </div>
         <h3 className="mt-4 text-dark text-start">
-            The unsung hero of the Philippine flavoring industry, hailed as one
-            of the top in both B2B and B2C markets with its accessible and
-            affordable flavoring options
-          </h3>
+          The unsung hero of the Philippine flavoring industry, one of the top
+          in both B2B and B2C markets with its accessible and affordable
+          flavoring options.
+        </h3>
       </div>
     </section>
   );

@@ -53,14 +53,16 @@ const Section2 = () => {
         <div className="content-column col-lg-6 col-md-12 col-sm-12">
           <div className="inner-column " data-aos="fade-up">
             <div className="sec-title">
-              <div className="text text-white text-left fs-5">
-                Sarap ng lasa, sarap ng kita! The mantra of ALCL Marketing rings
-                true in all their products aiming to improve and supplement the
-                creativity of flavors and the Filipino desire for business. ALCL
-                Marketing prides itself in not just being a part of your daily
-                cravings, but more so on the fact that ALCL Marketing helps
-                build businesses and promote livelihood for their market, the
-                common Filipino.
+              <div className="text">
+                <p className="text text-white text-left fs-5">SARAP NG LASA! SARAP NG KITA!</p>
+                <p className="text text-white text-left fs-5">
+                  The mantra of ALCL Marketing rings true in all their products
+                  aiming to improve and supplement the creativity of flavors and
+                  the Filipino desire for business. ALCL Marketing prides itself
+                  in not just being a part of your daily cravings, but more so
+                  on the fact that ALCL Marketing helps build businesses and
+                  promote livelihood for their market, the common Filipino.
+                </p>
               </div>
             </div>
           </div>
