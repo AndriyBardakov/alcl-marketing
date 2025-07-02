@@ -2,6 +2,7 @@ import React from "react";
 import InfluencerContainer from "./influencerContainer";
 import Slider from "react-slick";
 import { carouselConfig, style } from "./carouselUtils";
+import LinkOverlay from "./linkOverlay";
 
 const ChefGerickManalo = () => {
   return (
@@ -62,6 +63,7 @@ const ChefGerickManalo = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@chefgerickmanalo/video/7274565585768402182" />
         </div>
         <div>
           <blockquote
@@ -110,6 +112,7 @@ const ChefGerickManalo = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@chefgerickmanalo/video/7262334555674152197" />
         </div>
         <div>
           <blockquote
@@ -166,6 +169,7 @@ const ChefGerickManalo = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@chefgerickmanalo/video/7258193200500968710" />
         </div>
       </Slider>
     </InfluencerContainer>

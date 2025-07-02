@@ -1,6 +1,7 @@
 import React from "react";
 import InfluencerContainer from "./influencerContainer";
 import { style } from "./carouselUtils";
+import LinkOverlay from "./linkOverlay";
 
 const KristineCastillo = () => {
   return (
@@ -108,6 +109,7 @@ const KristineCastillo = () => {
           </a>{" "}
         </section>{" "}
       </blockquote>{" "}
+      <LinkOverlay src="https://www.tiktok.com/@mameytine/video/7501291265904971016" />
     </InfluencerContainer>
   );
 };

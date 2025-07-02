@@ -2,6 +2,7 @@ import React from "react";
 import InfluencerContainer from "./influencerContainer";
 import Slider from "react-slick";
 import { carouselConfig, style } from "./carouselUtils";
+import LinkOverlay from "./linkOverlay";
 
 const HelloEatsNani = () => {
   return (
@@ -116,6 +117,7 @@ const HelloEatsNani = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@helloeatsnani/video/7270896401641475334" />
         </div>
         <div>
           <blockquote
@@ -202,6 +204,7 @@ const HelloEatsNani = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@helloeatsnani/video/7259659027934661894" />
         </div>
       </Slider>
     </InfluencerContainer>

@@ -2,6 +2,7 @@ import React from "react";
 import InfluencerContainer from "./influencerContainer";
 import Slider from "react-slick";
 import { carouselConfig, style } from "./carouselUtils";
+import LinkOverlay from "./linkOverlay";
 
 const Jhunpig = () => {
   return (
@@ -101,6 +102,7 @@ const Jhunpig = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@jhunpig/video/7255629729527532806" />
         </div>
         <div>
           <blockquote
@@ -193,6 +195,7 @@ const Jhunpig = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@jhunpig/video/7256002658639596806" />
         </div>
       </Slider>
     </InfluencerContainer>

@@ -2,6 +2,7 @@ import React from "react";
 import InfluencerContainer from "./influencerContainer";
 import Slider from "react-slick";
 import { carouselConfig, style } from "./carouselUtils";
+import LinkOverlay from "./linkOverlay";
 
 const ChefLhenDeCastro = () => {
   return (
@@ -113,6 +114,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7396969255687965959" />
         </div>
         <div>
           <blockquote
@@ -176,6 +178,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7410031973667704081" />
         </div>
         <div>
           <blockquote
@@ -260,6 +263,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7414993734728797448" />
         </div>
         <div>
           <blockquote
@@ -351,6 +355,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7426001144809360648" />
         </div>
         <div>
           <blockquote
@@ -463,6 +468,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7433016834829405448" />
         </div>
         <div>
           <blockquote
@@ -556,6 +562,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7503033757415247122" />
         </div>
         <div>
           <blockquote
@@ -649,6 +656,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7508322639564410130" />
         </div>
         <div>
           <blockquote
@@ -742,6 +750,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7510971111128059144" />
         </div>
         <div>
           <blockquote
@@ -864,6 +873,7 @@ const ChefLhenDeCastro = () => {
               </a>{" "}
             </section>{" "}
           </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7515702604601543943" />
         </div>
       </Slider>
     </InfluencerContainer>
