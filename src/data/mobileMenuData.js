@@ -15,7 +15,7 @@ export const mobileMenuData = [
       },
       {
         name: "TikTok Shop",
-        routePath: "https://www.tiktok.com/@alclmarketing",
+        routePath: "https://vt.tiktok.com/ZSBNK57mb",
         external: true,
       },
     ],
