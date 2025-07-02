@@ -14,7 +14,7 @@ const index = () => {
         padding: "2.5% 10% 2.5% 10%",
       }}
     >
-      <div className="youtube-container container d-flex flex-column justify-content-center align-items-center h-100">
+      <div className="youtube-container d-flex flex-column justify-content-center align-items-center h-100">
         {/* <h1 className="mb-3 fw-bolder" style={{fontSize: "48px"}}>Mga Ka-Cheesemiss!</h1>
         <h2 className="fw-bolder" style={{fontSize: "40px"}}>Welcome To The OFFICIAL ALCL MARKETING WEBSITE</h2> */}
         {/* <p className="lead text-white">Your trusted partner in digital solutions</p>
