@@ -115,6 +115,7 @@ const Content = () => {
           </div>
           <div className="image-column col-lg-6 col-md-12 col-sm-12">
             <iframe
+              style={{ maxWidth: "100%" }}
               data-aos="fade-zoom-in"
               className="dealership-video"
               width="560"

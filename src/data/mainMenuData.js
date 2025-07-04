@@ -6,7 +6,7 @@ export const shopNowItems = [
   },
   {
     name: "TikTok Shop",
-    routePath: "https://vt.tiktok.com/ZSBNK57mb",
+    routePath: "https://www.tiktok.com/@alclmarketing",
     external: true,
   },
 ];

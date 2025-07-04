@@ -68,27 +68,34 @@ const carouselConfig = {
 export default function VideoCarousel() {
   return (
     <section
-      className="text-white text-center alcl-hero"
-      style={{
-        padding: "5% 10% 2.5% 10%",
-      }}
+      className="text-white text-center alcl-hero about-section-three"
+      // style={{
+      //   padding: "5% 10% 2.5% 10%",
+      // }}
     >
-      <div className="row">
-        <div className="content-column col-sm-12 mx-auto" data-aos="fade-down">
-          <Slider {...carouselConfig}>
-            <div>
-              <VideoFrame src="https://www.youtube.com/embed/PVCJtN_4QIg?si=rNMTl0D8G8gGEcXL" />
+      <div className="auto-container">
+        <div className="text-box">
+          <div className="row">
+            <div
+              className="content-column col-sm-12 mx-auto"
+              data-aos="fade-down"
+            >
+              <Slider {...carouselConfig}>
+                <div>
+                  <VideoFrame src="https://www.youtube.com/embed/PVCJtN_4QIg?si=rNMTl0D8G8gGEcXL" />
+                </div>
+                <div>
+                  <VideoFrame src="https://www.youtube.com/embed/iJH_Jo80e3Y?si=9NAzOO1eZqrj-oVw" />
+                </div>
+                <div>
+                  <VideoFrame src="https://www.youtube.com/embed/3lflvNSRq7U?si=nXFKmRpeX32CzCX7" />
+                </div>
+                <div>
+                  <VideoFrame src="https://www.youtube.com/embed/ZBQ9ugD6eRI?si=5cD1mF1Cp8MIyHL6" />
+                </div>
+              </Slider>
             </div>
-            <div>
-              <VideoFrame src="https://www.youtube.com/embed/iJH_Jo80e3Y?si=9NAzOO1eZqrj-oVw" />
-            </div>
-            <div>
-              <VideoFrame src="https://www.youtube.com/embed/3lflvNSRq7U?si=nXFKmRpeX32CzCX7" />
-            </div>
-            <div>
-              <VideoFrame src="https://www.youtube.com/embed/ZBQ9ugD6eRI?si=5cD1mF1Cp8MIyHL6" />
-            </div>
-          </Slider>
+          </div>
         </div>
       </div>
     </section>
