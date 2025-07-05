@@ -875,6 +875,80 @@ const ChefLhenDeCastro = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7515702604601543943" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7523491730998430994"
+            data-video-id="7523491730998430994"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Cheese Crumble Muffin A. Creaming method 1&#47;2 cup plus 2 Tbsp
+              butter, unsalted 3&#47;4 cup plus 2 tbsp sugar 1&#47;2 tbsp
+              vanilla 3 large eggs B. Milk Mixture 3&#47;4 cups evaporated milk
+              1&#47;4 cup all-purpose cream 1 tsp vinegar 1&#47;4 cup Cheesemiss
+              Instant Cheese Sauce Powder Mix C. Flour Mixture 1 &#38; 1&#47;2
+              cups All-purpose flour 1 bear brand swak pack powdered milk (33 g)
+              1&#47;2 tbsp baking powder D. Streussel topping 100 g all purpose
+              flour 50 g butter 100 g sugar 3 Tbsp cheesemiss instant cheese
+              sauce powder mix Yield: 1&#47;2 cup batter per pc Baking time 175
+              c 12 minutes 150 c 13 minutes{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              <a
+                title="cheesemissinstantcheesesaucepowdermix"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemissinstantcheesesaucepowdermix?refer=embed"
+              >
+                #CheesemissInstantCheeseSaucePowderMix
+              </a>{" "}
+              <a
+                title="alclmarketing"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclmarketing?refer=embed"
+              >
+                #ALCLMarketing
+              </a>{" "}
+              <a
+                title="sarapnglasa"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasa?refer=embed"
+              >
+                #SarapNgLasa
+              </a>{" "}
+              <a
+                title="sarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapngkita?refer=embed"
+              >
+                #SarapNgKita
+              </a>{" "}
+              @alclmarketing{" "}
+              <a
+                target="_blank"
+                title="♬ เสียงต้นฉบับ - kittikmr - veesun95"
+                href="https://www.tiktok.com/music/เสียงต้นฉบับ-kittikmr-7279805869800786689?refer=embed"
+              >
+                ♬ เสียงต้นฉบับ - kittikmr - veesun95
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7523491730998430994" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );
