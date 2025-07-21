@@ -1,6 +1,7 @@
 import React, { useRef, useCallback } from "react";
 import emailjs from "@emailjs/browser";
 import config from "../../configs/config.json";
+import { toast } from "react-toastify";
 
 const ContactForm = () => {
   const formRef = useRef();
@@ -14,9 +15,12 @@ const ContactForm = () => {
       })
       .then(
         () => {
+          formRef.current.reset();
+          toast.success("Message sent successfully!");
           console.log("SUCCESS!");
         },
         (error) => {
+          toast.error("Message failed to send.");
           console.log("FAILED...", error.text);
         }
       );
@@ -54,16 +58,16 @@ const ContactForm = () => {
         </div>
         {/* End .col */}
 
-        {/* <div className="col-lg-12 col-md-12 col-sm-12 form-group">
+        <div className="col-lg-12 col-md-12 col-sm-12 form-group">
           <label>Subject</label>
           <input
             type="text"
-            name="subject"
-            className="subject"
-            placeholder="Subject *"
+            name="title"
+            className="title"
+            placeholder="Subject*"
             required
           />
-        </div> */}
+        </div>
         {/* End .col */}
 
         <div className="col-lg-12 col-md-12 col-sm-12 form-group">
