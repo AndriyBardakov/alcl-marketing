@@ -124,6 +124,10 @@ export const influencersMenuItems = [
     routePath: "/influencers/kristine-castillo",
   },
   {
+    name: "Mama Jasmin",
+    routePath: "/influencers/mama-jasmin",
+  },
+  {
     name: "Nika Estuista",
     routePath: "/influencers/nika-estuista",
   },

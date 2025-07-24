@@ -15,6 +15,7 @@ import KristineCastillo from "@/pages/influencers/kristineCastillo";
 import NicaEstuista from "@/pages/influencers/nicaEstuista";
 import JoanaRamos from "@/pages/influencers/joanaRamos";
 import ChefLhenDeCastro from "@/pages/influencers/chefLhenDeCastro";
+import MamaJasmin from "@/pages/influencers/mamaJasmin";
 
 export const routes = [
   { path: "/home", component: <Home /> },
@@ -33,6 +34,7 @@ export const routes = [
   { path: "/influencers/nika-estuista", component: <NicaEstuista /> },
   { path: "/influencers/joana-ramos", component: <JoanaRamos /> },
   { path: "/influencers/chef-lhen-de-castro", component: <ChefLhenDeCastro /> },
+  { path: "/influencers/mama-jasmin", component: <MamaJasmin /> },
 
   // this route should be at the end of all other routes
   // eslint-disable-next-line react/display-name
