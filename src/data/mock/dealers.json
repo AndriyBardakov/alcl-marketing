@@ -28,13 +28,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23765+Sto.+Cristo+St.%2C+Binondo%2C+Manila%2C+MM"
   },
   {
-    "name": "Philip Estanislao Trading",
-    "region": "Manila",
-    "address": "817 Sto. Cristo St., Binondo, Manila, MM",
-    "phoneNumbers": ["0956-7764933"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23817+Sto.+Cristo+St.%2C+Binondo%2C+Manila%2C+MM"
-  },
-  {
     "name": "Spices Nature Grocery",
     "region": "Manila",
     "address": "696 Sto. Cristo St., Binondo, Manila, MM",
@@ -279,20 +272,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23686+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
   },
   {
-    "name": "Goldcrest Agricultural Trading",
-    "region": "Manila",
-    "address": "679 Elcano St., Binondo, Manila, MM",
-    "phoneNumbers": ["0917-7963329"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23679+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
-  },
-  {
-    "name": "Wings Marketing",
-    "region": "Manila",
-    "address": "720 Elcano St., Binondo, Manila, MM",
-    "phoneNumbers": ["0917-8924247", "0927-6686155"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23720+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
-  },
-  {
     "name": "Haya Agri-Grains & Spice Trading",
     "region": "Manila",
     "address": "641 Elcano St., Binondo, Manila, MM",
@@ -375,18 +354,6 @@
     "address": "725 Asuncion St., Binondo, Manila, MM",
     "phoneNumbers": ["0917-8621217", "0917-5174533"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23725+Asuncion+St.%2C+Binondo%2C+Manila%2C+MM"
-  },
-  {
-    "name": "Met Food Corporation",
-    "region": "Manila",
-    "address": "Unit 504-505 5/F Sky 1 Tower, 68 Dasmarinas St., Binondo, Manila, MM",
-    "phoneNumbers": [
-      "0917-8938376",
-      "0918-8227599",
-      "0997-3155890",
-      "0919-5451402"
-    ],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+504-505+5%2FF+Sky+1+Tower%2C+%2368+Dasmarinas+St.%2C+Binondo%2C+Manila%2C+MM"
   },
   {
     "name": "Sin Hiap Hing Grocery & Miki Factory Co.",
@@ -605,13 +572,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+108%2C+G%2FF+Wilson+Promenade+Building%2C+%23198+Wilson+St.%2C+Addition+Hills%2C+San+Juan%2C+MM"
   },
   {
-    "name": "MSCS PrimeGoods, Inc.",
-    "region": "Mandaluyong",
-    "address": "3rd Flr., P&D Bldg., Calbayog cor. Mariveles Sts., Highway Hills, Mandaluyong City, MM",
-    "phoneNumbers": ["0917-5843396", "0917-1756719"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=3rd+Flr.%2C+P%26D+Bldg.%2C+Calbayog+cor.+Mariveles+Sts.%2C+Highway+Hills%2C+Mandaluyong+City%2C+MM"
-  },
-  {
     "name": "Gladys Store",
     "region": "Mandaluyong",
     "address": "Stall KA-44, Kalentong Market 2, 543 New Pamaderos St., Mandaluyong City, MM",
@@ -650,13 +610,6 @@
     "address": "45 Gen. San Miguel Rd., Sangandaan, Caloocan City, MM",
     "phoneNumbers": ["0917-8242626"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2345+Gen.+San+Miguel+Rd.%2C+Sangandaan%2C+Caloocan+City%2C+MM"
-  },
-  {
-    "name": "Shop Wings Food Trading",
-    "region": "Caloocan",
-    "address": "93 10th Ave., Grace Park West, Brgy. 63, Caloocan City, MM",
-    "phoneNumbers": ["0969-2544350"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2393+10th+Ave.%2C+Grace+Park+West%2C+Brgy.+63%2C+Caloocan+City%2C+MM"
   },
   {
     "name": "Micko Packaging Supplies",
@@ -743,13 +696,6 @@
     "address": "95 Pablo Roman St., Poblacion, Balanga City, Bataan",
     "phoneNumbers": ["0917-6470862"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2395+Pablo+Roman+St.%2C+Poblacion%2C+Balanga+City%2C+Bataan"
-  },
-  {
-    "name": "Princess Variety Store",
-    "region": "Bataan",
-    "address": "San Ramon Public Market, Dinalupihan, Bataan",
-    "phoneNumbers": ["0969-5632775"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=San+Ramon+Public+Market%2C+Dinalupihan%2C+Bataan"
   },
   {
     "name": "Mega Wholesale Solutions, Inc.",
@@ -1042,13 +988,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=VL+Yap+cor.+Araneta+Sts.%2C+Singcang%2C+Bacolod+City%2C+Negros+Accidental"
   },
   {
-    "name": "Food Sun Spices Trading",
-    "region": "Negros Occidental",
-    "address": "Door 2 Quendy's Bldg., Amelia Ave., Libertad, Bacolod City, Negros Occidental",
-    "phoneNumbers": ["0917-7713364"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+%232+Quendy%27s+Bldg.%2C+Amelia+Ave.%2C+Libertad%2C+Bacolod+City%2C+Negros+Occidental"
-  },
-  {
     "name": "Yoomi Spices Trading",
     "region": "Negros Occidental",
     "address": "Door 3-4 ACFC Bldg., Libertad St., Brgy. 33, Bacolod City, Negros Occidental",
@@ -1110,15 +1049,6 @@
     "phoneNumbers": ["0917-1047003"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Colon+St.%2C+Brgy.+3%2C+Dumguete+City%2C+Negros+Oriental"
   },
-
-  {
-    "name": "Marianing Superstore",
-    "region": "Aklan",
-    "address": "Dr. Gonzales cor. Pastrana Sts., Poblacion, Kalibo, Aklan",
-    "phoneNumbers": ["0918-9275041"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dr.+Gonzales+cor.+Pastrana+Sts.%2C+Poblacion%2C+Kalibo%2C+Aklan"
-  },
-
   {
     "name": "Bonz Local Pinoy Favorites, Inc.",
     "region": "Iloilo",
@@ -1214,14 +1144,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Anopog+Dumlog%2C+Toledo+City%2C+Cebu"
   },
   {
-    "name": "Veyra Sari-Sari Store",
-    "region": "Cebu",
-    "address": "Stall 113 Carcar Public Market, Carcar City, Cebu",
-    "phoneNumbers": ["0929-8575933"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23113+Carcar+Public+Market%2C+Carcar+City%2C+Cebu"
-  },
-
-  {
     "name": "Alturas Supermarket Corporation /",
     "region": "Bohol",
     "address": "Alturas Corporate Center, North Wing, Island City Mall Bldg., Dampas District, Tagbilaran City, Bohol",
@@ -1249,14 +1171,6 @@
     "phoneNumbers": ["0949-3301183"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=P8+Union%2C+Poblacion%2C+Dauis%2C+Bohol"
   },
-  {
-    "name": "Boylinda Store",
-    "region": "Bohol",
-    "address": "Block 4 Circumferential Bldg., Ubay Public Market, Poblacion, Ubay, Bohol",
-    "phoneNumbers": ["0985-9068060"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+4+Circumferential+Bldg.%2C+Ubay+Public+Market%2C+Poblacion%2C+Ubay%2C+Bohol"
-  },
-
   {
     "name": "L'L Frozen Food Trading",
     "region": "Bukidnon",
@@ -1340,13 +1254,6 @@
     "address": "Valenzuela Rd., Lapasan, Cagayan De Oro, Misamis Oriental",
     "phoneNumbers": ["0936-6300021"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Valenzuela+Rd.%2C+Lapasan%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
-  },
-  {
-    "name": "ILT Food Products",
-    "region": "Misamis Oriental",
-    "address": "196 Corrales Ave., Brgy. 29, Cagayan De Oro, Misamis Oriental",
-    "phoneNumbers": ["0917-5288088"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23196+Corrales+Ave.%2C+Brgy.+29%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
   },
   {
     "name": "EJ Food Products Trading",
@@ -1584,18 +1491,6 @@
     "address": "Villa Sta. Rosa, Turno, Dipolog City, Zamboanga Del Norte",
     "phoneNumbers": ["0926-4033212", "0910-3066887"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Villa+Sta.+Rosa%2C+Turno%2C+Dipolog+City%2C+Zamboanga+Del+Norte"
-  },
-  {
-    "name": "Baking and Beyond Dipolog Baking Supplies Store",
-    "region": "Zamboanga Del Norte",
-    "address": "Burgos cor. Gen. Luna St., Dipolog City, Zamboanga Del Norte",
-    "phoneNumbers": [
-      "0939-1815800",
-      "0908-8837880",
-      "0965-3316168",
-      "0995-4888578"
-    ],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Burgos+cor.+Gen.+Luna+St.%2C+Dipolog+City%2C+Zamboanga+Del+Norte"
   },
   {
     "name": "Baking Ounces Bakery Supplies Trading",
