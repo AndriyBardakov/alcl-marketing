@@ -460,6 +460,13 @@
     "phoneNumbers": ["0917-5352422"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%2FF+Fuhong+Commercial+Bldg.%2C+%231394+Perez+St.%2C+Paco%2C+Manila%2C+MM"
   },
+  {
+    "name": "Victory Marketing",
+    "region": "Manila",
+    "address": "553 Elcano St., Binondo, Manila, MM",
+    "phoneNumbers": ["0917-5350371"],
+    "mapsLink": "https://www.google.com/maps/place/553+Elcano+St,+Binondo,+Manila,+Metro+Manila,+Philippines/@14.5999061,120.9684444,17z/data=!3m1!4b1!4m6!3m5!1s0x3397ca118f96d3d3:0x696ccdac66b9913e!8m2!3d14.5999061!4d120.9710193!16s%2Fg%2F11s7d5kqww?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Malou Store",
@@ -1275,6 +1282,13 @@
     "address": "Yacapin-Guillermo Sts., Brgy. 33, Cagayan De Oro, Misamis Oriental",
     "phoneNumbers": ["0917-7067935"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Yacapin-Guillermo+Sts.%2C+Brgy.+33%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
+  },
+  {
+    "name": "BCD Plastic Enterprises",
+    "region": "Misamis Oriental",
+    "address": "Marcelino Dy Bldg., Ipil St., Brgy. Carmen, Cagayan De Oro City, Misamis Oriental",
+    "phoneNumbers": ["0917-7141737"],
+    "mapsLink": "https://www.google.com/maps/place/Ipil+St,+Cagayan+De+Oro+City,+Misamis+Oriental,+Philippines/@8.4792375,124.6347381,17z/data=!3m1!4b1!4m6!3m5!1s0x32fff328dd0a02e7:0xa1fcf6ad71c18c4d!8m2!3d8.4792375!4d124.637313!16s%2Fg%2F1tg37mks?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {

@@ -40,38 +40,33 @@ export const productsItems = [
 
 export const videoItems = [
   {
-    name: "Videos",
-    items: [
-      {
-        name: "Chef Talks",
-        routePath:
-          "https://youtube.com/playlist?list=PLi4xAH56tdYNGO_YZiO_jsL5t6PKb12xq&si=RRr0yGUryvS09I98",
-        external: true,
-      },
-      {
-        name: "Recipes",
-        routePath:
-          "https://youtube.com/playlist?list=PLi4xAH56tdYOFFqK-umTna0pbtxpMs-cY&si=A5kgwDlvnA1Imvld",
-        external: true,
-      },
-      {
-        name: "Lifestyle",
-        routePath:
-          "https://youtube.com/playlist?list=PLi4xAH56tdYN5clq_rai1RUkoDhBjx37E&si=NpSrx1KM5kjYYv8O",
-        external: true,
-      },
-      {
-        name: "Testimonials",
-        routePath:
-          "https://youtube.com/playlist?list=PLi4xAH56tdYOGTodO0G2u06FBfbhwrk8m&si=5tMUySyMpme4-H_L",
-        external: true,
-      },
-      {
-        name: "Shorts & Reels",
-        routePath: "https://www.youtube.com/@ALCLMarketing/shorts",
-        external: true,
-      },
-    ],
+    name: "Chef Talks",
+    routePath:
+      "https://youtube.com/playlist?list=PLi4xAH56tdYNGO_YZiO_jsL5t6PKb12xq&si=RRr0yGUryvS09I98",
+    external: true,
+  },
+  {
+    name: "Recipes",
+    routePath:
+      "https://youtube.com/playlist?list=PLi4xAH56tdYOFFqK-umTna0pbtxpMs-cY&si=A5kgwDlvnA1Imvld",
+    external: true,
+  },
+  {
+    name: "Lifestyle",
+    routePath:
+      "https://youtube.com/playlist?list=PLi4xAH56tdYN5clq_rai1RUkoDhBjx37E&si=NpSrx1KM5kjYYv8O",
+    external: true,
+  },
+  {
+    name: "Testimonials",
+    routePath:
+      "https://youtube.com/playlist?list=PLi4xAH56tdYOGTodO0G2u06FBfbhwrk8m&si=5tMUySyMpme4-H_L",
+    external: true,
+  },
+  {
+    name: "Shorts & Reels",
+    routePath: "https://www.youtube.com/@ALCLMarketing/shorts",
+    external: true,
   },
 ];
 
