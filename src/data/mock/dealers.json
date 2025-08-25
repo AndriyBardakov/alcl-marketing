@@ -530,6 +530,14 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=TSL+Bldg.%2C+%2359+E.+Rodriguez+Sr.+Ave.%2C+Brgy.+Josefa%2C+Quezon+City%2C+MM"
   },
   {
+    "name": "Timothydragon Milktea Supplies Trading",
+    "region": "Quezon City",
+    "address": "6 Leland Drive, Brgy. Balon Bato, Quezon City, MM",
+    "phoneNumbers": ["0977-8235169"],
+    "mapsLink": "https://www.google.com/maps/place/06+Leland+Dr,+Quezon+City,+1106+Metro+Manila,+Philippines/@14.6655915,121.0020818,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b6969f006745:0x43182765d18d4292!8m2!3d14.6655915!4d121.0046567!16s%2Fg%2F11w49jk1hq?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
+  },
+
+  {
     "name": "Royal Dragon Marketing",
     "region": "Valenzuela",
     "address": "26 J. Isidro Francisco St., Malinta, Valenzuela City, MM",
@@ -844,6 +852,13 @@
     "address": "Zone B, 43 4Lanes Plaza, Brgy. Gen. Malvar, Santiago City, Isabela",
     "phoneNumbers": ["0917-4865822"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zone+B%2C+%2343+4Lanes+Plaza%2C+Brgy.+Gen.+Malvar%2C+Santiago+City%2C+Isabela"
+  },
+  {
+    "name": "DC Recto General Merchandise",
+    "region": "Isabela",
+    "address": "Gate 2, Santiago City Public Market, Santiago City, Isabela",
+    "phoneNumbers": ["0905-3262324"],
+    "mapsLink": "https://www.google.com/maps/search/Aurora+Public+Market,+2+Santiago+-+Tuguegarao+Road,+Santiago+City,+Isabela,+Philippines/@16.6874817,121.5367128,15z/data=!3m1!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {
@@ -1297,6 +1312,13 @@
     "phoneNumbers": ["0917-7141737"],
     "mapsLink": "https://www.google.com/maps/place/Ipil+St,+Cagayan+De+Oro+City,+Misamis+Oriental,+Philippines/@8.4792375,124.6347381,17z/data=!3m1!4b1!4m6!3m5!1s0x32fff328dd0a02e7:0xa1fcf6ad71c18c4d!8m2!3d8.4792375!4d124.637313!16s%2Fg%2F1tg37mks?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Orlee's Foodtrip Food Store",
+    "region": "Misamis Oriental",
+    "address": "Poblacion 2, Villanueva, Misamis Oriental",
+    "phoneNumbers": ["0917-1235246", "0955-4331124"],
+    "mapsLink": "https://www.google.com/maps/place/Fog's+Vape+Shop/@8.5860137,124.7690842,17z/data=!3m1!4b1!4m6!3m5!1s0x32ffefd0b627ec75:0x20b66760e992539d!8m2!3d8.5860137!4d124.7716591!16s%2Fg%2F11xp8lz_8w?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "FD Packaging Services",
@@ -1361,8 +1383,15 @@
     "name": "MKJ Trading",
     "region": "North Cotabato",
     "address": "Datu Ali St., Poblacion 1, Midsayap, North Cotabato",
-    "phoneNumbers": ["TIN  926-789-803-000", "0917-8030635"],
+    "phoneNumbers": ["926-789-803-000", "0917-8030635"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Datu+Ali+St.%2C+Poblacion+1%2C+Midsayap%2C+North+Cotabato"
+  },
+  {
+    "name": "BakeSaver Baking Supplies and Party Needs",
+    "region": "North Cotabato",
+    "address": "Ledesma Bldg., Quezon Ave., Brgy. Poblacion 4, Midsayap, Cotabato",
+    "phoneNumbers": ["09179326803", "09302540136"],
+    "mapsLink": "https://www.google.com/maps/place/Quezon+Ave,+Midsayap,+Cotabato,+Philippines/@7.2435204,124.382125,12z/data=!4m6!3m5!1s0x32f89da3e60fef31:0x91edbfacae3d2aea!8m2!3d7.1877785!4d124.5325326!16s%2Fg%2F12llf9n2f?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {
