@@ -17,7 +17,9 @@ export default defineConfig({
     port: 3002,
   },
   preview: {
-    open: true,
-    port: 3002,
+    port: 3002,    // or any port you like
+    host: true,
+    open: true,    // will open dist build in browser
   },
+  base: './'
 })
