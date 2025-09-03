@@ -70,28 +70,6 @@ const HeaderNavContent = () => {
 
           <li
             className={`${
-              isActiveParent(influencersMenuItems, pathname) ? "current" : ""
-            } dropdown`}
-          >
-            <span>Influencers</span>
-            <ul>
-              {influencersMenuItems.map((item, i) => (
-                <li
-                  className={
-                    isActiveLink(item.routePath, pathname) ? "current" : ""
-                  }
-                  key={i}
-                >
-                  <Link to={item.routePath}>
-                    {item.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </li>
-
-          <li
-            className={`${
               isActiveParent(videoItems, pathname) ? "current" : ""
             } dropdown`}
           >
@@ -114,8 +92,29 @@ const HeaderNavContent = () => {
 
           <li
             className={`${
-              isActiveParentChaild(companyMenuItems, pathname) ||
-              isActiveParentChaild(videoItems[0].items, pathname)
+              isActiveParent(influencersMenuItems, pathname) ? "current" : ""
+            } dropdown`}
+          >
+            <span>Influencers</span>
+            <ul>
+              {influencersMenuItems.map((item, i) => (
+                <li
+                  className={
+                    isActiveLink(item.routePath, pathname) ? "current" : ""
+                  }
+                  key={i}
+                >
+                  <Link to={item.routePath}>
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </li>
+
+          <li
+            className={`${
+              isActiveParent(companyMenuItems, pathname)
                 ? "current "
                 : ""
             } dropdown`}
