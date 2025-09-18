@@ -949,6 +949,76 @@ const ChefLhenDeCastro = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7523491730998430994" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7549848429778750727"
+            data-video-id="7549848429778750727"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Meron na naman tayong Cheesemiss! Cheesy Ice cream na pina
+              level-up ng Cheesemiss Special cheese flavoring powder na
+              reformulated na kaya SWEET and CREAMY ang lasa 🧀 Ingredients 250
+              g all-purpose cream, chilled overnight 3&#47;4 cup condensed milk
+              1&#47;2 cup powdered milk (wala sa video, optional) 3 tbsp
+              Cheesemiss Special Cheese flavoring powder 100 g cheddar cheese{" "}
+              <a
+                title="cheesemissspecial"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemissspecial?refer=embed"
+              >
+                #CheesemissSpecial
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              <a
+                title="alclmarketing"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclmarketing?refer=embed"
+              >
+                #ALCLMarketing
+              </a>{" "}
+              <a
+                title="sarapnglasa"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasa?refer=embed"
+              >
+                #SarapNgLasa
+              </a>{" "}
+              <a
+                title="sarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapngkita?refer=embed"
+              >
+                #SarapNgKita
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ Snack Time - Lots of rooms"
+                href="https://www.tiktok.com/music/Snack-Time-7439555741756082193?refer=embed"
+              >
+                ♬ Snack Time - Lots of rooms
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7549848429778750727" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );
