@@ -70,6 +70,18 @@ export const mobileMenuData = [
     label: "Influencers",
     items: [
       {
+        name: "Angelica Reyes",
+        routePath: "/influencers/angelica-reyes",
+      },
+      {
+        name: "Aprilyn Morales",
+        routePath: "/influencers/aprilyn-morales",
+      },
+      {
+        name: "Carwin Ann Navarro",
+        routePath: "/influencers/carwin-ann-navarro",
+      },
+      {
         name: "Chef Emily Peralta",
         routePath: "/influencers/chef-emily-peralta",
       },
@@ -82,8 +94,28 @@ export const mobileMenuData = [
         routePath: "/influencers/chef-lhen-de-castro",
       },
       {
+        name: "Dee Kaye San Luis",
+        routePath: "/influencers/dee-kaye-san-luis",
+      },
+      {
+        name: "Elane Marie Basmayor",
+        routePath: "/influencers/elaine-marie-basmayor",
+      },
+      {
+        name: "Glaissa Joy Albelar",
+        routePath: "/influencers/glaissa-joy-albelar",
+      },
+      {
+        name: "Good Cheats",
+        routePath: "/influencers/good-cheats",
+      },
+      {
         name: "Hello Eats Nani",
         routePath: "/influencers/hello-eats-nani",
+      },
+      {
+        name: "Jesa Linatoc",
+        routePath: "/influencers/jesa-linatoc",
       },
       {
         name: "Jhunpig",
@@ -106,8 +138,20 @@ export const mobileMenuData = [
         routePath: "/influencers/kristine-castillo",
       },
       {
+        name: "Lorenda Ramos Failano",
+        routePath: "/influencers/lorenda-ramos-failano",
+      },
+      {
         name: "Mama Jasmin",
         routePath: "/influencers/mama-jasmin",
+      },
+      {
+        name: "Mayen Comia",
+        routePath: "/influencers/mayen-comia",
+      },
+      {
+        name: "Mica Ella Valdez",
+        routePath: "/influencers/mica-ella-valdez",
       },
       {
         name: "Nika Estuista",

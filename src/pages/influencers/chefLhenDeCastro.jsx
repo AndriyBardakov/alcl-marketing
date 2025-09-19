@@ -1019,6 +1019,118 @@ const ChefLhenDeCastro = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7549848429778750727" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7527528311161916679"
+            data-video-id="7527528311161916679"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Cheese Bars 3&#47;4 cup unsalted butter 1&#47;2 cup white sugar 4
+              large egg yolks 1&#47;2 cup powdered milk 1&#47;4 cup Cheesemiss
+              Instant Cheese Sauce Powder Mix 1&#47;2 teaspoon baking powder
+              1&#47;2 cup condensed milk 1 cup all-purpose flour grated cheddar
+              cheese 8x8 pan bake at 150c for 35 minutes chill until set before
+              slicing.{" "}
+              <a
+                title="CheesemissInstantCheeseSaucePowderMix"
+                target="_blank"
+                href="https://www.tiktok.com/tag/CheesemissInstantCheeseSaucePowderMix?refer=embed"
+              >
+                #CheesemissInstantCheeseSaucePowderMix
+              </a>{" "}
+              <a
+                title="ALCLMarketing"
+                target="_blank"
+                href="https://www.tiktok.com/tag/ALCLMarketing?refer=embed"
+              >
+                #ALCLMarketing
+              </a>{" "}
+              <a
+                title="SarapNgLasa"
+                target="_blank"
+                href="https://www.tiktok.com/tag/SarapNgLasa?refer=embed"
+              >
+                #SarapNgLasa
+              </a>{" "}
+              <a
+                title="SarapNgKita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/SarapNgKita?refer=embed"
+              >
+                #SarapNgKita
+              </a>{" "}
+              <a
+                title="BakeAndCookWithLhenDeCastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/BakeAndCookWithLhenDeCastro?refer=embed"
+              >
+                #BakeAndCookWithLhenDeCastro
+              </a>{" "}
+              <a
+                title="lhendecastrotercias"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastrotercias?refer=embed"
+              >
+                #lhendecastrotercias
+              </a>{" "}
+              <a
+                title="lhendecastro"
+                target="_blank"
+                href="https://www.tiktok.com/tag/lhendecastro?refer=embed"
+              >
+                #lhendecastro
+              </a>{" "}
+              <a
+                title="Recipe"
+                target="_blank"
+                href="https://www.tiktok.com/tag/Recipe?refer=embed"
+              >
+                #Recipe
+              </a>{" "}
+              <a
+                title="Baking"
+                target="_blank"
+                href="https://www.tiktok.com/tag/Baking?refer=embed"
+              >
+                #Baking
+              </a>{" "}
+              <a
+                title="cheesebar"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesebar?refer=embed"
+              >
+                #cheesebar
+              </a>{" "}
+              <a
+                title="cheesebars"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesebars?refer=embed"
+              >
+                #cheesebars
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ original sound 🐲 - KIEL THE GREAT"
+                href="https://www.tiktok.com/music/original-sound-KIEL-THE-GREAT🐲-7362770516718324486?refer=embed"
+              >
+                ♬ original sound 🐲 - KIEL THE GREAT
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7527528311161916679" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );

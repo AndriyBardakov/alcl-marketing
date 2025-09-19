@@ -96,7 +96,7 @@ const HeaderNavContent = () => {
             } dropdown`}
           >
             <span>Influencers</span>
-            <ul>
+            <ul style={{ maxHeight: "400px", overflowY: "auto" }}>
               {influencersMenuItems.map((item, i) => (
                 <li
                   className={

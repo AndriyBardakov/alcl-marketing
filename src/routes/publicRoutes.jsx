@@ -16,6 +16,17 @@ import NicaEstuista from "@/pages/influencers/nicaEstuista";
 import JoanaRamos from "@/pages/influencers/joanaRamos";
 import ChefLhenDeCastro from "@/pages/influencers/chefLhenDeCastro";
 import MamaJasmin from "@/pages/influencers/mamaJasmin";
+import ElaineMarieBasmayor from "@/pages/influencers/elaineMarieBasmayor";
+import MicaEllaValdez from "@/pages/influencers/micaEllaValdez";
+import CarwinAnnNavarro from "@/pages/influencers/carwinAnnNavarro";
+import GoodCheats from "@/pages/influencers/goodCheats";
+import AngelicaReyes from "@/pages/influencers/angelicaReyes";
+import MayenComia from "@/pages/influencers/mayenComia";
+import AprilynMorales from "@/pages/influencers/aprilynMorales";
+import DeeKayeSanLuis from "@/pages/influencers/deeKayeSanLuis";
+import JesaLinatoc from "@/pages/influencers/jesaLinatoc";
+import LorendaRamosFailano from "@/pages/influencers/lorendaRamosFailano";
+import GlaissaJoyAlbelar from "@/pages/influencers/glaissaJoyAlbelar";
 
 export const routes = [
   { path: "/home", component: <Home /> },
@@ -35,6 +46,17 @@ export const routes = [
   { path: "/influencers/joana-ramos", component: <JoanaRamos /> },
   { path: "/influencers/chef-lhen-de-castro", component: <ChefLhenDeCastro /> },
   { path: "/influencers/mama-jasmin", component: <MamaJasmin /> },
+  { path: "/influencers/elaine-marie-basmayor", component: <ElaineMarieBasmayor /> },
+  { path: "/influencers/mica-ella-valdez", component: <MicaEllaValdez /> },
+  { path: "/influencers/carwin-ann-navarro", component: <CarwinAnnNavarro /> },
+  { path: "/influencers/good-cheats", component: <GoodCheats /> },
+  { path: "/influencers/angelica-reyes", component: <AngelicaReyes /> },
+  { path: "/influencers/mayen-comia", component: <MayenComia /> },
+  { path: "/influencers/aprilyn-morales", component: <AprilynMorales /> },
+  { path: "/influencers/dee-kaye-san-luis", component: <DeeKayeSanLuis /> },
+  { path: "/influencers/jesa-linatoc", component: <JesaLinatoc /> },
+  { path: "/influencers/lorenda-ramos-failano", component: <LorendaRamosFailano /> },
+  { path: "/influencers/glaissa-joy-albelar", component: <GlaissaJoyAlbelar /> },
 
   // this route should be at the end of all other routes
   // eslint-disable-next-line react/display-name
