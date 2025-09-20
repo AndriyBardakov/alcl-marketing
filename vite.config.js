@@ -21,5 +21,5 @@ export default defineConfig({
     host: true,
     open: true,    // will open dist build in browser
   },
-  base: './'
+  base: '/'
 })
