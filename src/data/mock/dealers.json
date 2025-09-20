@@ -1201,6 +1201,13 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=P8+Union%2C+Poblacion%2C+Dauis%2C+Bohol"
   },
   {
+    "name": "Boylinda Store",
+    "region": "Bohol",
+    "address": "Block 4 Circumferential Bldg., Ubay Public Market, Poblacion, Ubay, Bohol",
+    "phoneNumbers": ["0985-9068060"],
+    "mapsLink": "https://www.google.com/maps/place/Ubay+Public+Market+Building/@10.0588717,124.4694127,17z/data=!4m6!3m5!1s0x33a9fe6724d885e1:0xc1a02a7907048b61!8m2!3d10.0590262!4d124.4721365!16s%2Fg%2F1thvq6r7?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
     "name": "L'L Frozen Food Trading",
     "region": "Bukidnon",
     "address": "Zone 2, Airport Village, Landing, Casisang, Malaybalay City, Bukidnon",
@@ -1386,13 +1393,6 @@
     "phoneNumbers": ["926-789-803-000", "0917-8030635"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Datu+Ali+St.%2C+Poblacion+1%2C+Midsayap%2C+North+Cotabato"
   },
-  {
-    "name": "BakeSaver Baking Supplies and Party Needs",
-    "region": "North Cotabato",
-    "address": "Ledesma Bldg., Quezon Ave., Brgy. Poblacion 4, Midsayap, Cotabato",
-    "phoneNumbers": ["09179326803", "09302540136"],
-    "mapsLink": "https://www.google.com/maps/place/Quezon+Ave,+Midsayap,+Cotabato,+Philippines/@7.2435204,124.382125,12z/data=!4m6!3m5!1s0x32f89da3e60fef31:0x91edbfacae3d2aea!8m2!3d7.1877785!4d124.5325326!16s%2Fg%2F12llf9n2f?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
-  },
 
   {
     "name": "New Marbel Amigo Commercial",
@@ -1414,6 +1414,13 @@
     "address": "Delos Reyes Bldg., Magsaysay Ave., General Santos City, South Cotabato",
     "phoneNumbers": ["0999-8894052"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Delos+Reyes+Bldg.%2C+Magsaysay+Ave.%2C+General+Santos+City%2C+South+Cotabato"
+  },
+  {
+    "name": "AC5 Baker's Corner, OPC",
+    "region": "South Cotabato",
+    "address": "Johnson Arcade, Nunez St., San Isidro, General Santos City, South Cotabato",
+    "phoneNumbers": ["0939-9385534"],
+    "mapsLink": "https://www.google.com/maps/place/Johnstone+arcade/@6.1379502,125.1580527,17z/data=!3m1!4b1!4m6!3m5!1s0x32f79f0004150ea3:0xb50cc1c64db693db!8m2!3d6.1379502!4d125.1606276!16s%2Fg%2F11y434gb2l?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "name": "Lifestream Commercial",
@@ -1451,13 +1458,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lizada+Street%2C+Davao+City"
   },
   {
-    "name": "Kimsheen Dvo. Milktea Supplies",
-    "region": "Davao",
-    "address": "Door 4 LDL Commercial Bldg., Cabantian Buhangin District, Cabantian Rd., Davao City",
-    "phoneNumbers": ["0920-5265415"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+%234+LDL+Commercial+Bldg.%2C+Cabantian+Buhangin+District%2C+Cabantian+Rd.%2C+Davao+City"
-  },
-  {
     "name": "ASL Durian Marketing, OPC",
     "region": "Davao",
     "address": "Gante Dalisay Ave., Purok Mansanitas, Magugpo West, Tagum City, Davao Del Norte",
@@ -1491,6 +1491,13 @@
     "address": "Stall  26, Tacurong Public Market, 6 Malvar St., Poblacion, Tacurong City, Sultan Kudarat",
     "phoneNumbers": ["0926-2479767", "0906-1832214"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23+26%2C+Tacurong+Public+Market%2C+%236+Malvar+St.%2C+Poblacion%2C+Tacurong+City%2C+Sultan+Kudarat"
+  },
+  {
+    "name": "BakeMart Bakery Supplies",
+    "region": "Sultan Kudarat",
+    "address": "National Highway, Buenaflor, Tacurong City, Sultan Kudarat",
+    "phoneNumbers": ["0917-9326803", "0930-2540136"],
+    "mapsLink": "https://www.google.com/maps/place/Buenaflor+Road,+Tacurong+City,+Sultan+Kudarat,+Philippines/@6.6931121,124.6590226,17z/data=!3m1!4b1!4m6!3m5!1s0x32f80d6db0d412ed:0x3706ea1899d7eed3!8m2!3d6.6931121!4d124.6615975!16s%2Fg%2F11h0jgyrn?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "name": "Lansh Enterprise Center",
