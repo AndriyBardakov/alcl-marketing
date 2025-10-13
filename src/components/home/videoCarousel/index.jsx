@@ -82,13 +82,13 @@ export default function VideoCarousel() {
             >
               <Slider {...carouselConfig}>
                 <div>
+                  <VideoFrame src="https://www.youtube.com/embed/3lflvNSRq7U?si=nXFKmRpeX32CzCX7" />
+                </div>
+                <div>
                   <VideoFrame src="https://www.youtube.com/embed/PVCJtN_4QIg?si=rNMTl0D8G8gGEcXL" />
                 </div>
                 <div>
                   <VideoFrame src="https://www.youtube.com/embed/iJH_Jo80e3Y?si=9NAzOO1eZqrj-oVw" />
-                </div>
-                <div>
-                  <VideoFrame src="https://www.youtube.com/embed/3lflvNSRq7U?si=nXFKmRpeX32CzCX7" />
                 </div>
                 <div>
                   <VideoFrame src="https://www.youtube.com/embed/ZBQ9ugD6eRI?si=5cD1mF1Cp8MIyHL6" />

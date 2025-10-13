@@ -440,13 +440,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+3%2C+Unit+25%2C+Jade+Garden+Manila%2C+Honorio+Lopez+cor.+Juan+Luna+Sts.%2C+Tondo%2C+Manila%2C+MM"
   },
   {
-    "name": "2447 Store",
-    "region": "Manila",
-    "address": "2445-2447 Oroquieta St., Brgy. 263, Zone 037, Sta. Cruz, Manila, MM",
-    "phoneNumbers": ["0920-8641749"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%232445-2447+Oroquieta+St.%2C+Brgy.+263%2C+Zone+037%2C+Sta.+Cruz%2C+Manila%2C+MM"
-  },
-  {
     "name": "Sugar Rush Trading Corporation",
     "region": "Manila",
     "address": "2/F 1575 Batangas St. cor. Rizal Ave., Brgy. 357, Zone 36, Sta. Cruz, Manila, MM",
@@ -476,13 +469,6 @@
   },
 
   {
-    "name": "Malou Store",
-    "region": "Quezon City",
-    "address": "Balintawak Cloverleaf Market, EDSA cor. Old Samson Rd., Balintawak, Quezon City, MM",
-    "phoneNumbers": ["0917-6312367"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Balintawak+Cloverleaf+Market%2C+EDSA+cor.+Old+Samson+Rd.%2C+Balintawak%2C+Quezon+City%2C+MM"
-  },
-  {
     "name": "Wilvin Go Store",
     "region": "Quezon City",
     "address": "5 Austria St., LVT Arcade Building, Novaliches Proper, Novaliches, Quezon City, MM",
@@ -502,20 +488,6 @@
     "address": "31-J T.S. Evalle Drive, Evamin Homes, Kaligayahan, Novaliches, Quezon City, MM",
     "phoneNumbers": ["0917-8075566", "0998-9798196"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2331-J+T.S.+Evalle+Drive%2C+Evamin+Homes%2C+Kaligayahan%2C+Novaliches%2C+Quezon+City%2C+MM"
-  },
-  {
-    "name": "L. Carandang Store",
-    "region": "Quezon City",
-    "address": "Stall 57, Pasilio C, Mega Quintillon Market Plaza, Ermin Garcia St. cor. EDSA, Brgy. E. Rodriguez, Quezon City, MM",
-    "phoneNumbers": ["0917-8047189"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%2357%2C+Pasilio+C%2C+Mega+Quintillon+Market+Plaza%2C+Ermin+Garcia+St.+cor.+EDSA%2C+Brgy.+E.+Rodriguez%2C+Quezon+City%2C+MM"
-  },
-  {
-    "name": "Twin Sister Variety Store",
-    "region": "Quezon City",
-    "address": "T2 47-48 Cereal Section, Commonwealth Market, Commonwealth Ave., Quezon City, MM",
-    "phoneNumbers": ["0977-0563429"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=T2+47-48+Cereal+Section%2C+Commonwealth+Market%2C+Commonwealth+Ave.%2C+Quezon+City%2C+MM"
   },
   {
     "name": "Baking & Home Depot",
@@ -566,51 +538,11 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23273+McArthur+Highway%2C+Karuhatan%2C+Valenzuela+City%2C+MM"
   },
   {
-    "name": "Tessie Ong Processed Meat Shop",
-    "region": "Pasig",
-    "address": "1485-A M. Suarez Ave., Pasig City, MM",
-    "phoneNumbers": ["0939-1887088", "0922-7811007", "0920-2058414"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%231485-A+M.+Suarez+Ave.%2C+Pasig+City%2C+MM"
-  },
-  {
-    "name": "Oliver Plastic Center",
-    "region": "Pasig",
-    "address": "Stall 243 Plastic Section, Pasig City Mega Market, Caruncho cor. Market Avenue, Pasig City, MM",
-    "phoneNumbers": ["0918-4203678", "0946-4396106", "0994-2879157"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23243+Plastic+Section%2C+Pasig+City+Mega+Market%2C+Caruncho+cor.+Market+Avenue%2C+Pasig+City%2C+MM"
-  },
-  {
-    "name": "Baby Asuncion Store",
-    "region": "Pasig",
-    "address": "Stall 242 Plastic Section, Pasig City Mega Market, Caruncho cor. Market Avenue, Pasig City, MM",
-    "phoneNumbers": ["0927-9636061", "0936-1020321", "0975-2486459"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23242+Plastic+Section%2C+Pasig+City+Mega+Market%2C+Caruncho+cor.+Market+Avenue%2C+Pasig+City%2C+MM"
-  },
-  {
     "name": "Premium Blends, OPC",
     "region": "San Juan",
     "address": "Unit 108, G/F Wilson Promenade Building, 198 Wilson St., Addition Hills, San Juan, MM",
     "phoneNumbers": ["0917-1691006"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+108%2C+G%2FF+Wilson+Promenade+Building%2C+%23198+Wilson+St.%2C+Addition+Hills%2C+San+Juan%2C+MM"
-  },
-  {
-    "name": "Gladys Store",
-    "region": "Mandaluyong",
-    "address": "Stall KA-44, Kalentong Market 2, 543 New Pamaderos St., Mandaluyong City, MM",
-    "phoneNumbers": ["0908-2122465"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%23KA-44%2C+Kalentong+Market+2%2C+%23543+New+Pamaderos+St.%2C+Mandaluyong+City%2C+MM"
-  },
-  {
-    "name": "Sang-Ulan Store",
-    "region": "Marikina",
-    "address": "33 E. Jacinto St., Sto. Nino, Marikina City, MM",
-    "phoneNumbers": [
-      "0915-0695614",
-      "0915-6431506",
-      "0921-4747280",
-      "0915-2896906"
-    ],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2333+E.+Jacinto+St.%2C+Sto.+Nino%2C+Marikina+City%2C+MM"
   },
   {
     "name": "Trader Son Marketing Co.",
@@ -654,6 +586,13 @@
     "phoneNumbers": ["0917-8956635", "0917-1324327"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%232738+F.+B.+Harrison+St.%2C+Brgy.+075%2C+Pasay+City%2C+MM"
   },
+  {
+    "name": "Jasmel's General Merchandise",
+    "region": "Taguig City",
+    "address": "#94 Espino St., Zone 4, Signal Village, Taguig City, MM",
+    "phoneNumbers": ["0917-8356948"],
+    "mapsLink": "https://www.google.com/maps/place/Zone+4,+94+General+Espino+St,+St+Zone+5,+Taguig,+1633+Metro+Manila,+Philippines/@14.5094717,121.0488402,17z/data=!3m1!4b1!4m9!1m2!2m1!1s94+Espino+St.,+Zone+4,+Signal+Village,+Taguig+City,+MM!3m5!1s0x3397cf37aacfe243:0xb55831d14d756176!8m2!3d14.5094666!4d121.0537111!15sCjY5NCBFc3Bpbm8gU3QuLCBab25lIDQsIFNpZ25hbCBWaWxsYWdlLCBUYWd1aWcgQ2l0eSwgTU2SARBjb21wb3VuZF9zZWN0aW9u4AEA?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Lioner Marketing Enterprise Company",
@@ -688,13 +627,6 @@
     "address": "C12 Jolly Industrial Park, Plaridel Bypass Access Rd., Parulan, Plaridel, Bulacan",
     "phoneNumbers": ["0917-8916800", "0933-8550317"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=C12+Jolly+Industrial+Park%2C+Plaridel+Bypass+Access+Rd.%2C+Parulan%2C+Plaridel%2C+Bulacan"
-  },
-  {
-    "name": "RLC Baking Supplies",
-    "region": "Bulacan",
-    "address": "2F Petron Bldg., Purok 5, San Martin III, Sapang Palay, San Jose Del Monte, Bulacan",
-    "phoneNumbers": ["0917-5261366"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=2F+Petron+Bldg.%2C+Purok+5%2C+San+Martin+III%2C+Sapang+Palay%2C+San+Jose+Del+Monte%2C+Bulacan"
   },
 
   {
@@ -740,13 +672,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=De+Venecia+Rd.%2C+Lucao+District%2C+Dagupan+City%2C+Pangasinan"
   },
   {
-    "name": "Penny's Plastic Store",
-    "region": "Pangasinan",
-    "address": "Labrador Public Market, Labrador, Pangasinan",
-    "phoneNumbers": ["0946-6040953"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Labrador+Public+Market%2C+Labrador%2C+Pangasinan"
-  },
-  {
     "name": "Udragon Corporation / Udragon Urdaneta Corporation",
     "region": "Pangasinan",
     "address": "Lot 1-B Perez South St., Poblacion, Urdaneta City, Pangasinan",
@@ -766,6 +691,13 @@
     "address": "National Highway, Brgy. San Jose, Urdaneta City, Pangasinan",
     "phoneNumbers": ["0917-8915372"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=National+Highway%2C+Brgy.+San+Jose%2C+Urdaneta+City%2C+Pangasinan"
+  },
+  {
+    "name": "Loosha's Consumer Goods Trading",
+    "region": "Pangasinan",
+    "address": "Caoayan, Sual, Pangasinan",
+    "phoneNumbers": ["0946-6040953"],
+    "mapsLink": "https://www.google.com/maps/place/Caoayan,+Sual,+Pangasinan,+Philippines/@16.0734155,120.0492028,15z/data=!3m1!4b1!4m6!3m5!1s0x3393e74f90654753:0x76913167af37ce8b!8m2!3d16.0704348!4d120.0607461!16s%2Fg%2F11gbfc34p8?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "name": "3J's Marketing",
@@ -788,6 +720,14 @@
     "phoneNumbers": ["0998-9616032"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Km.+5%2C+Pico%2C+La+Trinidad%2C+Benguet"
   },
+  {
+    "name": "Tiong San Supermarket & Department Store",
+    "region": "Benguet",
+    "address": "1 Harrison Road, Baguio City, Benguet",
+    "phoneNumbers": ["0956-3785145", "0917-5062659"],
+    "mapsLink": "https://www.google.com/maps/place/1+Harrison+Rd,+Baguio,+2600+Benguet,+Philippines/@16.4133535,120.5927563,17z/data=!3m1!4b1!4m6!3m5!1s0x3391a167dcda3a75:0xc4c3a35c8925a3d3!8m2!3d16.4133484!4d120.5953312!16s%2Fg%2F11df7l84vs?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"
+  },
+
   {
     "name": "Deimacoy General Merchandise",
     "region": "Ilocos Sur",
@@ -1173,6 +1113,13 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Anopog+Dumlog%2C+Toledo+City%2C+Cebu"
   },
   {
+    "name": "Veyra Sari-Sari Store",
+    "region": "Cebu",
+    "address": "Stall #113 Carcar Public Market, Carcar City, Cebu",
+    "phoneNumbers": ["0929-8575933"],
+    "mapsLink": "https://www.google.com/maps/place/New+Carcar+City+Public+Market/@10.1052713,123.6455721,18z/data=!3m1!4b1!4m6!3m5!1s0x33a97d67652298e1:0x141b67bf0b0ab480!8m2!3d10.1052687!4d123.6468596!16s%2Fg%2F1vfw9c8y?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
     "name": "Alturas Supermarket Corporation /",
     "region": "Bohol",
     "address": "Alturas Corporate Center, North Wing, Island City Mall Bldg., Dampas District, Tagbilaran City, Bohol",
@@ -1555,6 +1502,13 @@
     "address": "285 Gen. Luna cor. Magsaysay Sts., Dipolog City, Zamboanga Del Norte",
     "phoneNumbers": ["0916-3162118"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23285+Gen.+Luna+cor.+Magsaysay+Sts.%2C+Dipolog+City%2C+Zamboanga+Del+Norte"
+  },
+  {
+    "name": "Donlen's Variety Store",
+    "region": "Zamboanga Del Norte",
+    "address": "Magsaysay St., Central, Dipolog City, Zamboanga Del Norte",
+    "phoneNumbers": ["0945-8307331"],
+    "mapsLink": "https://www.google.com/maps/place/Magsaysay+St,+Dipolog+City,+Zamboanga+del+Norte,+Philippines/@8.5823808,123.3343337,17z/data=!3m1!4b1!4m6!3m5!1s0x3254960dfec94117:0x1b69f7f3f1045eb1!8m2!3d8.5823755!4d123.3369086!16s%2Fg%2F1tfrd8t7?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {

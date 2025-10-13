@@ -692,6 +692,63 @@ const AngelicaReyes = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7555372381976546567" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@reyes_gel/video/7559388253443427592"
+            data-video-id="7559388253443427592"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@reyes_gel"
+                href="https://www.tiktok.com/@reyes_gel?refer=embed"
+              >
+                @reyes_gel
+              </a>{" "}
+              <a
+                title="alclaffiliatechallenge"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclaffiliatechallenge?refer=embed"
+              >
+                #alclaffiliatechallenge
+              </a>{" "}
+              <a
+                title="alclbermonthsna"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclbermonthsna?refer=embed"
+              >
+                #ALCLBerMonthsNa
+              </a>{" "}
+              <a
+                title="nakacheesemisskanaba"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nakacheesemisskanaba?refer=embed"
+              >
+                #nakacheesemisskanaba
+              </a>{" "}
+              <a
+                title="sarapnglasasarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasasarapngkita?refer=embed"
+              >
+                #sarapnglasasarapngkita
+              </a>{" "}
+              @ALCL Marketing, OPC @mhacel{" "}
+              <a
+                target="_blank"
+                title="♬ original sound - urfavmusic - urfavmusic🅴"
+                href="https://www.tiktok.com/music/original-sound-urfavmusic-7396630512901196549?refer=embed"
+              >
+                ♬ original sound - urfavmusic - urfavmusic🅴
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7559388253443427592" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );
