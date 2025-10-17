@@ -1131,6 +1131,124 @@ const ChefLhenDeCastro = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7527528311161916679" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7555675236948036882"
+            data-video-id="7555675236948036882"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              <a
+                title="alclaffiliatechallenge"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclaffiliatechallenge?refer=embed"
+              >
+                #ALCLAffiliateChallenge
+              </a>{" "}
+              @alclmarketing{" "}
+              <a
+                title="porkfloss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/porkfloss?refer=embed"
+              >
+                #PorkFloss
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              <a
+                target="_blank"
+                title="♬ Everyday songs with a warm and cute atmosphere(1383581) - Sumochi"
+                href="https://www.tiktok.com/music/Everyday-songs-with-a-warm-and-cute-atmosphere-1383581-7190436563891783682?refer=embed"
+              >
+                ♬ Everyday songs with a warm and cute atmosphere(1383581) -
+                Sumochi
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7555675236948036882" />
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7560991613510585608"
+            data-video-id="7560991613510585608"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Cheesy Egg Tart 1 cup evaporated milk 3 Tbsp sugar 6 Tbsp
+              condensed milk 3 egg yolks 1 Tbsp cornstarch 1 &#38; 1&#47;2 Tbsp
+              cheesemiss instant cheese sauce powder 1 tsp vanilla{" "}
+              <a
+                title="cheesemissinstantcheesesaucepowdermix"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemissinstantcheesesaucepowdermix?refer=embed"
+              >
+                #CheesemissInstantCheeseSaucePowderMix
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #cheesemiss
+              </a>{" "}
+              @alclmarketing{" "}
+              <a
+                title="eggtart"
+                target="_blank"
+                href="https://www.tiktok.com/tag/eggtart?refer=embed"
+              >
+                #Eggtart
+              </a>{" "}
+              <a
+                title="tart"
+                target="_blank"
+                href="https://www.tiktok.com/tag/tart?refer=embed"
+              >
+                #Tart
+              </a>{" "}
+              <a
+                title="cheesyeggtart"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesyeggtart?refer=embed"
+              >
+                #cheesyEggtart
+              </a>{" "}
+              <a
+                target="_blank"
+                title="♬ Pieces (Solo Piano Version) - Danilo Stankovic"
+                href="https://www.tiktok.com/music/Pieces-Solo-Piano-Version-6777274113254754306?refer=embed"
+              >
+                ♬ Pieces (Solo Piano Version) - Danilo Stankovic
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7560991613510585608" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );

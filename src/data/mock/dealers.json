@@ -573,11 +573,25 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23349+Rizal+Ave.+Ext.%2C+West+Grace+Park%2C+Brgy.+62%2C+Caloocan+City%2C+MM"
   },
   {
+    "name": "Frozen Foodgasm",
+    "region": "Caloocan",
+    "address": "Lot 333, Block 1, Phase 3, Tanigue cor. Pampano St., Dagat-Dagatan, Caloocan City, MM",
+    "phoneNumbers": ["0945-8495511"],
+    "mapsLink": "https://www.google.com/maps/place/3+Tanigue+St,+Dagat-Dagatan,+Manila,+Metro+Manila,+Philippines/@14.6473775,120.9622624,17z/data=!3m1!4b1!4m5!3m4!1s0x3397b5c9d97fa2e7:0x7827f9d90966cb1b!8m2!3d14.6473723!4d120.9648373?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
     "name": "Gold Label Resources, Inc.",
     "region": "Malabon",
     "address": "168 Carbonium St., Goldendale Industrial Complex, Tinajeros, Malabon City, MM",
     "phoneNumbers": ["0999-9935657", "0917-1699888", "0920-9183858"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23168+Carbonium+St.%2C+Goldendale+Industrial+Complex%2C+Tinajeros%2C+Malabon+City%2C+MM"
+  },
+  {
+    "name": "TJU Marketing",
+    "region": "Malabon",
+    "address": "777 Gumamela St., Longos, Malabon City, MM",
+    "phoneNumbers": ["0919-0741002"],
+    "mapsLink": "https://www.google.com/maps/place/Gumamela+St,+Malabon,+Metro+Manila,+Philippines/@14.6585583,120.9557525,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b44ce58d001b:0x1b863757ed4c9deb!8m2!3d14.6585531!4d120.9583274!16s%2Fg%2F11l260qj1y?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
     "name": "Restaurant Depot",
