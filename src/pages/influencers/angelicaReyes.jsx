@@ -749,6 +749,203 @@ const AngelicaReyes = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7559388253443427592" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@reyes_gel/video/7562093723778026760"
+            data-video-id="7562093723778026760"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@reyes_gel"
+                href="https://www.tiktok.com/@reyes_gel?refer=embed"
+              >
+                @reyes_gel
+              </a>{" "}
+              Mas pinasarap na backribs gamit ang Rancheros chili bbq flavoring
+              powder and Satisfy{" "}
+              <a
+                title="alclaffiliatechallenge"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclaffiliatechallenge?refer=embed"
+              >
+                #alclaffiliatechallenge
+              </a>{" "}
+              <a
+                title="alclbermonthsna"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclbermonthsna?refer=embed"
+              >
+                #ALCLBerMonthsNa
+              </a>{" "}
+              <a
+                title="nakacheesemisskanaba"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nakacheesemisskanaba?refer=embed"
+              >
+                #nakacheesemisskanaba
+              </a>{" "}
+              <a
+                title="sarapnglasasarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasasarapngkita?refer=embed"
+              >
+                #sarapnglasasarapngkita
+              </a>{" "}
+              <a
+                title="fypシ"
+                target="_blank"
+                href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed"
+              >
+                #fypシ
+              </a>{" "}
+              @ALCL Marketing, OPC @mhacel{" "}
+              <a
+                target="_blank"
+                title="♬ love maybe nightcore - kpop speed up songs"
+                href="https://www.tiktok.com/music/love-maybe-nightcore-7078263139946547994?refer=embed"
+              >
+                ♬ love maybe nightcore - kpop speed up songs
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7562093723778026760" />
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@reyes_gel/video/7562782054669241607"
+            data-video-id="7562782054669241607"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@reyes_gel"
+                href="https://www.tiktok.com/@reyes_gel?refer=embed"
+              >
+                @reyes_gel
+              </a>{" "}
+              Sweet potato on tub with rancheros caramel flavoring powder o
+              @ALCL Marketing, OPC{" "}
+              <a
+                title="alclaffiliatechallenge"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclaffiliatechallenge?refer=embed"
+              >
+                #alclaffiliatechallenge
+              </a>{" "}
+              <a
+                title="alclbermonthsna"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclbermonthsna?refer=embed"
+              >
+                #ALCLBerMonthsNa
+              </a>{" "}
+              <a
+                title="nakacheesemisskanaba"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nakacheesemisskanaba?refer=embed"
+              >
+                #nakacheesemisskanaba
+              </a>{" "}
+              <a
+                title="sarapnglasasarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasasarapngkita?refer=embed"
+              >
+                #sarapnglasasarapngkita
+              </a>{" "}
+              <a
+                title="fypシ"
+                target="_blank"
+                href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed"
+              >
+                #fypシ
+              </a>{" "}
+              @mhacel{" "}
+              <a
+                target="_blank"
+                title="♬ オリジナル楽曲 - Paul - 🕊Paul🕊"
+                href="https://www.tiktok.com/music/オリジナル楽曲-Paul-7059691462627248898?refer=embed"
+              >
+                ♬ オリジナル楽曲 - Paul - 🕊Paul🕊
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7562782054669241607" />
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@reyes_gel/video/7563854561476185352"
+            data-video-id="7563854561476185352"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@reyes_gel"
+                href="https://www.tiktok.com/@reyes_gel?refer=embed"
+              >
+                @reyes_gel
+              </a>{" "}
+              CHEESY KOREAN NOODLES WITH CHEESEMISS{" "}
+              <a
+                title="capcut"
+                target="_blank"
+                href="https://www.tiktok.com/tag/capcut?refer=embed"
+              >
+                #CapCut
+              </a>{" "}
+              <a
+                title="alclaffiliatechallenge"
+                target="_blank"
+                href="https://www.tiktok.com/tag/alclaffiliatechallenge?refer=embed"
+              >
+                #alclaffiliatechallenge
+              </a>{" "}
+              <a
+                title="nakacheesemisskanaba"
+                target="_blank"
+                href="https://www.tiktok.com/tag/nakacheesemisskanaba?refer=embed"
+              >
+                #nakacheesemisskanaba
+              </a>{" "}
+              <a
+                title="sarapnglasasarapngkita"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sarapnglasasarapngkita?refer=embed"
+              >
+                #sarapnglasasarapngkita
+              </a>{" "}
+              <a
+                title="fypシ"
+                target="_blank"
+                href="https://www.tiktok.com/tag/fyp%E3%82%B7?refer=embed"
+              >
+                #fypシ
+              </a>{" "}
+              @ALCL Marketing, OPC @mhacel{" "}
+              <a
+                target="_blank"
+                title="♬ Cooking001 - EreyMusic"
+                href="https://www.tiktok.com/music/Cooking001-7419990418844420113?refer=embed"
+              >
+                ♬ Cooking001 - EreyMusic
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7563854561476185352" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );

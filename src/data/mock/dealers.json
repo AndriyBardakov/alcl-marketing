@@ -607,6 +607,13 @@
     "phoneNumbers": ["0917-8356948"],
     "mapsLink": "https://www.google.com/maps/place/Zone+4,+94+General+Espino+St,+St+Zone+5,+Taguig,+1633+Metro+Manila,+Philippines/@14.5094717,121.0488402,17z/data=!3m1!4b1!4m9!1m2!2m1!1s94+Espino+St.,+Zone+4,+Signal+Village,+Taguig+City,+MM!3m5!1s0x3397cf37aacfe243:0xb55831d14d756176!8m2!3d14.5094666!4d121.0537111!15sCjY5NCBFc3Bpbm8gU3QuLCBab25lIDQsIFNpZ25hbCBWaWxsYWdlLCBUYWd1aWcgQ2l0eSwgTU2SARBjb21wb3VuZF9zZWN0aW9u4AEA?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Joan and Jasmine Food Products",
+    "region": "Taguig City",
+    "address": "Stall #99-100 Taguig People's Market, MLQ Ave., Lower Bicutan, Taguig City, MM",
+    "phoneNumbers": ["0998-5547673"],
+    "mapsLink": "https://www.google.com/maps/place/Taguig+People's+Market/@14.4877818,121.0579678,17z/data=!3m1!4b1!4m6!3m5!1s0x3397cfa13a1ed60d:0xb5d2e3df7c5c41af!8m2!3d14.4877766!4d121.0605427!16s%2Fg%2F11t9v7q3y4?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Lioner Marketing Enterprise Company",
@@ -1098,7 +1105,7 @@
   },
 
   {
-    "name": "Sontess, Inc.",
+    "name": "Sanvic Supermart",
     "region": "Northern Samar",
     "address": "National Road, Brgy. Dalakit, Catarman, Northern Samar",
     "phoneNumbers": ["0917-7901022", "0905-5476895"],
