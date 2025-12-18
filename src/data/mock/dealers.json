@@ -673,7 +673,7 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2395+Pablo+Roman+St.%2C+Poblacion%2C+Balanga+City%2C+Bataan"
   },
   {
-    "name": "Mega Wholesale Solutions, Inc.",
+    "name": "RCS Eastern Intertrade Corporation",
     "region": "Tarlac",
     "address": "Block 4, Tarlac Arch, McArthur Highway, Sta. Cruz, Tarlac City, Tarlac",
     "phoneNumbers": [
@@ -684,6 +684,16 @@
       "0917-1608773"
     ],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+4%2C+Tarlac+Arch%2C+McArthur+Highway%2C+Sta.+Cruz%2C+Tarlac+City%2C+Tarlac"
+  },
+  {
+    "name": "MH21 Consumer Goods Trading",
+    "region": "Tarlac",
+    "address": "Purok 5, Masalasa, Victoria, Tarlac",
+    "phoneNumbers": [
+      "0966-9916101",
+      "0909-2081665"
+    ],
+    "mapsLink": "https://www.google.com/maps/place/masalasa+Victoria,+Tarlac/@15.6107676,120.7382677,16z/data=!4m10!1m2!2m1!1sPurok+5,+Masalasa,+Victoria,+Tarlac!3m6!1s0x3396d36558af0105:0xab571fe95a822af2!8m2!3d15.6058757!4d120.7436161!15sCiNQdXJvayA1LCBNYXNhbGFzYSwgVmljdG9yaWEsIFRhcmxhY5IBD2hvdXNpbmdfc29jaWV0eeABAA!16s%2Fg%2F11vk_5t49t?authuser=0&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"
   },
   {
     "name": "Pronto Distributor Marketing Services, Inc.",
@@ -726,13 +736,6 @@
     "address": "Sitio Centrum, Imelda, Naguilian, La Union",
     "phoneNumbers": ["0949-9916569", "0917-5067349", "0943-1377929"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sitio+Centrum%2C+Imelda%2C+Naguilian%2C+La+Union"
-  },
-  {
-    "name": "Soolit General Merchandise, OPC",
-    "region": "Benguet",
-    "address": "Baguio Public Market, 2/F Domesco Bldg., 1 Kayang St., Baguio City, Benguet",
-    "phoneNumbers": ["0907-9917127"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Baguio+Public+Market%2C+2%2FF+Domesco+Bldg.%2C+%231+Kayang+St.%2C+Baguio+City%2C+Benguet"
   },
   {
     "name": "Immanuel Convenience Store",
@@ -794,13 +797,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gate+3%2C+Old+Public+Market%2C+Santiago+City%2C+Isabela"
   },
   {
-    "name": "Junior's Variety Shop",
-    "region": "Isabela",
-    "address": "Salas Bldg., Public Market, Brgy. San Pedro, Tamauini, Isabela",
-    "phoneNumbers": ["0915-1333136"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Salas+Bldg.%2C+Public+Market%2C+Brgy.+San+Pedro%2C+Tamauini%2C+Isabela"
-  },
-  {
     "name": "Son Miguel Supermart",
     "region": "Isabela",
     "address": "Magsaysay Ave., Victory Norte, Santiago City, Isabela",
@@ -826,8 +822,15 @@
     "name": "Coffee R Us Enterprise",
     "region": "Cavite",
     "address": "Block 6, Lot 11, Greenplace Homes 2, Malagasang, Imus, Cavite",
-    "phoneNumbers": ["0947-8906954, 0917-1208412", "0956-1289732"],
+    "phoneNumbers": ["0947-8906954", "0917-1208412", "0956-1289732"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+6%2C+Lot+11%2C+Greenplace+Homes+2%2C+Malagasang%2C+Imus%2C+Cavite"
+  },
+  {
+    "name": "Devan General Merchandise & Milktea Supply",
+    "region": "Cavite",
+    "address": "#374 Marseilla St., Poblacion, Rosario, Cavite",
+    "phoneNumbers": ["0946-5307440", "0906-1173665"],
+    "mapsLink": "https://www.google.com/maps/place/374+Marseilla,+Rosario,+4106+Cavite,+Philippines/@14.4176058,120.852928,17z/data=!3m1!4b1!4m6!3m5!1s0x33962cfea7100f31:0xb6d119022744a4b!8m2!3d14.4176006!4d120.8555029!16s%2Fg%2F11w7rhk16s?authuser=0&entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"
   },
 
   {
@@ -962,13 +965,6 @@
     "address": "Door 1, Irene Bldg., Hilado cor. F. Y. Manalo Sts., Bacolod City, Negros Occidental",
     "phoneNumbers": ["0925-8085248", "0917-5150032"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+1%2C+Irene+Bldg.%2C+Hilado+cor.+F.+Y.+Manalo+Sts.%2C+Bacolod+City%2C+Negros+Occidental"
-  },
-  {
-    "name": "Negrense Baking & Chocolate Hub",
-    "region": "Negros Occidental",
-    "address": "Marivic Bldg., Yunque cor. Rizal Sts., La Carlota City, Negros Occidental",
-    "phoneNumbers": ["0917-1207986", "0945-7649179"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Marivic+Bldg.%2C+Yunque+cor.+Rizal+Sts.%2C+La+Carlota+City%2C+Negros+Occidental"
   },
   {
     "name": "Everkeen Marketing, Inc.",
@@ -1234,7 +1230,7 @@
   },
 
   {
-    "name": "Amroding General Merchandise",
+    "name": "Amrex General Merchandise",
     "region": "Lanao Del Sur",
     "address": "Marawi Poblacion, Marawi City, Lanao Del Sur",
     "phoneNumbers": ["0905-7856574"],
@@ -1316,13 +1312,6 @@
     "address": "54-D Rosales St., San Ignacio, Butuan City, Agusan Del Norte",
     "phoneNumbers": ["0909-0047551", "0917-7033444"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2354-D+Rosales+St.%2C+San+Ignacio%2C+Butuan+City%2C+Agusan+Del+Norte"
-  },
-  {
-    "name": "Au Foods and Packaging",
-    "region": "Agusan Del Norte",
-    "address": "KT 104, SM City Butuan, P-5 JC Aquino Ave., Lapu-Lapu, Butuan City, Agusan Del Norte",
-    "phoneNumbers": ["0908-8948285"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=KT+104%2C+SM+City+Butuan%2C+P-5+JC+Aquino+Ave.%2C+Lapu-Lapu%2C+Butuan+City%2C+Agusan+Del+Norte"
   },
   {
     "name": "Wing-On Buenavista",
