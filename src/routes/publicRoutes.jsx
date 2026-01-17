@@ -7,7 +7,7 @@ import Products from "../pages/products";
 import ChefEmily from "@/pages/influencers/chefEmily";
 import JosephVerallo from "@/pages/influencers/josephVerallo";
 import ChefGerickManalo from "@/pages/influencers/chefGerickManalo";
-import SophiaCartie from "@/pages/influencers/SophiaCartie";
+import SophiaCartie from "@/pages/influencers/sofiaCartie";
 import KimBulan from "@/pages/influencers/kimBulan";
 import Jhunpig from "@/pages/influencers/jhunpig";
 import HelloEatsNani from "@/pages/influencers/helloEatsNani";
