@@ -87,12 +87,20 @@ export const influencersMenuItems = [
     routePath: "/influencers/angelica-reyes",
   },
   {
+    name: "Applez Orcine",
+    routePath: "/influencers/applez-orcine",
+  },
+  {
     name: "Aprilyn Morales",
     routePath: "/influencers/aprilyn-morales",
   },
   {
     name: "Carwin Ann Navarro",
     routePath: "/influencers/carwin-ann-navarro",
+  },
+  {
+    name: "Casey Guadalupe",
+    routePath: "/influencers/casey-guadalupe",
   },
   {
     name: "Chef Emily Peralta",

@@ -968,6 +968,13 @@
     "phoneNumbers": ["0995-4584318"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+%233-4+ACFC+Bldg.%2C+Libertad+St.%2C+Brgy.+33%2C+Bacolod+City%2C+Negros+Occidental"
   },
+  {
+    "name": "Negrense Baking & Chocolate Hub",
+    "region": "Negros Occidental",
+    "address": "Marivic Bldg., Yunque cor. Rizal Sts., La Carlota City, Negros Occidental",
+    "phoneNumbers": ["0917-1207986", "0945-7649179"],
+    "mapsLink": "https://www.google.com/maps/place/Rizal+Street,+La+Carlota+City,+Negros+Occidental,+Philippines/@10.4250196,122.9204517,18z/data=!3m1!4b1!4m6!3m5!1s0x33aeb7475bca9c27:0xf6aa604e878e249d!8m2!3d10.425017!4d122.9217392!16s%2Fg%2F1tf67lkb?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"
+  },
 
   {
     "name": "Lee Super Plaza",
@@ -1038,14 +1045,14 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Fernandez+Bldg.%2C+Tagbac%2C+Jaro%2C+Iloilo+City%2C+Iloilo"
   },
   {
-    "name": "Gascon Balut & Egg Retailer",
+    "name": "Bhoy & Malou Trading, Inc.",
     "region": "Iloilo",
     "address": "Iloilo Terminal Market, Rizal St., Brgy. Flores, Iloilo City, Iloilo",
     "phoneNumbers": ["0998-3045395", "0908-1922219"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Iloilo+Terminal+Market%2C+Rizal+St.%2C+Brgy.+Flores%2C+Iloilo+City%2C+Iloilo"
   },
   {
-    "name": "Nodque Marketing",
+    "name": "5N Plainfield Marketing, Inc.",
     "region": "Iloilo",
     "address": "LMT Bldg., De Leon St., Iloilo City, Iloilo",
     "phoneNumbers": ["0917-1450219"],
@@ -1466,7 +1473,7 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Martinez+Bldg.%2C+SK+Pendatuan+Ave.%2C+Cotabato+City%2C+Maguindanao+Del+Norte"
   },
   {
-    "name": "Golden Qilin Distribution Corporation",
+    "name": "Pantasia Food Solutions, Inc.",
     "region": "Maguindanao Del Norte",
     "address": "4 Don T. V. Juliano Avenue, Rosary Heights, Cotabato City, Maguindanao Del Norte",
     "phoneNumbers": ["0916-2014950", "0956-5181038"],

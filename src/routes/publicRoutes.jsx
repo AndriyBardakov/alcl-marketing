@@ -7,7 +7,7 @@ import Products from "../pages/products";
 import ChefEmily from "@/pages/influencers/chefEmily";
 import JosephVerallo from "@/pages/influencers/josephVerallo";
 import ChefGerickManalo from "@/pages/influencers/chefGerickManalo";
-import SofiaCartie from "@/pages/influencers/sofiaCartie";
+import SophiaCartie from "@/pages/influencers/SophiaCartie";
 import KimBulan from "@/pages/influencers/kimBulan";
 import Jhunpig from "@/pages/influencers/jhunpig";
 import HelloEatsNani from "@/pages/influencers/helloEatsNani";
@@ -27,6 +27,8 @@ import DeeKayeSanLuis from "@/pages/influencers/deeKayeSanLuis";
 import JesaLinatoc from "@/pages/influencers/jesaLinatoc";
 import LorendaRamosFailano from "@/pages/influencers/lorendaRamosFailano";
 import GlaissaJoyAlbelar from "@/pages/influencers/glaissaJoyAlbelar";
+import ApplezOrcine from "@/pages/influencers/applezOrcine";
+import CaseyGuadalupe from "@/pages/influencers/caseyGuadalupe";
 
 export const routes = [
   { path: "/home", component: <Home /> },
@@ -37,7 +39,7 @@ export const routes = [
   { path: "/influencers/chef-emily-peralta", component: <ChefEmily /> },
   { path: "/influencers/joseph-verallo", component: <JosephVerallo /> },
   { path: "/influencers/chef-gerick-manalo", component: <ChefGerickManalo /> },
-  { path: "/influencers/sophia-cartie", component: <SofiaCartie /> },
+  { path: "/influencers/sophia-cartie", component: <SophiaCartie /> },
   { path: "/influencers/kim-bulan", component: <KimBulan /> },
   { path: "/influencers/jhunpig", component: <Jhunpig /> },
   { path: "/influencers/hello-eats-nani", component: <HelloEatsNani /> },
@@ -57,6 +59,8 @@ export const routes = [
   { path: "/influencers/jesa-linatoc", component: <JesaLinatoc /> },
   { path: "/influencers/lorenda-ramos-failano", component: <LorendaRamosFailano /> },
   { path: "/influencers/glaissa-joy-albelar", component: <GlaissaJoyAlbelar /> },
+  { path: "/influencers/applez-orcine", component: <ApplezOrcine /> },
+  { path: "/influencers/casey-guadalupe", component: <CaseyGuadalupe /> },
 
   // this route should be at the end of all other routes
   // eslint-disable-next-line react/display-name

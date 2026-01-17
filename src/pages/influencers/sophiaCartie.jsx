@@ -3,10 +3,10 @@ import InfluencerContainer from "./influencerContainer";
 import { style } from "./carouselUtils";
 import LinkOverlay from "./linkOverlay";
 
-const SofiaCartie = () => {
+const SophiaCartie = () => {
   return (
     <InfluencerContainer
-      name="Sofia Cartie"
+      name="Sophia Cartie"
       src="/images/source/influencers/Sophia_Cartie.jpg"
     >
       <blockquote
@@ -43,4 +43,4 @@ const SofiaCartie = () => {
   );
 };
 
-export default SofiaCartie;
+export default SophiaCartie;
