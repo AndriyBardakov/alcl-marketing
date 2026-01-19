@@ -1249,6 +1249,63 @@ const ChefLhenDeCastro = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7560991613510585608" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7596680456775519509"
+            data-video-id="7596680456775519509"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              <a
+                title="bananachips"
+                target="_blank"
+                href="https://www.tiktok.com/tag/bananachips?refer=embed"
+              >
+                #BananaChips
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              <a
+                title="negosyoidea"
+                target="_blank"
+                href="https://www.tiktok.com/tag/negosyoidea?refer=embed"
+              >
+                #NegosyoIdea
+              </a>{" "}
+              <a
+                title="recipe"
+                target="_blank"
+                href="https://www.tiktok.com/tag/recipe?refer=embed"
+              >
+                #recipe
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ COOKING - Gete"
+                href="https://www.tiktok.com/music/COOKING-7418142308853762064?refer=embed"
+              >
+                ♬ COOKING - Gete
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7596680456775519509" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );
