@@ -454,13 +454,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%2FF+Fuhong+Commercial+Bldg.%2C+%231394+Perez+St.%2C+Paco%2C+Manila%2C+MM"
   },
   {
-    "name": "Victory Marketing",
-    "region": "Manila",
-    "address": "553 Elcano St., Binondo, Manila, MM",
-    "phoneNumbers": ["0917-5350371"],
-    "mapsLink": "https://www.google.com/maps/place/553+Elcano+St,+Binondo,+Manila,+Metro+Manila,+Philippines/@14.5999061,120.9684444,17z/data=!3m1!4b1!4m6!3m5!1s0x3397ca118f96d3d3:0x696ccdac66b9913e!8m2!3d14.5999061!4d120.9710193!16s%2Fg%2F11s7d5kqww?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D"
-  },
-  {
     "name": "Philip Estanislao Trading",
     "region": "Manila",
     "address": "817 Sto. Cristo St., Binondo, Manila, MM",
@@ -488,13 +481,6 @@
     "address": "31-J T.S. Evalle Drive, Evamin Homes, Kaligayahan, Novaliches, Quezon City, MM",
     "phoneNumbers": ["0917-8075566", "0998-9798196"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2331-J+T.S.+Evalle+Drive%2C+Evamin+Homes%2C+Kaligayahan%2C+Novaliches%2C+Quezon+City%2C+MM"
-  },
-  {
-    "name": "Timothydragon Milktea Supplies Trading",
-    "region": "Quezon City",
-    "address": "6 Leland Drive, Brgy. Balon Bato, Quezon City, MM",
-    "phoneNumbers": ["0977-8235169"],
-    "mapsLink": "https://www.google.com/maps/place/06+Leland+Dr,+Quezon+City,+1106+Metro+Manila,+Philippines/@14.6655915,121.0020818,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b6969f006745:0x43182765d18d4292!8m2!3d14.6655915!4d121.0046567!16s%2Fg%2F11w49jk1hq?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {
@@ -561,13 +547,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23349+Rizal+Ave.+Ext.%2C+West+Grace+Park%2C+Brgy.+62%2C+Caloocan+City%2C+MM"
   },
   {
-    "name": "Frozen Foodgasm",
-    "region": "Caloocan",
-    "address": "Lot 333, Block 1, Phase 3, Tanigue cor. Pampano St., Dagat-Dagatan, Caloocan City, MM",
-    "phoneNumbers": ["0945-8495511"],
-    "mapsLink": "https://www.google.com/maps/place/3+Tanigue+St,+Dagat-Dagatan,+Manila,+Metro+Manila,+Philippines/@14.6473775,120.9622624,17z/data=!3m1!4b1!4m5!3m4!1s0x3397b5c9d97fa2e7:0x7827f9d90966cb1b!8m2!3d14.6473723!4d120.9648373?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D"
-  },
-  {
     "name": "Gold Label Resources, Inc.",
     "region": "Malabon",
     "address": "168 Carbonium St., Goldendale Industrial Complex, Tinajeros, Malabon City, MM",
@@ -581,6 +560,14 @@
     "phoneNumbers": ["0919-0741002"],
     "mapsLink": "https://www.google.com/maps/place/Gumamela+St,+Malabon,+Metro+Manila,+Philippines/@14.6585583,120.9557525,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b44ce58d001b:0x1b863757ed4c9deb!8m2!3d14.6585531!4d120.9583274!16s%2Fg%2F11l260qj1y?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Thootea Milktea Supplies Trading",
+    "region": "Malabon",
+    "address": "141 Crispin St., Tinajeros, Malabon City, Malabon, MM",
+    "phoneNumbers": ["0926-4294673"],
+    "mapsLink": "https://www.google.com/maps/place/141+Crispin+St,+Malabon,+1476+Metro+Manila,+Philippines/@14.6707814,120.9665927,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b43e950800e5:0xbda4e002124d70b0!8m2!3d14.6707814!4d120.9691676!16s%2Fg%2F11xvcyblf1?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
+  },
+
   {
     "name": "Restaurant Depot",
     "region": "Pasay",
@@ -726,13 +713,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Sitio+Centrum%2C+Imelda%2C+Naguilian%2C+La+Union"
   },
   {
-    "name": "Immanuel Convenience Store",
-    "region": "Benguet",
-    "address": "Km. 5, Pico, La Trinidad, Benguet",
-    "phoneNumbers": ["0998-9616032"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Km.+5%2C+Pico%2C+La+Trinidad%2C+Benguet"
-  },
-  {
     "name": "Tiong San Supermarket & Department Store",
     "region": "Benguet",
     "address": "1 Harrison Road, Baguio City, Benguet",
@@ -776,6 +756,14 @@
     "phoneNumbers": ["0926-1468403"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Stall+%232%2C+Callangan+Bldg.%2C+Bonifacio+St.%2C+Centro+8%2C+Tuguegarao+City%2C+Cagayan"
   },
+  {
+    "name": "Packs & Wrap Consumer Goods Trading ",
+    "region": "Cagayan",
+    "address": "Gomez cor. Taft Sts., Centro 3, Tuguegarao City, Cagayan",
+    "phoneNumbers": ["0966-4951536", "0917-5778835", "0917-1785750"],
+    "mapsLink": "https://www.google.com/maps/place/Taft+St+%26+Gomez+St,+Centro+3,+Tuguegarao+City,+Cagayan,+Philippines/@17.6141635,121.723724,17z/data=!3m1!4b1!4m6!3m5!1s0x3385842c13fc9c19:0x973d3823a4f62915!8m2!3d17.6141635!4d121.7262989!16s%2Fg%2F11gdt17p99?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
+  },
+
 
   {
     "name": "Escalona Plastic Store",
@@ -797,13 +785,6 @@
     "address": "Zone B, 43 4Lanes Plaza, Brgy. Gen. Malvar, Santiago City, Isabela",
     "phoneNumbers": ["0917-4865822"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zone+B%2C+%2343+4Lanes+Plaza%2C+Brgy.+Gen.+Malvar%2C+Santiago+City%2C+Isabela"
-  },
-  {
-    "name": "DC Recto General Merchandise",
-    "region": "Isabela",
-    "address": "Gate 2, Santiago City Public Market, Santiago City, Isabela",
-    "phoneNumbers": ["0905-3262324"],
-    "mapsLink": "https://www.google.com/maps/search/Aurora+Public+Market,+2+Santiago+-+Tuguegarao+Road,+Santiago+City,+Isabela,+Philippines/@16.6874817,121.5367128,15z/data=!3m1!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {
@@ -893,6 +874,13 @@
     "phoneNumbers": ["0926-6587065", "0917-5421356"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%235+F.+Imperial+St.%2C+Tinago%2C+Legazpi%2C+Albay"
   },
+  {
+    "name": "Unitex Baking & Packaging Center",
+    "region": "Albay",
+    "address": "G/F Chong Hua Bldg., Rizal St., Pigcale, Legazpi, Albay",
+    "phoneNumbers": ["0916-2235211"],
+    "mapsLink": "https://www.google.com/maps/place/Legazpi+Chong+Hua+Institute+of+Technology/@13.1478255,123.7523282,17z/data=!3m1!4b1!4m6!3m5!1s0x33a1018174a1cbf7:0x3b9484a2f0e591cc!8m2!3d13.1478255!4d123.7549031!16s%2Fg%2F1ptxyp3tk?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Kreamery Baking Supplies Store",
@@ -917,13 +905,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=G%2FF+Trader%27s+Square+Bldg.%2C+P.+Burgos+St.%2C+Sta.+Cruz%2C+Naga+City%2C+Camarines+Sur"
   },
 
-  {
-    "name": "Sugar and Stripes Trading",
-    "region": "Palawan",
-    "address": "Gumba Bldg., Malvar St., Brgy. Matahimik, Puerto Princesa, Palawan",
-    "phoneNumbers": ["0917-7223454", "0977-8073000"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gumba+Bldg.%2C+Malvar+St.%2C+Brgy.+Matahimik%2C+Puerto+Princesa%2C+Palawan"
-  },
   {
     "name": "GKS Dry Goods Store",
     "region": "Palawan",
@@ -974,6 +955,13 @@
     "address": "Marivic Bldg., Yunque cor. Rizal Sts., La Carlota City, Negros Occidental",
     "phoneNumbers": ["0917-1207986", "0945-7649179"],
     "mapsLink": "https://www.google.com/maps/place/Rizal+Street,+La+Carlota+City,+Negros+Occidental,+Philippines/@10.4250196,122.9204517,18z/data=!3m1!4b1!4m6!3m5!1s0x33aeb7475bca9c27:0xf6aa604e878e249d!8m2!3d10.425017!4d122.9217392!16s%2Fg%2F1tf67lkb?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"
+  },
+  {
+    "name": "Lopue's Supermarket",
+    "region": "Negros Occidental",
+    "address": "Araneta cor. San Sebastian Sts., Brgy. 14, Bacolod City, Negros Occidental",
+    "phoneNumbers": ["88525-2241", "0927-5157586", "0917-1442034"],
+    "mapsLink": "https://www.google.com/maps/place/San+Sebastian,+cor+Araneta+Ave,+Bacolod,+6100+Negros+Occidental,+Philippines/@10.6661132,122.9419428,17z/data=!3m1!4b1!4m6!3m5!1s0x33aed1b4b9ef5acd:0xf11d05bcf5eed400!8m2!3d10.6661132!4d122.9445177!16s%2Fg%2F11q2nj8fb6?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {
@@ -1322,6 +1310,13 @@
     "phoneNumbers": ["0917-1155044", "0998-5757724"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lopez+Jaena+St.%2C+Brgy.+Humabon%2C+Butuan+City%2C+Agusan+Del+Norte"
   },
+  {
+    "name": "Au Foods and Packaging",
+    "region": "Agusan Del Norte",
+    "address": "Door 3 Sandros Bed and Breakfast Bldg., T. Claudio St., Butuan City, Agusan Del Norte",
+    "phoneNumbers": ["0908-8948285"],
+    "mapsLink": "https://www.google.com/maps/place/Sandros+Bed+and+Breakfast/@8.944675,125.5321451,17z/data=!3m1!4b1!4m6!3m5!1s0x3301c04f89f01295:0xb4034c345c6ceacf!8m2!3d8.944675!4d125.53472!16s%2Fg%2F1tfwmh0s?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Absolute Essentials Traders, Inc.",
@@ -1543,6 +1538,13 @@
     "address": "Pulmones St., Sta. Lucia, Pagadian City, Zamboanga Del Sur",
     "phoneNumbers": ["0909-2782882", "0912-1644208", "0935-0288993"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pulmones+St.%2C+Sta.+Lucia%2C+Pagadian+City%2C+Zamboanga+Del+Sur"
+  },
+  {
+    "name": "Mr. Vendo De Zamboanga",
+    "region": "Zamboanga Del Sur",
+    "address": "G/F Yubengco Starmall, MCLL Highway, Putik, Zamboanga City, Zamboanga Del Sur",
+    "phoneNumbers": ["0917-7045644"],
+    "mapsLink": "https://www.google.com/maps/place/Yubenco+Starmall+Fine+Square/@6.9353153,122.0916754,19z/data=!4m6!3m5!1s0x325043e48015d8cb:0x19c6b2dd5b00eebc!8m2!3d6.9353146!4d122.0921776!16s%2Fg%2F11n919w86w?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {

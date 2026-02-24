@@ -48,7 +48,7 @@ export const videoItems = [
   {
     name: "Recipes",
     routePath:
-      "https://youtube.com/playlist?list=PLi4xAH56tdYOFFqK-umTna0pbtxpMs-cY&si=A5kgwDlvnA1Imvld",
+      "https://youtube.com/playlist?list=PLi4xAH56tdYMNql3PRVyINzhFX72aaDSI&si=D9HqcL2lcEyO6knH",
     external: true,
   },
   {
