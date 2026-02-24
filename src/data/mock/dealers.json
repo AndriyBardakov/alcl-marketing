@@ -1232,7 +1232,7 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+4%2C+Lavina+Bldg.%2C+Justo+Ramonal+St.%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
   },
   {
-    "name": "Koolhans Store",
+    "name": "City Farm",
     "region": "Misamis Oriental",
     "address": "Valenzuela Rd., Lapasan, Cagayan De Oro, Misamis Oriental",
     "phoneNumbers": ["0936-6300021"],
@@ -1241,19 +1241,19 @@
   {
     "name": "EJ Food Products Trading",
     "region": "Misamis Oriental",
-    "address": "B14, L14, Waling-Waling St., Villa Candida Subd., Buluan, Cagayan De Oro, Misamis Occidental",
+    "address": "Frozen Town, 858 Cogon Market Complex, Yacapin St., Brgy. 35, Cagayan De Oro City, Misamis Oriental",
     "phoneNumbers": ["0965-4010772", "0917-7169593", "0917-1229459"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=B14%2C+L14%2C+Waling-Waling+St.%2C+Villa+Candida+Subd.%2C+Buluan%2C+Cagayan+De+Oro%2C+Misamis+Occidental"
+    "mapsLink": "https://www.google.com/maps/place/Yacapin+St,+Cagayan+De+Oro+City,+Misamis+Oriental,+Philippines/@8.4789625,124.6449299,17z/data=!3m1!4b1!4m6!3m5!1s0x32fff2da7719153b:0xcc864cd7ee5535ce!8m2!3d8.4789625!4d124.6475048!16s%2Fg%2F1tk6mvxy?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "name": "EGTLC General Merchandise",
+    "name": "EGT General Merchandise",
     "region": "Misamis Oriental",
-    "address": "Unit 4 Gaw Bldg., Agora Lapasan, Cagayan De Oro, Misamis Oriental",
+    "address": "Unit 4 Gaw Bldg., Agora Rd., Lapasan, Cagayan De Oro, Misamis Oriental",
     "phoneNumbers": ["0917-7189188"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+4+Gaw+Bldg.%2C+Agora+Lapasan%2C+Cagayan+De+Oro%2C+Misamis+Oriental"
   },
   {
-    "name": "Cagayan 168 Corporation",
+    "name": "Palaña Self-Service Store",
     "region": "Misamis Oriental",
     "address": "Yacapin-Guillermo Sts., Brgy. 33, Cagayan De Oro, Misamis Oriental",
     "phoneNumbers": ["0917-7067935"],
