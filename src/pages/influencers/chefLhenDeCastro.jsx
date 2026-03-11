@@ -1306,6 +1306,139 @@ const ChefLhenDeCastro = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7596680456775519509" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7588528398482394389"
+            data-video-id="7588528398482394389"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Christmas leftovers turned into something sulit 🥪✨ Leftover ham,
+              cheese, mayo, bread, at kahit lettuce—walang tapon! Pero ang bida?
+              💛 Scrambled eggs na hinaluan ng Cheesemiss Special Cheese Powder
+              para mas cheesy at mas masarap. Simple pero panalo!{" "}
+              <a
+                title="leftovers"
+                target="_blank"
+                href="https://www.tiktok.com/tag/leftovers?refer=embed"
+              >
+                #leftovers
+              </a>{" "}
+              <a
+                title="clubsandwich"
+                target="_blank"
+                href="https://www.tiktok.com/tag/clubsandwich?refer=embed"
+              >
+                #clubsandwich
+              </a>{" "}
+              <a
+                title="clubhousesandwich"
+                target="_blank"
+                href="https://www.tiktok.com/tag/clubhousesandwich?refer=embed"
+              >
+                #clubhousesandwich
+              </a>{" "}
+              <a
+                title="sandwich"
+                target="_blank"
+                href="https://www.tiktok.com/tag/sandwich?refer=embed"
+              >
+                #sandwich
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              @ALCL Marketing, OPC{" "}
+              <a
+                target="_blank"
+                title="♬ In Love With You - BLVKSHP"
+                href="https://www.tiktok.com/music/In-Love-With-You-6777624195661563906?refer=embed"
+              >
+                ♬ In Love With You - BLVKSHP
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7588528398482394389" />
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@lhendecastrotercias/video/7581377261421579541"
+            data-video-id="7581377261421579541"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@lhendecastrotercias"
+                href="https://www.tiktok.com/@lhendecastrotercias?refer=embed"
+              >
+                @lhendecastrotercias
+              </a>{" "}
+              Craving cheesy fries? Try this Cheesemiss combo at home! 🧀🔥🥓{" "}
+              <a
+                title="cheesemissinstantcheesesaucepowdermix"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemissinstantcheesesaucepowdermix?refer=embed"
+              >
+                #CheesemissInstantCheeseSaucePowderMix
+              </a>{" "}
+              <a
+                title="cheesemiss"
+                target="_blank"
+                href="https://www.tiktok.com/tag/cheesemiss?refer=embed"
+              >
+                #Cheesemiss
+              </a>{" "}
+              <a
+                title="fries"
+                target="_blank"
+                href="https://www.tiktok.com/tag/fries?refer=embed"
+              >
+                #Fries
+              </a>{" "}
+              <a
+                title="snack"
+                target="_blank"
+                href="https://www.tiktok.com/tag/snack?refer=embed"
+              >
+                #snack
+              </a>{" "}
+              <a
+                title="foodtrip"
+                target="_blank"
+                href="https://www.tiktok.com/tag/foodtrip?refer=embed"
+              >
+                #foodtrip
+              </a>{" "}
+              @alclmarketing{" "}
+              <a
+                target="_blank"
+                title="♬ vlog, chill out, calm daily life(1370843) - SUNNY HOOD STUDIO"
+                href="https://www.tiktok.com/music/vlog-chill-out-calm-daily-life-1370843-7179679214566639618?refer=embed"
+              >
+                ♬ vlog, chill out, calm daily life(1370843) - SUNNY HOOD STUDIO
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@lhendecastrotercias/video/7581377261421579541" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );

@@ -946,6 +946,67 @@ const AngelicaReyes = () => {
           </blockquote>{" "}
           <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7563854561476185352" />
         </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@reyes_gel/video/7614707402222374165"
+            data-video-id="7614707402222374165"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@reyes_gel"
+                href="https://www.tiktok.com/@reyes_gel?refer=embed"
+              >
+                @reyes_gel
+              </a>{" "}
+              SATISFRY ILOCOS EMPANADA MAS PINASARAP PAG MAY SATISFRY all
+              purpose breading mixi try nio din super ma I enjoy nio ang sarap
+              promise ☺️ @ALCL Marketing, OPC @mhacel🧿{" "}
+              <a
+                target="_blank"
+                title="♬ original sound  - tita angel 🈳"
+                href="https://www.tiktok.com/music/original-sound-tita-angel-🈳-7614707469693111048?refer=embed"
+              >
+                ♬ original sound - tita angel 🈳
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7614707402222374165" />
+        </div>
+        <div>
+          <blockquote
+            className="tiktok-embed"
+            cite="https://www.tiktok.com/@reyes_gel/video/7611860819466390805"
+            data-video-id="7611860819466390805"
+            style={style}
+          >
+            {" "}
+            <section>
+              {" "}
+              <a
+                target="_blank"
+                title="@reyes_gel"
+                href="https://www.tiktok.com/@reyes_gel?refer=embed"
+              >
+                @reyes_gel
+              </a>{" "}
+              You better try SATISFRY on your fried chicken it so delicious even
+              your kids will love it for sure☺️ @ALCL Marketing, OPC @mhacel🧿{" "}
+              <a
+                target="_blank"
+                title="♬ suara asli - 마마 셀라❤️ - 마마 셀라❤️:𝐌𝐚𝐦_𝐒𝐞𝐥𝐥"
+                href="https://www.tiktok.com/music/suara-asli-마마-셀라❤️-7437675019053976336?refer=embed"
+              >
+                ♬ suara asli - 마마 셀라❤️ - 마마 셀라❤️:𝐌𝐚𝐦_𝐒𝐞𝐥𝐥
+              </a>{" "}
+            </section>{" "}
+          </blockquote>{" "}
+          <LinkOverlay src="https://www.tiktok.com/@reyes_gel/video/7611860819466390805" />
+        </div>
       </Slider>
     </InfluencerContainer>
   );

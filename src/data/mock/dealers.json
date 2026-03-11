@@ -195,13 +195,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23808+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
   },
   {
-    "name": "Seeds & Spices Trading",
-    "region": "Manila",
-    "address": "828 Elcano St., Binondo, Manila, MM",
-    "phoneNumbers": ["0915-6102840"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23828+Elcano+St.%2C+Binondo%2C+Manila%2C+MM"
-  },
-  {
     "name": "Go Kim Commercial",
     "region": "Manila",
     "address": "834 Elcano St., Binondo, Manila, MM",
@@ -482,6 +475,13 @@
     "phoneNumbers": ["0917-8075566", "0998-9798196"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2331-J+T.S.+Evalle+Drive%2C+Evamin+Homes%2C+Kaligayahan%2C+Novaliches%2C+Quezon+City%2C+MM"
   },
+  {
+    "name": "Baking & Home Depot",
+    "region": "Quezon City",
+    "address": "TSL Bldg., #59 E. Rodriguez Sr. Ave., Brgy. Josefa, Quezon City, MM",
+    "phoneNumbers": ["0915-5869347", "0917-9402288", "0917-8909997", "0933-8697082", "0936-3107356"],
+    "mapsLink": "https://www.google.com/maps/place/TSL+Building/@14.6184888,121.0057362,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b617bb9b5023:0x5a96d70777766a8a!8m2!3d14.6184888!4d121.0083111!16s%2Fg%2F11bzv5lbm2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Royal Dragon Marketing",
@@ -618,7 +618,7 @@
   },
 
   {
-    "name": "Balubaran Enterprises",
+    "name": "EBC Marketing Corporation",
     "region": "Bulacan",
     "address": "C12 Jolly Industrial Park, Plaridel Bypass Access Rd., Parulan, Plaridel, Bulacan",
     "phoneNumbers": ["0917-8916800", "0933-8550317"],
@@ -787,13 +787,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zone+B%2C+%2343+4Lanes+Plaza%2C+Brgy.+Gen.+Malvar%2C+Santiago+City%2C+Isabela"
   },
 
-  {
-    "name": "Coffee R Us Enterprise",
-    "region": "Cavite",
-    "address": "Block 6, Lot 11, Greenplace Homes 2, Malagasang, Imus, Cavite",
-    "phoneNumbers": ["0947-8906954", "0917-1208412", "0956-1289732"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Block+6%2C+Lot+11%2C+Greenplace+Homes+2%2C+Malagasang%2C+Imus%2C+Cavite"
-  },
   {
     "name": "Devan General Merchandise & Milktea Supply",
     "region": "Cavite",
@@ -1545,6 +1538,13 @@
     "address": "G/F Yubengco Starmall, MCLL Highway, Putik, Zamboanga City, Zamboanga Del Sur",
     "phoneNumbers": ["0917-7045644"],
     "mapsLink": "https://www.google.com/maps/place/Yubenco+Starmall+Fine+Square/@6.9353153,122.0916754,19z/data=!4m6!3m5!1s0x325043e48015d8cb:0x19c6b2dd5b00eebc!8m2!3d6.9353146!4d122.0921776!16s%2Fg%2F11n919w86w?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Mindpro Supermarket",
+    "region": "Zamboanga Del Sur",
+    "address": "SM City Zamboanga, Gov. Camino Ave., Zamboanga City, Zamboanga Del Sur",
+    "phoneNumbers": ["062-3087196", "0955-4082057"],
+    "mapsLink": "https://www.google.com/maps/place/SM+City+Zamboanga/@6.9182535,122.0735902,17z/data=!3m1!4b1!4m6!3m5!1s0x32504100197513c1:0x138a7bf05e0f9350!8m2!3d6.9182535!4d122.0761651!16s%2Fg%2F11mlbgxmdj?authuser=0&entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {
