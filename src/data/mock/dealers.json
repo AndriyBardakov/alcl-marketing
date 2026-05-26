@@ -405,7 +405,7 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2381+Orosco+St.%2C+Quiapo%2C+Manila%2C+MM"
   },
   {
-    "name": "Mga Sangkap At Iba Pa",
+    "name": "Culinary Essentials & Beyond Corporation",
     "region": "Manila",
     "address": "78 Orozco St., Quiapo, Manila, MM",
     "phoneNumbers": ["0917-8048993"],
@@ -482,6 +482,20 @@
     "phoneNumbers": ["0915-5869347", "0917-9402288", "0917-8909997", "0933-8697082", "0936-3107356"],
     "mapsLink": "https://www.google.com/maps/place/TSL+Building/@14.6184888,121.0057362,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b617bb9b5023:0x5a96d70777766a8a!8m2!3d14.6184888!4d121.0083111!16s%2Fg%2F11bzv5lbm2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Premium Blends, OPC",
+    "region": "Quezon City",
+    "address": "#34 Broadway Ave., Brgy. Mariana, Quezon City, MM",
+    "phoneNumbers": ["0917-1691006"],
+    "mapsLink": "https://www.google.com/maps/place/34+Broadway+Ave,+Mariana,+4th+District,+Quezon+City,+1112+Metro+Manila,+Philippines/@14.6162698,121.027877,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b63254e14265:0x97725b1b4325df36!8m2!3d14.6162698!4d121.0304519!16s%2Fg%2F11g0h213cb?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Timothydragon Milktea Supplies Trading",
+    "region": "Quezon City",
+    "address": "#6 Leland Drive, Brgy. Balon Bato, Quezon City, MM",
+    "phoneNumbers": ["0977-8235169"],
+    "mapsLink": "https://www.google.com/maps/search/%236+Leland+Drive,+Brgy.+Balon+Bato,+Quezon+City,+MM/@14.6655915,121.0020818,17z/data=!3m1!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Royal Dragon Marketing",
@@ -512,13 +526,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23273+McArthur+Highway%2C+Karuhatan%2C+Valenzuela+City%2C+MM"
   },
   {
-    "name": "Premium Blends, OPC",
-    "region": "San Juan",
-    "address": "Unit 108, G/F Wilson Promenade Building, 198 Wilson St., Addition Hills, San Juan, MM",
-    "phoneNumbers": ["0917-1691006"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Unit+108%2C+G%2FF+Wilson+Promenade+Building%2C+%23198+Wilson+St.%2C+Addition+Hills%2C+San+Juan%2C+MM"
-  },
-  {
     "name": "Trader Son Marketing Co.",
     "region": "Caloocan",
     "address": "55 Caimito Rd. cor. Dagohoy St., Brgy. 77, Caloocan City, MM",
@@ -546,6 +553,14 @@
     "phoneNumbers": ["0936-2004890"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23349+Rizal+Ave.+Ext.%2C+West+Grace+Park%2C+Brgy.+62%2C+Caloocan+City%2C+MM"
   },
+  {
+    "name": "Frozen Foodgasm",
+    "region": "Caloocan",
+    "address": "Lot 333 Block 1, Phase 3, Tanigue cor. Pampano St., Dagat-Dagatan, Caloocan City",
+    "phoneNumbers": ["0945-8495511"],
+    "mapsLink": "https://www.google.com/maps/search/Lot+333+Block+1,+Phase+3,+Tanigue+cor.+Pampano+St.,+Dagat-Dagatan,+Caloocan+City/@14.7013279,120.9585625,13z/data=!3m1!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+
   {
     "name": "Gold Label Resources, Inc.",
     "region": "Malabon",
@@ -786,6 +801,13 @@
     "phoneNumbers": ["0917-4865822"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Zone+B%2C+%2343+4Lanes+Plaza%2C+Brgy.+Gen.+Malvar%2C+Santiago+City%2C+Isabela"
   },
+  {
+    "name": "Junior's Variety Shop",
+    "region": "Isabela",
+    "address": "Salas Bldg., Public Market, Brgy. San Pedro, Tamauini, Isabela",
+    "phoneNumbers": ["0915-1333136", "0936-8387601"],
+    "mapsLink": "https://www.google.com/maps/search/Salas+Bldg.,+Public+Market,+Brgy.+San+Pedro,+Tamauini,+Isabela/@17.2844599,121.8104279,15z/data=!3m1!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Devan General Merchandise & Milktea Supply",
@@ -896,6 +918,20 @@
     "address": "G/F Trader's Square Bldg., P. Burgos St., Sta. Cruz, Naga City, Camarines Sur",
     "phoneNumbers": ["0923-4033925"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=G%2FF+Trader%27s+Square+Bldg.%2C+P.+Burgos+St.%2C+Sta.+Cruz%2C+Naga+City%2C+Camarines+Sur"
+  },
+  {
+    "name": "Bunny and Piggy Distributors",
+    "region": "Camarines Sur",
+    "address": "Stall A, CBD Plaza Hotel, Ninoy & Cory Ave., Triangulo, Central Business District, Naga City, Camarines Sur",
+    "phoneNumbers": ["0947-8937038"],
+    "mapsLink": "https://www.google.com/maps/place/CBD+Plaza+Hotel/@13.6194916,123.1861957,17z/data=!4m9!3m8!1s0x33a18cb791cafa8f:0x43e0af0466dfefaf!5m2!4m1!1i2!8m2!3d13.6194916!4d123.1887706!16s%2Fg%2F1tdnbsjz?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Cuppa B Milktea Supplies",
+    "region": "Camarines Sur",
+    "address": "Door 4, JTL Bldg., Balintawak St., Tabuco, Naga City, Camarines Sur",
+    "phoneNumbers": ["0998-7565415"],
+    "mapsLink": "https://www.google.com/maps/search/Door+4,+JTL+Bldg.,+Balintawak+St.,+Tabuco,+Naga+City,+Camarines+Sur/@13.620671,123.1833576,17z/data=!3m1!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {
@@ -1546,6 +1582,13 @@
     "phoneNumbers": ["062-3087196", "0955-4082057"],
     "mapsLink": "https://www.google.com/maps/place/SM+City+Zamboanga/@6.9182535,122.0735902,17z/data=!3m1!4b1!4m6!3m5!1s0x32504100197513c1:0x138a7bf05e0f9350!8m2!3d6.9182535!4d122.0761651!16s%2Fg%2F11mlbgxmdj?authuser=0&entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Mindpro Supermarket",
+    "region": "Zamboanga Del Sur",
+    "address": "SM City Zamboanga, Gov. Camino Ave., Zamboanga City, Zamboanga Del Sur",
+    "phoneNumbers": ["062-3087196", "0955-4082057"],
+    "mapsLink": "https://www.google.com/maps/place/SM+City+Zamboanga/@6.9182535,122.0735902,17z/data=!3m1!4b1!4m6!3m5!1s0x32504100197513c1:0x138a7bf05e0f9350!8m2!3d6.9182535!4d122.0761651!16s%2Fg%2F11mlbgxmdj?authuser=0&entry=ttu&g_ep=EgoyMDI2MDMwOS4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Leila's Enterprises",
@@ -1560,5 +1603,20 @@
     "address": "Dumrog, Pandan, Antique",
     "phoneNumbers": ["0917-7824646"],
     "mapsLink": "https://www.google.com/maps/place/Dumrog,+Pandan,+Antique,+Philippines/@11.7002652,122.1088436,15z/data=!3m1!4b1!4m6!3m5!1s0x33a56f7aa048fb51:0xfb122ea8454b3a46!8m2!3d11.6991237!4d122.1093067!16s%2Fg%2F11fyx9x_mv?authuser=0&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D"
+  },
+
+  {
+    "name": "En-Soy Baking Supples Shop",
+    "region": "Surigao Del Sur",
+    "address": "F. Clar St., Mangagoy, Bislig City, Surigao Del Sur",
+    "phoneNumbers": ["0907-7341944", "0977-2117411"],
+    "mapsLink": "https://www.google.com/maps/place/F+Clar+St,+Mangagoy,+City+Of+Bislig,+Surigao+del+Sur,+Philippines/@8.1866008,126.3524009,17z/data=!3m1!4b1!4m6!3m5!1s0x32fdbbd4858d4887:0x76546aa93f572c94!8m2!3d8.1866008!4d126.3549758!16s%2Fg%2F11b6bqh3xp?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Carlyn Store",
+    "region": "Capiz",
+    "address": "DG-24B Teodoro Arcenas Trade Center, Poblacion VIII, Roxas City, Capiz",
+    "phoneNumbers": ["0916-5874802"],
+    "mapsLink": "https://www.google.com/maps/place/Teodoro+Arcenas+Trade+Center/@11.5803125,122.7527376,17z/data=!3m1!4b1!4m6!3m5!1s0x33a5f2fa7bb04ac1:0x538d257a264d3013!8m2!3d11.5803125!4d122.7553125!16s%2Fg%2F1tmqcrks?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   }
 ]
