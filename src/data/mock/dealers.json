@@ -943,14 +943,6 @@
   },
 
   {
-    "name": "Lars Marketing",
-    "region": "Occidental Mindoro",
-    "address": "0461 Rajah Soliman St., Poblacion 4, San Jose, Occidental Mindoro=",
-    "phoneNumbers": ["0915-5046452"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%230461+Rajah+Soliman+St.%2C+Poblacion+4%2C+San+Jose%2C+Occidental+Mindoro%3D"
-  },
-
-  {
     "name": "Chefs & Bakers Master Franchise Corporation",
     "region": "Negros Occidental",
     "address": "Chefs and Bakers Bldg., 13th Lacson-Aguinaldo St., Brgy. 4, Bacolod City, Negros Occidental",
@@ -1565,7 +1557,7 @@
     "name": "SuperV Grocer Hub",
     "region": "Zamboanga Del Sur",
     "address": "Pulmones St., Sta. Lucia, Pagadian City, Zamboanga Del Sur",
-    "phoneNumbers": ["0909-2782882", "0912-1644208", "0935-0288993"],
+    "phoneNumbers": ["0909-2782882", "0912-1644208"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Pulmones+St.%2C+Sta.+Lucia%2C+Pagadian+City%2C+Zamboanga+Del+Sur"
   },
   {
