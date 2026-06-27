@@ -126,7 +126,7 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23404+M.+De+Santos+St.%2C+Binondo%2C+Manila%2C+MM"
   },
   {
-    "name": "Augoco Marketing",
+    "name": "LeafGold Agri Trading",
     "region": "Manila",
     "address": "411 M. De Santos St., Binondo, Manila, MM",
     "phoneNumbers": ["0917-7135888"],
@@ -447,7 +447,7 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=12%2FF+Fuhong+Commercial+Bldg.%2C+%231394+Perez+St.%2C+Paco%2C+Manila%2C+MM"
   },
   {
-    "name": "Philip Estanislao Trading",
+    "name": "Estanislao Trading",
     "region": "Manila",
     "address": "817 Sto. Cristo St., Binondo, Manila, MM",
     "phoneNumbers": ["0956-7764933"],
@@ -984,6 +984,13 @@
     "phoneNumbers": ["88525-2241", "0927-5157586", "0917-1442034"],
     "mapsLink": "https://www.google.com/maps/place/San+Sebastian,+cor+Araneta+Ave,+Bacolod,+6100+Negros+Occidental,+Philippines/@10.6661132,122.9419428,17z/data=!3m1!4b1!4m6!3m5!1s0x33aed1b4b9ef5acd:0xf11d05bcf5eed400!8m2!3d10.6661132!4d122.9445177!16s%2Fg%2F11q2nj8fb6?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Food Sun Spices Trading",
+    "region": "Negros Occidental",
+    "address": "Door #2 Quendy's Bldg., Amelia Ave., Libertad, Bacolod City, Negros Occidental",
+    "phoneNumbers": ["034-4311080", "0917-7713364"],
+    "mapsLink": "https://www.google.com/maps/place/Amelia+Ave,+Barangay+40,+Bacolod,+6100+Negros+Occidental,+Philippines/@10.658797,122.9471477,17z/data=!3m1!4b1!4m6!3m5!1s0x33aed1c97c1585f1:0xffc036b4dfe964f4!8m2!3d10.658797!4d122.9497226!16s%2Fg%2F119vqwxtf?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+  },
 
   {
     "name": "Lee Super Plaza",
@@ -1169,13 +1176,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=P8+Union%2C+Poblacion%2C+Dauis%2C+Bohol"
   },
   {
-    "name": "Boylinda Store",
-    "region": "Bohol",
-    "address": "Block 4 Circumferential Bldg., Ubay Public Market, Poblacion, Ubay, Bohol",
-    "phoneNumbers": ["0985-9068060"],
-    "mapsLink": "https://www.google.com/maps/place/Ubay+Public+Market+Building/@10.0588717,124.4694127,17z/data=!4m6!3m5!1s0x33a9fe6724d885e1:0xc1a02a7907048b61!8m2!3d10.0590262!4d124.4721365!16s%2Fg%2F1thvq6r7?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D"
-  },
-  {
     "name": "L'L Frozen Food Trading",
     "region": "Bukidnon",
     "address": "Zone 2, Airport Village, Landing, Casisang, Malaybalay City, Bukidnon",
@@ -1318,13 +1318,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2354-D+Rosales+St.%2C+San+Ignacio%2C+Butuan+City%2C+Agusan+Del+Norte"
   },
   {
-    "name": "Wing-On Buenavista",
-    "region": "Agusan Del Norte",
-    "address": "National Highway cor. Cagampang St., Poblacion 3, Buenavista, Agusan Del Norte",
-    "phoneNumbers": ["0949-8841434"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=National+Highway+cor.+Cagampang+St.%2C+Poblacion+3%2C+Buenavista%2C+Agusan+Del+Norte"
-  },
-  {
     "name": "Companero Commercial",
     "region": "Agusan Del Norte",
     "address": "Lopez Jaena St., Brgy. Humabon, Butuan City, Agusan Del Norte",
@@ -1447,6 +1440,14 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lim+Bldg.%2C+Roxas+Ext.%2C+Zone+2%2C+Digos+City%2C+Davao+Del+Sur"
   },
   {
+    "name": "Cyme Mini Grocery",
+    "region": "Davao",
+    "address": "Dupa Bldg., Quezon St., Baywalk, Brgy. Central, Mati, Davao Oriental",
+    "phoneNumbers": ["0921-3060207"],
+    "mapsLink": "https://www.google.com/maps/place/Dupa+Hardware/@6.9562448,126.2055917,17z/data=!3m1!4b1!4m6!3m5!1s0x32fbc912142e54a3:0x840e2c877ded24d6!8m2!3d6.9562448!4d126.2081666!16s%2Fg%2F11gzkqlft?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D"
+  },
+
+  {
     "name": "Tacurong General Merchandise and Panay Repacking",
     "region": "Sultan Kudarat",
     "address": "14 Bonifacio St., Tacurong City, Sultan Kudarat",
@@ -1511,13 +1512,6 @@
   },
 
   {
-    "name": "Arclem Frozen Products Trading",
-    "region": "Zamboanga Del Norte",
-    "address": "Villa Sta. Rosa, Turno, Dipolog City, Zamboanga Del Norte",
-    "phoneNumbers": ["0926-4033212", "0910-3066887"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Villa+Sta.+Rosa%2C+Turno%2C+Dipolog+City%2C+Zamboanga+Del+Norte"
-  },
-  {
     "name": "Baking Ounces Bakery Supplies Trading",
     "region": "Zamboanga Del Norte",
     "address": "285 Gen. Luna cor. Magsaysay Sts., Dipolog City, Zamboanga Del Norte",
@@ -1532,13 +1526,6 @@
     "mapsLink": "https://www.google.com/maps/place/Magsaysay+St,+Dipolog+City,+Zamboanga+del+Norte,+Philippines/@8.5823808,123.3343337,17z/data=!3m1!4b1!4m6!3m5!1s0x3254960dfec94117:0x1b69f7f3f1045eb1!8m2!3d8.5823755!4d123.3369086!16s%2Fg%2F1tfrd8t7?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"
   },
 
-  {
-    "name": "DKD Marketing",
-    "region": "Zamboanga Del Sur",
-    "address": "A. Lim Bldg., Alejo Alvarez St. cor. San Jose Rd., Zamboanga City, Zamboanga Del Sur",
-    "phoneNumbers": ["0917-6328884", "0917-7779884"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=A.+Lim+Bldg.%2C+Alejo+Alvarez+St.+cor.+San+Jose+Rd.%2C+Zamboanga+City%2C+Zamboanga+Del+Sur"
-  },
   {
     "name": "JA&C Food Store",
     "region": "Zamboanga Del Sur",
