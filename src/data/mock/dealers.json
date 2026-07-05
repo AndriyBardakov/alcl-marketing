@@ -788,13 +788,6 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Gate+3%2C+Old+Public+Market%2C+Santiago+City%2C+Isabela"
   },
   {
-    "name": "Son Miguel Supermart",
-    "region": "Isabela",
-    "address": "Magsaysay Ave., Victory Norte, Santiago City, Isabela",
-    "phoneNumbers": ["0936-4952699", "0917-8772810"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Magsaysay+Ave.%2C+Victory+Norte%2C+Santiago+City%2C+Isabela"
-  },
-  {
     "name": "CKA Food and Refreshment Hub",
     "region": "Isabela",
     "address": "Zone B, 43 4Lanes Plaza, Brgy. Gen. Malvar, Santiago City, Isabela",
@@ -831,11 +824,11 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=National+Highway%2C+Parian%2C+Calamba%2C+Laguna"
   },
   {
-    "name": "Tomasing Marketing",
-    "region": "Laguna",
-    "address": "Blk. 7, Lot 8-9, JB Village 2, Balibago, Sta. Rosa, Laguna",
+    "name": "Rolando's All Pang Negosyo",
+    "region": "Batangas",
+    "address": "#1960 Tolentino Rd., Kumintang Ibaba, Batangas City, Batangas",
     "phoneNumbers": ["0919-0958180"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Blk.+7%2C+Lot+8-9%2C+JB+Village+2%2C+Balibago%2C+Sta.+Rosa%2C+Laguna"
+    "mapsLink": "https://www.google.com/maps/place/1960+Tolentino+Rd,+Batangas+City,+4200+Batangas,+Philippines/@13.7696056,121.0627247,17z/data=!3m1!4b1!4m6!3m5!1s0x33bd05599f185273:0xabd3bd101e6c83f4!8m2!3d13.7696056!4d121.0652996!16s%2Fg%2F11g4hlqz27?authuser=0&entry=ttu&g_ep=EgoyMDI2MDYyOS4wIKXMDSoASAFQAw%3D%3D"
   },
 
   {
@@ -969,13 +962,6 @@
     "address": "Door 3-4 ACFC Bldg., Libertad St., Brgy. 33, Bacolod City, Negros Occidental",
     "phoneNumbers": ["0995-4584318"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Door+%233-4+ACFC+Bldg.%2C+Libertad+St.%2C+Brgy.+33%2C+Bacolod+City%2C+Negros+Occidental"
-  },
-  {
-    "name": "Negrense Baking & Chocolate Hub",
-    "region": "Negros Occidental",
-    "address": "Marivic Bldg., Yunque cor. Rizal Sts., La Carlota City, Negros Occidental",
-    "phoneNumbers": ["0917-1207986", "0945-7649179"],
-    "mapsLink": "https://www.google.com/maps/place/Rizal+Street,+La+Carlota+City,+Negros+Occidental,+Philippines/@10.4250196,122.9204517,18z/data=!3m1!4b1!4m6!3m5!1s0x33aeb7475bca9c27:0xf6aa604e878e249d!8m2!3d10.425017!4d122.9217392!16s%2Fg%2F1tf67lkb?authuser=0&entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"
   },
   {
     "name": "Lopue's Supermarket",
@@ -1502,13 +1488,6 @@
     "address": "Dalican, Poblacion, Datu Odin Sinsuat, Maguindanao Del Norte",
     "phoneNumbers": ["0917-1625886"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dalican%2C+Poblacion%2C+Datu+Odin+Sinsuat%2C+Maguindanao+Del+Norte"
-  },
-  {
-    "name": "NJ Linos Food, OPC",
-    "region": "Maguindanao Del Norte",
-    "address": "202 Puretan Bldg., Sinsuat Ave., Rosary Heights, Cotabato City, Maguindanao Del Norte",
-    "phoneNumbers": ["0917-7237208"],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%23202+Puretan+Bldg.%2C+Sinsuat+Ave.%2C+Rosary+Heights%2C+Cotabato+City%2C+Maguindanao+Del+Norte"
   },
 
   {
