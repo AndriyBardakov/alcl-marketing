@@ -455,20 +455,6 @@
   },
 
   {
-    "name": "Wilvin Go Store",
-    "region": "Quezon City",
-    "address": "5 Austria St., LVT Arcade Building, Novaliches Proper, Novaliches, Quezon City, MM",
-    "phoneNumbers": [
-      "0923-4012293",
-      "0923-9303501",
-      "0985-7951491",
-      "0968-5324687",
-      "0976-3635152",
-      "0932-2075709"
-    ],
-    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%235+Austria+St.%2C+LVT+Arcade+Building%2C+Novaliches+Proper%2C+Novaliches%2C+Quezon+City%2C+MM"
-  },
-  {
     "name": "Nympha Enterprises",
     "region": "Quezon City",
     "address": "31-J T.S. Evalle Drive, Evamin Homes, Kaligayahan, Novaliches, Quezon City, MM",
@@ -560,6 +546,20 @@
     "phoneNumbers": ["0945-8495511"],
     "mapsLink": "https://www.google.com/maps/search/Lot+333+Block+1,+Phase+3,+Tanigue+cor.+Pampano+St.,+Dagat-Dagatan,+Caloocan+City/@14.7013279,120.9585625,13z/data=!3m1!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Catsan Marketing",
+    "region": "Caloocan",
+    "address": "T. F Gonzales St., BF Homes Phase 1, Brgy. 169, Caloocan City, MM",
+    "phoneNumbers": [
+      "0923-4012293",
+      "0923-9303501",
+      "0985-7951491",
+      "0968-5324687",
+      "0976-3635152",
+      "0932-2075709"
+    ],
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=T.+F+Gonzales+St.%2C+BF+Homes+Phase+1%2C+Brgy.+169%2C+Caloocan+City%2C+MM"
+  },
 
   {
     "name": "Gold Label Resources, Inc.",
@@ -576,14 +576,6 @@
     "mapsLink": "https://www.google.com/maps/place/Gumamela+St,+Malabon,+Metro+Manila,+Philippines/@14.6585583,120.9557525,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b44ce58d001b:0x1b863757ed4c9deb!8m2!3d14.6585531!4d120.9583274!16s%2Fg%2F11l260qj1y?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAxNC4wIKXMDSoASAFQAw%3D%3D"
   },
   {
-    "name": "Thootea Milktea Supplies Trading",
-    "region": "Malabon",
-    "address": "141 Crispin St., Tinajeros, Malabon City, Malabon, MM",
-    "phoneNumbers": ["0926-4294673"],
-    "mapsLink": "https://www.google.com/maps/place/141+Crispin+St,+Malabon,+1476+Metro+Manila,+Philippines/@14.6707814,120.9665927,17z/data=!3m1!4b1!4m6!3m5!1s0x3397b43e950800e5:0xbda4e002124d70b0!8m2!3d14.6707814!4d120.9691676!16s%2Fg%2F11xvcyblf1?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
-  },
-
-  {
     "name": "Restaurant Depot",
     "region": "Pasay",
     "address": "2738 F. B. Harrison St., Brgy. 075, Pasay City, MM",
@@ -591,11 +583,11 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=%232738+F.+B.+Harrison+St.%2C+Brgy.+075%2C+Pasay+City%2C+MM"
   },
   {
-    "name": "Jasmel's General Merchandise",
+    "name": "JAMB's Flour & Bakery Supplies Co.",
     "region": "Taguig City",
-    "address": "#94 Espino St., Zone 4, Signal Village, Taguig City, MM",
+    "address": "#55 Col. Bravo St., Zone 4, Signal Village, Taguig City, MM",
     "phoneNumbers": ["0917-8356948"],
-    "mapsLink": "https://www.google.com/maps/place/Zone+4,+94+General+Espino+St,+St+Zone+5,+Taguig,+1633+Metro+Manila,+Philippines/@14.5094717,121.0488402,17z/data=!3m1!4b1!4m9!1m2!2m1!1s94+Espino+St.,+Zone+4,+Signal+Village,+Taguig+City,+MM!3m5!1s0x3397cf37aacfe243:0xb55831d14d756176!8m2!3d14.5094666!4d121.0537111!15sCjY5NCBFc3Bpbm8gU3QuLCBab25lIDQsIFNpZ25hbCBWaWxsYWdlLCBUYWd1aWcgQ2l0eSwgTU2SARBjb21wb3VuZF9zZWN0aW9u4AEA?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=%2355+Col.+Bravo+St.%2C+Zone+4%2C+Signal+Village%2C+Taguig+City%2C+MM"
   },
   {
     "name": "Joan and Jasmine Food Products",
@@ -736,6 +728,14 @@
   },
 
   {
+    "name": "Nac's Corner Variety Store",
+    "region": "Ilocos Norte",
+    "address": "M. H. Del Pilar St., Brgy. 28, San Bernardo, Laoag City, Ilocos Norte",
+    "phoneNumbers": ["0926-0763093"],
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=M.+H.+Del+Pilar+St.%2C+Brgy.+28%2C+San+Bernardo%2C+Laoag+City%2C+Ilocos+Norte"
+  },
+
+  {
     "name": "Deimacoy General Merchandise",
     "region": "Ilocos Sur",
     "address": "Vacunero, Sto. Domingo, Ilocos Sur",
@@ -778,6 +778,13 @@
     "phoneNumbers": ["0966-4951536", "0917-5778835", "0917-1785750"],
     "mapsLink": "https://www.google.com/maps/place/Taft+St+%26+Gomez+St,+Centro+3,+Tuguegarao+City,+Cagayan,+Philippines/@17.6141635,121.723724,17z/data=!3m1!4b1!4m6!3m5!1s0x3385842c13fc9c19:0x973d3823a4f62915!8m2!3d17.6141635!4d121.7262989!16s%2Fg%2F11gdt17p99?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Thootea Milktea Supplies Trading",
+    "region": "Cagayan",
+    "address": "Craddock Bldg., San Gabriel, Tuguegarao City, Cagayan",
+    "phoneNumbers": ["0926-4294673"],
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Craddock+Bldg.%2C+San+Gabriel%2C+Tuguegarao+City%2C+Cagayan"
+  },
 
 
   {
@@ -800,6 +807,14 @@
     "address": "Salas Bldg., Public Market, Brgy. San Pedro, Tamauini, Isabela",
     "phoneNumbers": ["0915-1333136", "0936-8387601"],
     "mapsLink": "https://www.google.com/maps/search/Salas+Bldg.,+Public+Market,+Brgy.+San+Pedro,+Tamauini,+Isabela/@17.2844599,121.8104279,15z/data=!3m1!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+
+  {
+    "name": "Son Miguel Supermart",
+    "region": "Nueva Vizcaya",
+    "address": "Maharlika Highway, Solano, Nueva Vizcaya",
+    "phoneNumbers": ["0936-4952699", "0917-8772810", "0933-8789364", "0933-8555397"],
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Maharlika+Highway%2C+Solano%2C+Nueva+Vizcaya"
   },
 
   {
@@ -957,7 +972,7 @@
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=VL+Yap+cor.+Araneta+Sts.%2C+Singcang%2C+Bacolod+City%2C+Negros+Accidental"
   },
   {
-    "name": "Yoomi Spices Trading",
+    "name": "Yoomi Grocery Products Trading",
     "region": "Negros Occidental",
     "address": "Door 3-4 ACFC Bldg., Libertad St., Brgy. 33, Bacolod City, Negros Occidental",
     "phoneNumbers": ["0995-4584318"],
@@ -1317,6 +1332,13 @@
     "phoneNumbers": ["0908-8948285"],
     "mapsLink": "https://www.google.com/maps/place/Sandros+Bed+and+Breakfast/@8.944675,125.5321451,17z/data=!3m1!4b1!4m6!3m5!1s0x3301c04f89f01295:0xb4034c345c6ceacf!8m2!3d8.944675!4d125.53472!16s%2Fg%2F1tfwmh0s?authuser=0&entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D"
   },
+  {
+    "name": "Paladin Marketing, Inc.",
+    "region": "Agusan Del Norte",
+    "address": "Km. 3, J. C. Aquino Ave., Brgy. Libertad, Butuan City, Agusan Del Norte",
+    "phoneNumbers": ["0966-7513279"],
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Km.+3%2C+J.+C.+Aquino+Ave.%2C+Brgy.+Libertad%2C+Butuan+City%2C+Agusan+Del+Norte"
+  },
 
   {
     "name": "Absolute Essentials Traders, Inc.",
@@ -1424,6 +1446,13 @@
     "address": "Lim Bldg., Roxas Ext., Zone 2, Digos City, Davao Del Sur",
     "phoneNumbers": ["0920-3378903"],
     "mapsLink": "https://www.google.com/maps/search/?api=1&query=Lim+Bldg.%2C+Roxas+Ext.%2C+Zone+2%2C+Digos+City%2C+Davao+Del+Sur"
+  },
+  {
+    "name": "Magic 3R Corporation",
+    "region": "Davao",
+    "address": "Magsaysay St., Brgy. San Miguel, Digos City, Davao Del Sur",
+    "phoneNumbers": ["0985-5027431"],
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Magsaysay+St.%2C+Brgy.+San+Miguel%2C+Digos+City%2C+Davao+Del+Sur"
   },
   {
     "name": "Cyme Mini Grocery",
@@ -1562,6 +1591,13 @@
     "address": "F. Clar St., Mangagoy, Bislig City, Surigao Del Sur",
     "phoneNumbers": ["0907-7341944", "0977-2117411"],
     "mapsLink": "https://www.google.com/maps/place/F+Clar+St,+Mangagoy,+City+Of+Bislig,+Surigao+del+Sur,+Philippines/@8.1866008,126.3524009,17z/data=!3m1!4b1!4m6!3m5!1s0x32fdbbd4858d4887:0x76546aa93f572c94!8m2!3d8.1866008!4d126.3549758!16s%2Fg%2F11b6bqh3xp?authuser=0&entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
+  },
+  {
+    "name": "Marianing Superstore",
+    "region": "Aklan",
+    "address": "Dr. Gonzales cor. Pastrana Sts., Poblacion, Kalibo, Aklan",
+    "phoneNumbers": ["0918-9275041"],
+    "mapsLink": "https://www.google.com/maps/search/?api=1&query=Dr.+Gonzales+cor.+Pastrana+Sts.%2C+Poblacion%2C+Kalibo%2C+Aklan"
   },
   {
     "name": "Carlyn Store",
